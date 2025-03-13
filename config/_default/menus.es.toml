@@ -2,32 +2,32 @@
 none = "none"
 
 [[main]]
-name = "Novas"
-pageRef = "novas"
+name = "Noticias"
+pageRef = "es/noticias"
 identifier = "AfESnkD6rW"
 weight = 1
 
 [[main]]
-name = "Proxectos"
-pageRef = "proxectos"
+name = "Proyectos"
+pageRef = "es/proyectos"
 weight = 2
 
 [[main]]
 name = "Sementeira"
-parent = "Proxectos"
+parent = "Proyectos"
 url = "https://cv.usc.es/course/view.php?id=54843"
 weight = 2
 
 [[main]]
 name = "MáisMates"
-parent = "Proxectos"
+parent = "Proyectos"
 url = "https://www.usc.gal/gl/centro/facultade-matematicas/revista-estudiantil-mates"
 weight = 2
 
 [[main]]
 name = "Aurias"
-parent = "Proxectos"
-pageRef = "aurias"
+parent = "Proyectos"
+pageRef = "es/aurias"
 weight = 2
 
 [[subnavigation]]

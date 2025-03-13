@@ -20,15 +20,15 @@ showAppearanceSwitcher = true
 showScrollToTop = true
 
 [homepage]
-layout = "card"
+layout = "background"
 showRecent = false
 showRecentItems = 5
 showMoreLink = false
 showMoreLinkDest = "/posts/"
 cardView = false
 cardViewScreenWidth = false
-layoutBackgroundBlur = false
-homepageImage = "facultade.jpg"
+layoutBackgroundBlur = true
+homepageImage = "fac.jpg"
 
 [article]
 showDate = true
@@ -36,11 +36,11 @@ showViews = false
 showLikes = false
 showDateOnlyInArticle = false
 showDateUpdated = false
-showAuthor = true
+showAuthor = false
 showHero = false
 layoutBackgroundBlur = true
 layoutBackgroundHeaderSpace = true
-showBreadcrumbs = false
+showBreadcrumbs = true
 showDraftLabel = true
 showEdit = false
 editAppendPath = true
@@ -48,28 +48,32 @@ seriesOpened = false
 showHeadingAnchors = true
 showPagination = true
 invertPagination = false
-showReadingTime = true
-showTableOfContents = false
-showTaxonomies = false
+showReadingTime = false
+showTableOfContents = true
+showTaxonomies = true
 showAuthorsBadges = false
 showWordCount = true
-showZenMode = false
+showZenMode = true
+heroStyle = "big"
+showRelatedContent = true
+relatedContentLimit = "3"
 
 [list]
-showHero = false
+showHero = "show"
 layoutBackgroundBlur = true
-layoutBackgroundHeaderSpace = true
+layoutBackgroundHeaderSpace = false
 showBreadcrumbs = false
-showSummary = false
+showSummary = "show"
 showViews = false
 showLikes = false
-showTableOfContents = false
-showCards = false
+showTableOfContents = "hide"
+showCards = "card"
 orderByWeight = false
-groupByYear = true
-cardView = false
+groupByYear = false
+cardView = true
 cardViewScreenWidth = false
-constrainItemsWidth = false
+constrainItemsWidth = true
+heroStyle = "big"
 
 [sitemap]
 excludedKinds = [ "taxonomy", "term" ]

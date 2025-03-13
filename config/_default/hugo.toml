@@ -4,7 +4,36 @@
 
 theme = "blowfish" # UNCOMMENT THIS LINE
 # baseURL = "https://your_domain.com/"
-defaultContentLanguage = "es"
+defaultContentLanguage = "gl"
+
+[languages]
+  [languages.gl]
+    languageName = "Galego"
+    weight = 1
+    contentDir = "content/gl"
+
+  [languages.es]
+    languageName = "Español"
+    weight = 2
+    contentDir = "content/es"
+
+[menu]
+
+  [[menu.main]]
+    identifier = "home"
+    name = "Inicio"
+    url = "/gl/"
+    weight = 1
+
+  [[languages.gl.menu.main]]
+    identifier = "home"
+    name = "Inicio"
+    url = "/es/"
+    weight = 1
+
+[params]
+  background = "waves"  # You can choose "waves", "dots", or "squares" (depending on theme version)
+
 
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
 

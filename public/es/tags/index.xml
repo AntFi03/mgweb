@@ -2,12 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on MaEGA</title>
-    <link>//localhost:43901/es/tags/</link>
+    <link>//localhost:1313/es/tags/</link>
     <description>Recent content in Tags on MaEGA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>© 2025 Asociación Galega de Estudantes de Matemáticas</copyright>
-    <atom:link href="//localhost:43901/es/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 13 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/es/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Example</title>
+      <link>//localhost:1313/es/tags/example/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/es/tags/example/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Tag</title>
+      <link>//localhost:1313/es/tags/tag/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/es/tags/tag/</guid>
+      <description></description>
+      
+    </item>
     
   </channel>
 </rss>
