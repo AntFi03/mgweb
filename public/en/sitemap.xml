@@ -7,6 +7,16 @@
     <lastmod>2025-03-13T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="//localhost:43901/es/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="//localhost:43901/"
+    />
   </url>
   <url>
     <loc>//localhost:43901/proxectos/proba/</loc>

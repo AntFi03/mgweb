@@ -1,12 +1,12 @@
 disabled = false
-languageCode = "en"
-languageName = "English"
+languageCode = "es"
+languageName = "Español"
 weight = 1
 title = "MaEGA"
 
 [params]
-displayName = "EN"
-isoCode = "en"
+displayName = "ES"
+isoCode = "es"
 rtl = false
 dateFormat = "2 January 2006"
 logo = "MaEGA_logo_completo_negativo_fondo_transparente_amplo_horizontal.png"

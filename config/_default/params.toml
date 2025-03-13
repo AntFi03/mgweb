@@ -28,6 +28,7 @@ showMoreLinkDest = "/posts/"
 cardView = false
 cardViewScreenWidth = false
 layoutBackgroundBlur = false
+homepageImage = "facultade.jpg"
 
 [article]
 showDate = true
