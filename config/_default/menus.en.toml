@@ -1,69 +1,53 @@
-# -- Main Menu --
-# The main menu is displayed in the header at the top of the page.
-# Acceptable parameters are name, pageRef, page, url, title, weight.
-# 
-# The simplest menu configuration is to provide:
-#   name = The name to be displayed for this menu link
-#   pageRef = The identifier of the page or section to link to
-#
-# By default the menu is ordered alphabetically. This can be
-# overridden by providing a weight value. The menu will then be
-# ordered by weight from lowest to highest.
+[[main]]
+none = "none"
 
-#[[main]]
-#  name = "Blog"
-#  pageRef = "posts"
-#  weight = 10
+[[main]]
+name = "Novas"
+pageRef = "novas"
+identifier = "AfESnkD6rW"
+weight = 1
 
-#[[main]]
-#  name = "Parent"
-#  weight = 20
+[[main]]
+name = "Proxectos"
+pageRef = "proxectos"
+weight = 2
 
-#[[main]]
-#  name = "example sub-menu 1"
-#  parent = "Parent"
-#  pageRef = "posts"
-#  weight = 20
+[[main]]
+name = "Sementeira"
+parent = "Proxectos"
+url = "https://cv.usc.es/course/view.php?id=54843"
+weight = 2
 
-#[[main]]
-#  name = "example sub-menu 2"
-#  parent = "Parent"
-#  pageRef = "posts"
-#  weight = 20
+[[main]]
+name = "MáisMates"
+parent = "Proxectos"
+url = "https://www.usc.gal/gl/centro/facultade-matematicas/revista-estudiantil-mates"
+weight = 2
 
-#[[subnavigation]]
-#  name = "An interesting topic"
-#  pageRef = "tags/interesting-topic"
-#  weight = 10
+[[main]]
+name = "Aurias"
+parent = "Proxectos"
+pageRef = "aurias"
+weight = 2
 
-#[[subnavigation]]
-#  name = "My Awesome Category"
-#  pre = "github"
-#  pageRef = "categories/awesome"
-#  weight = 20
+[[subnavigation]]
+name = "Únete!"
+url = "https://forms.gle/yVniZyvwQZB13z7B7"
+weight = 10
 
-#[[main]]
-#  name = "Categories"
-#  pageRef = "categories"
-#  weight = 20
+[[main]]
+pre = "x-twitter"
+url = "https://x.com/maega_gal"
+identifier = "SIbcHt624n"
+weight = 4
 
-#[[main]]
-#  name = "Tags"
-#  pageRef = "tags"
-#  weight = 30
+[[main]]
+pre = "instagram"
+url = "https://instagram.com/maega.gal"
+identifier = "oOO8cS6UJ1"
+weight = 5
 
+[[footer]]
+name = "Contacto"
+url = "mailto::asociacion@maega.gal"
 
-# -- Footer Menu --
-# The footer menu is displayed at the bottom of the page, just before
-# the copyright notice. Configure as per the main menu above.
-
-
-# [[footer]]
-#   name = "Tags"
-#   pageRef = "tags"
-#   weight = 10
-
-# [[footer]]
-#   name = "Categories"
-#   pageRef = "categories"
-#   weight = 20
