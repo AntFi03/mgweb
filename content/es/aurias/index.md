@@ -11,9 +11,6 @@ cascade:
 tags: ["Proyectos", "La Asociación"]
 # showViews: true
 ---
-{{< lead >}}
-Matemáticas entre matemáticas.
-{{< /lead >}}
 
 Aurias es un programa de amadrinamiento de alumnas de educación secundaria (ESO e Bacharelato) por parte de estudiantes del grado en Matemáticas (y de los dobles grados con Infromática y Física).
 

@@ -3,7 +3,7 @@
 # https://blowfish.page/docs/getting-started/
 
 theme = "blowfish" # UNCOMMENT THIS LINE
-# baseURL = "https://your_domain.com/"
+baseURL = "https://antfi03.github.io/mgweb/"
 defaultContentLanguage = "gl"
 defaultContentLanguageInSubdir = true
 

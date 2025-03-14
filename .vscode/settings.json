@@ -3,6 +3,7 @@
         "Galego"
     ],
     "spellright.documentTypes": [
-        "latex"
+        "latex",
+        "plaintext"
     ]
 }

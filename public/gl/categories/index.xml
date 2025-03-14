@@ -2,12 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on MaEGA</title>
-    <link>//localhost:1313/gl/categories/</link>
+    <link>https://antfi03.github.io/mgweb/gl/categories/</link>
     <description>Recent content in Categories on MaEGA</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>gl</language>
-    <copyright>© 2025 Asociación Galega de Estudantes de Matemáticas</copyright>
-    <atom:link href="//localhost:1313/gl/categories/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="https://antfi03.github.io/mgweb/gl/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
