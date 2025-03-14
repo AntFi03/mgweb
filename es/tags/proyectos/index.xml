@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Proyectos on MaEGA</title>
-    <link>https://antfi03.github.io/mgweb/es/tags/proyectos/</link>
+    <link>https://maega.gal/es/tags/proyectos/</link>
     <description>Recent content in Proyectos on MaEGA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>© 2025 Asociación Galega de Estudantes de Matemáticas</copyright>
-    <atom:link href="https://antfi03.github.io/mgweb/es/tags/proyectos/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://maega.gal/es/tags/proyectos/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Aurias</title>
-      <link>https://antfi03.github.io/mgweb/es/aurias/</link>
+      <link>https://maega.gal/es/aurias/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://antfi03.github.io/mgweb/es/aurias/</guid>
+      <guid>https://maega.gal/es/aurias/</guid>
       <description>&lt;p&gt;Aurias es un programa de amadrinamiento de alumnas de educación secundaria (ESO e Bacharelato) por parte de estudiantes del grado en Matemáticas (y de los dobles grados con Infromática y Física).&lt;/p&gt;
 &lt;p&gt;Este contacto busca potenciar el interés por las matemáticas, tanto informar sobre la vida universitaria como por promover la participarción en actividades de carácter lúdico y en la olimpiada matemática.&lt;/p&gt;
 &lt;p&gt;Además, las alumnas podrán contar, si así lo desean con una preparación básica para enfrentarse a problemas de este tipo, siempre deste una visión flexible, divertida y sobre todo, cercana.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://antfi03.github.io/mgweb/es/aurias/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://maega.gal/es/aurias/featured.png" />
     </item>
     
   </channel>

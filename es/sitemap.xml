@@ -3,34 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://antfi03.github.io/mgweb/es/</loc>
+    <loc>https://maega.gal/es/</loc>
     <lastmod>2025-02-11T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="gl"
-      href="https://antfi03.github.io/mgweb/gl/"
+      href="https://maega.gal/gl/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://antfi03.github.io/mgweb/es/"
+      href="https://maega.gal/es/"
     />
   </url>
   <url>
-    <loc>https://antfi03.github.io/mgweb/es/aurias/</loc>
+    <loc>https://maega.gal/es/aurias/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="gl"
-      href="https://antfi03.github.io/mgweb/gl/aurias/"
+      href="https://maega.gal/gl/aurias/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://antfi03.github.io/mgweb/es/aurias/"
+      href="https://maega.gal/es/aurias/"
     />
   </url>
 </urlset>
