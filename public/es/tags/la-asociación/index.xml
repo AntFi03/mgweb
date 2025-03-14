@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>La Asociación on MaEGA</title>
-    <link>//localhost:40827/es/tags/la-asociaci%C3%B3n/</link>
+    <link>//localhost:1313/es/tags/la-asociaci%C3%B3n/</link>
     <description>Recent content in La Asociación on MaEGA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>© 2025 Asociación Galega de Estudantes de Matemáticas</copyright>
-    <atom:link href="//localhost:40827/es/tags/la-asociaci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/es/tags/la-asociaci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Aurias</title>
-      <link>//localhost:40827/es/aurias/</link>
+      <link>//localhost:1313/es/aurias/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:40827/es/aurias/</guid>
+      <guid>//localhost:1313/es/aurias/</guid>
       <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
   Matemáticas entre matemáticas.
 &lt;/div&gt;
@@ -22,7 +22,7 @@
 &lt;p&gt;Aurias es un programa de amadrinamiento de alumnas de educación secundaria (ESO e Bacharelato) por parte de estudiantes del grado en Matemáticas (y de los dobles grados con Infromática y Física).&lt;/p&gt;
 &lt;p&gt;Este contacto busca potenciar el interes por las matemáticas, tanto informar sobre la vida universitaria como por promover la participarción en actividades de carácter lúdico y en la olimpíada matemática.&lt;/p&gt;
 &lt;p&gt;Además, las alumnas podrán contar, si así lo desean con una preparación básica para enfrentarse a problemas de este tipo, siempre deste una visión flexible, divertida y sobre todo, cercana.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:40827/es/aurias/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/es/aurias/featured.png" />
     </item>
     
   </channel>
