@@ -1,26 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Asociación Galega de Estudantes de Matemáticas on MaEGA</title>
-    <link>https://antfi03.github.io/mgweb/gl/</link>
-    <description>Recent content in Asociación Galega de Estudantes de Matemáticas on MaEGA</description>
-    <generator>Hugo</generator>
-    <language>gl</language>
-    <lastBuildDate>Tue, 11 Feb 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://antfi03.github.io/mgweb/gl/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Estatutos MaEGA</title>
-      <link>https://antfi03.github.io/mgweb/gl/estatutos/</link>
-      <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://antfi03.github.io/mgweb/gl/estatutos/</guid>
-      <description>&lt;h2 id=&#34;disposicións-xerais&#34;&gt;Disposicións xerais&lt;/h2&gt;&#xA;&lt;h3 id=&#34;artigo-1-denominación-e-natureza&#34;&gt;Artigo 1: Denominación e natureza&lt;/h3&gt;&#xA;&lt;p&gt;Coa denominación de “Asociación Galega de Estudantes de Matemáticas” (MaEGA), constitúese unha&#xA;organización universitaria de natureza asociativa e sen ánimo de lucro, rexida por principios democráticos,&#xA;de igualdade, laicos e sen vinculación a ningunha organización polı́tica.&lt;/p&gt;&#xA;&lt;h3 id=&#34;artigo-2-personalidade-xurıdica&#34;&gt;Artigo 2: Personalidade xurı́dica&lt;/h3&gt;&#xA;&lt;p&gt;A asociación constituı́da ten personalidade xurı́dica propia e plena capacidade de obrar para cumprir os&#xA;fins para os que foi creada, sempre respectando os seus principios e a legalidade vixente.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Aurias</title>
-      <link>https://antfi03.github.io/mgweb/gl/aurias/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://antfi03.github.io/mgweb/gl/aurias/</guid>
-      <description>&lt;p&gt;Aurias é un programa de amadriñamento de alumnas do ensino medio (ESO e Bacharelato) por estudantes do grao en Matemáticas (e os dobres graos con Infromática e Física).&lt;/p&gt;&#xA;&lt;p&gt;Este contacto busca potenciar a interese polas matemáticas, tanto por informar sobre a vida universitaria como por promover a participarción en actividades de carácter lúdico e na olimpíada matemática.&lt;/p&gt;&#xA;&lt;p&gt;Ademais, as alumnas poderán contar, se así o desexan cunha preparación básica para enfrontar problemas deste carácter, sempre dende unha visión flexible, divertida e sobre todo, cun contacto achegado.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Asociación Galega de Estudantes de Matemáticas on MaEGA</title><link>https://antfi03.github.io/mgweb/gl/</link><description>Recent content in Asociación Galega de Estudantes de Matemáticas on MaEGA</description><generator>Hugo -- gohugo.io</generator><language>gl</language><copyright>© 2025 Asociación Galega de Estudantes de Matemáticas</copyright><lastBuildDate>Tue, 11 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://antfi03.github.io/mgweb/gl/index.xml" rel="self" type="application/rss+xml"/><item><title>Estatutos MaEGA</title><link>https://antfi03.github.io/mgweb/gl/estatutos/</link><pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate><guid>https://antfi03.github.io/mgweb/gl/estatutos/</guid><description>&lt;h2 class="relative group">Disposicións xerais
+&lt;div id="disposici%C3%B3ns-xerais" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#disposici%C3%B3ns-xerais" aria-label="Áncora">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;h3 class="relative group">Artigo 1: Denominación e natureza
+&lt;div id="artigo-1-denominaci%C3%B3n-e-natureza" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#artigo-1-denominaci%C3%B3n-e-natureza" aria-label="Áncora">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;p>Coa denominación de “Asociación Galega de Estudantes de Matemáticas” (MaEGA), constitúese unha
+organización universitaria de natureza asociativa e sen ánimo de lucro, rexida por principios democráticos,
+de igualdade, laicos e sen vinculación a ningunha organización polı́tica.&lt;/p></description></item><item><title>Aurias</title><link>https://antfi03.github.io/mgweb/gl/aurias/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://antfi03.github.io/mgweb/gl/aurias/</guid><description>&lt;p>Aurias é un programa de amadriñamento de alumnas do ensino medio (ESO e Bacharelato) por estudantes do grao en Matemáticas (e os dobres graos con Infromática e Física).&lt;/p>
+&lt;p>Este contacto busca potenciar a interese polas matemáticas, tanto por informar sobre a vida universitaria como por promover a participarción en actividades de carácter lúdico e na olimpíada matemática.&lt;/p>
+&lt;p>Ademais, as alumnas poderán contar, se así o desexan cunha preparación básica para enfrontar problemas deste carácter, sempre dende unha visión flexible, divertida e sobre todo, cun contacto achegado.&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://antfi03.github.io/mgweb/gl/aurias/featured.png"/></item></channel></rss>
