@@ -3,7 +3,7 @@
 # https://blowfish.page/docs/getting-started/
 
 theme = "blowfish" # UNCOMMENT THIS LINE
-# baseURL = "https://your_domain.com/"
+baseURL = "https://maega.gal/"
 defaultContentLanguage = "gl"
 defaultContentLanguageInSubdir = true
 
