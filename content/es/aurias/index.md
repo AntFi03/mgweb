@@ -18,6 +18,6 @@ Este contacto busca potenciar el interés por las matemáticas, tanto informar s
 
 Además, las alumnas podrán contar, si así lo desean con una preparación básica para enfrentarse a problemas de este tipo, siempre deste una visión flexible, divertida y sobre todo, cercana.
 
-Todo este se llevará a cabo en una sesión cada 2 semanas (con duración aproximada de una hora) agendada directamente con las madrinas durante el curso escolar (a excepción de enero y mayo, época de exámenes universitarios).
+Todo esto se llevará a cabo en una sesión cada 2 semanas (con duración aproximada de una hora) agendada directamente con las madrinas durante el curso escolar (a excepción de enero y mayo, época de exámenes universitarios).
 
 A mayores, contamos con realizar una actividad al cuatrimestre presencial para poder conocernos en persona! Si queires incribirte puedes hacerlo a través [de este enlace](https://docs.google.com/forms/d/e/1FAIpQLScOJ_JILc9EY3Qj1GpqrBKo6_lyrdaceS93p0RzgGk0lKLMwA/viewform). Si tienes cualquier duda puedes contactarnos a través del correo auriasmat@gmail.com.
