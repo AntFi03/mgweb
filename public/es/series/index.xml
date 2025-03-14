@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on MaEGA</title>
-    <link>//localhost:1313/es/series/</link>
+    <link>//localhost:40827/es/series/</link>
     <description>Recent content in Series on MaEGA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>© 2025 Asociación Galega de Estudantes de Matemáticas</copyright>
-    <atom:link href="//localhost:1313/es/series/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:40827/es/series/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>

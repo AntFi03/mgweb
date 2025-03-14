@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on MaEGA</title>
+    <link>//localhost:40827/gl/tags/</link>
+    <description>Recent content in Tags on MaEGA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>gl</language>
+    <copyright>© 2025 Asociación Galega de Estudantes de Matemáticas</copyright>
+    <lastBuildDate>Tue, 11 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:40827/gl/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>A Asociación</title>
+      <link>//localhost:40827/gl/tags/a-asociaci%C3%B3n/</link>
+      <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:40827/gl/tags/a-asociaci%C3%B3n/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Documentación</title>
+      <link>//localhost:40827/gl/tags/documentaci%C3%B3n/</link>
+      <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:40827/gl/tags/documentaci%C3%B3n/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Proxectos</title>
+      <link>//localhost:40827/gl/tags/proxectos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:40827/gl/tags/proxectos/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

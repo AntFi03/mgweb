@@ -5,6 +5,7 @@
 theme = "blowfish" # UNCOMMENT THIS LINE
 # baseURL = "https://your_domain.com/"
 defaultContentLanguage = "gl"
+defaultContentLanguageInSubdir = true
 
 [languages]
   [languages.gl]
@@ -25,11 +26,11 @@ defaultContentLanguage = "gl"
     url = "/gl/"
     weight = 1
 
-  [[languages.gl.menu.main]]
+  [[languages.es.menu.main]]
     identifier = "home"
     name = "Inicio"
     url = "/es/"
-    weight = 1
+    weight = 2
 
 [params]
   background = "waves"  # You can choose "waves", "dots", or "squares" (depending on theme version)

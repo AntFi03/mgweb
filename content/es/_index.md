@@ -1,8 +1,8 @@
 ---
-title: "Asociación Galega de Estudantes de Matemáticas"
+title: "Asociación Gallega de Estudiantes de Matemáticas"
 draft: false
-description: "A Asociación Galega de Estudantes de Matemáticas (MaEGA) nace a comezos do 2025 co obxectivo de coordinar e promover as actividades levadas a cabo polo alumnado universitario de matemáticas de Galicia."
+date: "2025-02-11"
+description: "La Asociación Gallega de Estudiantes de Matemáticas (MaEGA) nace a principios de 2025 con el objetivo de coordinar y promover las actividades llevadas a cabo por el alumnado universitario de matemáticas de Galicia."
 ---
-A Asociación Galega de Estudantes de Matemáticas (MaEGA) nace a comezos do 2025 co obxectivo de coordinar e promover as actividades levadas a cabo polo alumnado universitario de matemáticas de Galicia.
+La Asociación Gallega de Estudiantes de Matemáticas (MaEGA) nace a principios de 2025 con el objetivo de coordinar y promover las actividades llevadas a cabo por el alumnado universitario de matemáticas de Galicia.
 
-ALGO MÁIS...

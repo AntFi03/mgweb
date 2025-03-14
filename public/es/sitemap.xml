@@ -3,46 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>//localhost:1313/es/</loc>
-    <lastmod>2025-03-13T00:00:00+00:00</lastmod>
+    <loc>//localhost:40827/es/</loc>
+    <lastmod>2025-02-11T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="gl"
-      href="//localhost:1313/"
+      href="//localhost:40827/gl/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="//localhost:1313/es/"
+      href="//localhost:40827/es/"
     />
   </url>
   <url>
-    <loc>//localhost:1313/es/proyectos/proba/</loc>
-    <lastmod>2025-03-13T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>//localhost:1313/es/proyectos/</loc>
-    <lastmod>2025-03-13T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>//localhost:1313/es/aurias/</loc>
+    <loc>//localhost:40827/es/aurias/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="gl"
-      href="//localhost:1313/aurias/"
+      href="//localhost:40827/gl/aurias/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="//localhost:1313/es/aurias/"
+      href="//localhost:40827/es/aurias/"
     />
   </url>
 </urlset>

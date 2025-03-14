@@ -3,13 +3,13 @@ none = "none"
 
 [[main]]
 name = "Noticias"
-pageRef = "es/noticias"
+pageRef = "noticias"
 identifier = "AfESnkD6rW"
 weight = 1
 
 [[main]]
 name = "Proyectos"
-pageRef = "es/proyectos"
+pageRef = "proxectos"
 weight = 2
 
 [[main]]
@@ -27,7 +27,7 @@ weight = 2
 [[main]]
 name = "Aurias"
 parent = "Proyectos"
-pageRef = "es/aurias"
+pageRef = "aurias"
 weight = 2
 
 [[subnavigation]]

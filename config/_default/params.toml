@@ -8,6 +8,7 @@ disableImageOptimization = false
 disableTextInHeader = true
 giteaDefaultServer = "https://git.fsfe.org"
 forgejoDefaultServer = "https://v8.next.forgejo.org"
+defaultBackgroundImage = "fac.jpg"
 
 [header]
 layout = "fixed-fill-blur"
@@ -37,7 +38,7 @@ showLikes = false
 showDateOnlyInArticle = false
 showDateUpdated = false
 showAuthor = false
-showHero = false
+showHero = true
 layoutBackgroundBlur = true
 layoutBackgroundHeaderSpace = true
 showBreadcrumbs = true
@@ -54,7 +55,7 @@ showTaxonomies = true
 showAuthorsBadges = false
 showWordCount = true
 showZenMode = true
-heroStyle = "big"
+heroStyle = "background"
 showRelatedContent = true
 relatedContentLimit = "3"
 
@@ -73,7 +74,7 @@ groupByYear = false
 cardView = true
 cardViewScreenWidth = false
 constrainItemsWidth = true
-heroStyle = "big"
+heroStyle = "background"
 
 [sitemap]
 excludedKinds = [ "taxonomy", "term" ]
