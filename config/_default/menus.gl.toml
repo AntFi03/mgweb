@@ -1,0 +1,61 @@
+[[main]]
+none = "none"
+
+[[main]]
+name = "Novas"
+pageRef = "novas"
+identifier = "AfESnkD6rW"
+weight = 1
+
+[[main]]
+name = "Proxectos"
+pageRef = "proxectos"
+weight = 2
+
+[[main]]
+name = "Sementeira"
+parent = "Proxectos"
+url = "https://cv.usc.es/course/view.php?id=54843"
+weight = 2
+
+[[main]]
+name = "MáisMates"
+parent = "Proxectos"
+url = "https://www.usc.gal/gl/centro/facultade-matematicas/revista-estudiantil-mates"
+weight = 2
+
+[[main]]
+name = "Aurias"
+parent = "Proxectos"
+pageRef = "aurias"
+weight = 2
+
+
+[[subnavigation]]
+name = "Estatutos"
+pageRef = "estatutos"
+weight = 10
+
+[[subnavigation]]
+name = "Únete!"
+url = "https://forms.gle/yVniZyvwQZB13z7B7"
+weight = 11
+
+
+[[main]]
+pre = "x-twitter"
+url = "https://x.com/maega_gal"
+identifier = "SIbcHt624n"
+weight = 4
+
+[[main]]
+pre = "instagram"
+url = "https://instagram.com/maega.gal"
+identifier = "oOO8cS6UJ1"
+weight = 5
+
+
+[[footer]]
+name = "Contacto"
+url = "mailto::asociacion@maega.gal"
+
