@@ -4,6 +4,8 @@ draft: false
 date: "2025-02-11"
 description: "A Asociación Galega de Estudantes de Matemáticas (MaEGA) nace a comezos do 2025 co obxectivo de coordinar e promover as actividades levadas a cabo polo alumnado universitario de matemáticas de Galicia."
 tags: ["Documentación", "A Asociación"]
+showViews: true
+showLikes: true
 ---
 ## Disposicións xerais
 
