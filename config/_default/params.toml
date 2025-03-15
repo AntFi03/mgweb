@@ -22,11 +22,11 @@ showScrollToTop = true
 
 [homepage]
 layout = "background"
-showRecent = false
+showRecent = true
 showRecentItems = 5
 showMoreLink = false
 showMoreLinkDest = "/posts/"
-cardView = false
+cardView = true
 cardViewScreenWidth = false
 layoutBackgroundBlur = true
 homepageImage = "fac.jpg"
@@ -105,6 +105,7 @@ firebase.projectId = "maegaweb"
 firebase.storageBucket = "maegaweb.firebasestorage.app"
 firebase.messagingSenderId = "152426566109"
 firebase.appId = "1:152426566109:web:181ec4384dfec644e8a634"
+firebase.measurementId = "G-QRYK3SGC8X"
 
 [fathomAnalytics]
 
