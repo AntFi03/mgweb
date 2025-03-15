@@ -86,7 +86,7 @@ showBreadcrumbs = false
 showViews = false
 showLikes = false
 showTableOfContents = false
-cardView = false
+cardView = true
 
 [term]
 showHero = false
@@ -102,6 +102,7 @@ cardViewScreenWidth = false
 firebase.apiKey = "AIzaSyDJas0DmxN5isAly4E4enL58-1ZDvkEPbs"
 firebase.authDomain = "mgweb-d99b2.firebaseapp.com"
 firebase.projectId = "mgweb-d99b2"
+firebase.storageBucket = "mgweb-d99b2.firebasestorage.app"
 firebase.messagingSenderId = "896043643586"
 firebase.appId = "1:896043643586:web:e1d3c80129bf9b7085815b"
 firebase.measurementId = "G-1MNQY04816"
