@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Documentación on MaEGA</title>
-    <link>https://maega.gal/gl/tags/documentaci%C3%B3n/</link>
+    <link>http://localhost:1313/gl/tags/documentaci%C3%B3n/</link>
     <description>Recent content in Documentación on MaEGA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>gl</language>
     <copyright>© 2025 Asociación Galega de Estudantes de Matemáticas</copyright>
-    <lastBuildDate>Tue, 11 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://maega.gal/gl/tags/documentaci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 11 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/gl/tags/documentaci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Estatutos MaEGA</title>
-      <link>https://maega.gal/gl/estatutos/</link>
+      <link>http://localhost:1313/gl/estatutos/</link>
       <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://maega.gal/gl/estatutos/</guid>
+      <guid>http://localhost:1313/gl/estatutos/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;Disposicións xerais 
     &lt;div id=&#34;disposici%C3%B3ns-xerais&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     

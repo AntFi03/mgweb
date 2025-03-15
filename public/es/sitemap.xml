@@ -3,34 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://maega.gal/es/</loc>
+    <loc>http://localhost:1313/es/</loc>
     <lastmod>2025-02-11T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="gl"
-      href="https://maega.gal/gl/"
+      href="http://localhost:1313/gl/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://maega.gal/es/"
+      href="http://localhost:1313/es/"
     />
   </url>
   <url>
-    <loc>https://maega.gal/es/aurias/</loc>
+    <loc>http://localhost:1313/es/aurias/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="gl"
-      href="https://maega.gal/gl/aurias/"
+      href="http://localhost:1313/gl/aurias/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://maega.gal/es/aurias/"
+      href="http://localhost:1313/es/aurias/"
     />
   </url>
 </urlset>
