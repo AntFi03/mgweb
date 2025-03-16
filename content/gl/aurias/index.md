@@ -9,7 +9,7 @@ cascade:
   showTableOfContents: false
   zenMode: true
 tags: ["Proxectos", "A Asociación"]
-# showViews: true
+showViews: true
 ---
 
 Aurias é un programa de amadriñamento de alumnas do ensino medio (ESO e Bacharelato) por estudantes do grao en Matemáticas (e os dobres graos con Infromática e Física).
