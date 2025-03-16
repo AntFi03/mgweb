@@ -1,11 +1,7 @@
 [[main]]
 none = "none"
 
-[[main]]
-name = "Novas"
-pageRef = "novas"
-identifier = "AfESnkD6rW"
-weight = 1
+
 
 [[main]]
 name = "Proxectos"

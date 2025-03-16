@@ -11,7 +11,7 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
 defaultBackgroundImage = "fac.jpg"
 
 [header]
-layout = "fixed-fill-blur"
+layout = "fixed"
 
 [footer]
 showMenu = true
@@ -22,7 +22,7 @@ showScrollToTop = true
 
 [homepage]
 layout = "background"
-showRecent = true
+showRecent = false
 showRecentItems = 5
 showMoreLink = false
 showMoreLinkDest = "/posts/"
@@ -60,20 +60,20 @@ showRelatedContent = true
 relatedContentLimit = "3"
 
 [list]
-showHero = "show"
+showHero = true
 layoutBackgroundBlur = true
-layoutBackgroundHeaderSpace = false
-showBreadcrumbs = false
-showSummary = "show"
+layoutBackgroundHeaderSpace = true
+showBreadcrumbs = true
+showSummary = false
 showViews = false
 showLikes = false
 showTableOfContents = "hide"
-showCards = "card"
+showCards = true
 orderByWeight = false
 groupByYear = false
-cardView = true
-cardViewScreenWidth = false
-constrainItemsWidth = true
+cardView = false
+cardViewScreenWidth = true
+constrainItemsWidth = false
 heroStyle = "background"
 
 [sitemap]
@@ -86,7 +86,7 @@ showBreadcrumbs = false
 showViews = false
 showLikes = false
 showTableOfContents = false
-cardView = true
+cardView = false
 
 [term]
 showHero = false
@@ -99,13 +99,13 @@ cardView = false
 cardViewScreenWidth = false
 
 [firebase]
-firebase.apiKey = "AIzaSyB5xeRljgZzBltq-Dbv3gGKZ2-jBRKbsd0"
-firebase.authDomain = "maegaweb.firebaseapp.com"
-firebase.projectId = "maegaweb"
-firebase.storageBucket = "maegaweb.firebasestorage.app"
-firebase.messagingSenderId = "152426566109"
-firebase.appId = "1:152426566109:web:181ec4384dfec644e8a634"
-firebase.measurementId = "G-QRYK3SGC8X"
+apiKey = "AIzaSyB5xeRljgZzBltq-Dbv3gGKZ2-jBRKbsd0"
+authDomain = "maegaweb.firebaseapp.com"
+projectId = "maegaweb"
+storageBucket = "maegaweb.firebasestorage.app"
+messagingSenderId = "152426566109"
+appId = "1:152426566109:web:181ec4384dfec644e8a634"
+measurementId = "G-QRYK3SGC8X"
 
 [fathomAnalytics]
 
