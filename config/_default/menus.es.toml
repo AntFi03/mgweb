@@ -3,7 +3,6 @@ none = "none"
 
 [[main]]
 name = "Proyectos"
-pageRef = "proxectos"
 weight = 2
 
 [[main]]
@@ -45,3 +44,7 @@ weight = 5
 name = "Contacto"
 url = "mailto:asociacion@maega.gal"
 
+[[footer]]
+name = "Etiquetas"
+pageRef = "tags"
+weight = 10

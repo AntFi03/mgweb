@@ -32,9 +32,6 @@ defaultContentLanguageInSubdir = true
     url = "/es/"
     weight = 2
 
-[params]
-  background = "waves"  # You can choose "waves", "dots", or "squares" (depending on theme version)
-
 
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
 

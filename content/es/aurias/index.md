@@ -4,13 +4,11 @@ draft: false
 description: ""
 cascade:
   showDate: false
-  showAuthor: false
-  invertPagination: true
   showTableOfContents: false
-  zenMode: true
 tags: ["Proyectos", "La Asociación"]
-showViews: true
 ---
+
+![Logo de Aurias](featured.png)
 
 Aurias es un programa de amadrinamiento de alumnas de educación secundaria (ESO e Bacharelato) por parte de estudiantes del grado en Matemáticas (y de los dobles grados con Infromática y Física).
 

@@ -2,13 +2,17 @@ colorScheme = "blowfish"
 defaultAppearance = "dark"
 autoSwitchAppearance = true
 enableSearch = true
-enableCodeCopy = false
+enableCodeCopy = true
 replyByEmail = false
 disableImageOptimization = false
 disableTextInHeader = true
 giteaDefaultServer = "https://git.fsfe.org"
 forgejoDefaultServer = "https://v8.next.forgejo.org"
-defaultBackgroundImage = "fac.jpg"
+defaultBackgroundImage = "background.svg"
+defaultFeaturedImage = "."
+highlightCurrentMenuArea = true
+smartTOC = true
+smartTOCHideUnfocusedChildren = false
 
 [header]
 layout = "fixed"
@@ -27,13 +31,13 @@ showRecentItems = 5
 showMoreLink = false
 showMoreLinkDest = "/posts/"
 cardView = true
-cardViewScreenWidth = false
+cardViewScreenWidth = true
 layoutBackgroundBlur = true
-homepageImage = "fac.jpg"
+homepageImage = "background.svg"
 
 [article]
 showDate = true
-showViews = false
+showViews = true
 showLikes = false
 showDateOnlyInArticle = false
 showDateUpdated = false
@@ -43,7 +47,7 @@ layoutBackgroundBlur = true
 layoutBackgroundHeaderSpace = true
 showBreadcrumbs = true
 showDraftLabel = true
-showEdit = false
+showEdit = true
 editAppendPath = true
 seriesOpened = false
 showHeadingAnchors = true
@@ -81,22 +85,24 @@ excludedKinds = [ "taxonomy", "term" ]
 
 [taxonomy]
 showTermCount = true
-showHero = false
+showHero = true
+heroStyle = "background"
 showBreadcrumbs = false
 showViews = false
 showLikes = false
 showTableOfContents = false
-cardView = false
+cardView = true
 
 [term]
-showHero = false
+showHero = true
 showBreadcrumbs = false
 showViews = false
 showLikes = false
 showTableOfContents = true
 groupByYear = false
-cardView = false
+cardView = true
 cardViewScreenWidth = false
+heroStyle = "background"
 
 [firebase]
 apiKey = "AIzaSyB5xeRljgZzBltq-Dbv3gGKZ2-jBRKbsd0"
