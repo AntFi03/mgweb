@@ -48,3 +48,8 @@ url = "mailto:asociacion@maega.gal"
 name = "Etiquetas"
 pageRef = "tags"
 weight = 10
+
+[[footer]]
+name = "Fuentes"
+pageRef = "authors"
+weight = 11

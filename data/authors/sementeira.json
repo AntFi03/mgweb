@@ -1,0 +1,9 @@
+{
+    "name": "Sementeira",
+    "image" : "img/sementeira_favicon_branco2.png",
+    "bio": "Clube olímpico da facultade de matemáticas da USC.",
+    "social": [
+        { "circle-info": "https://cv.usc.es/course/view.php?id=54843" },
+        { "email": "mailto:sementeira.problemas@gmail.com" }
+    ]
+}

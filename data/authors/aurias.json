@@ -1,0 +1,10 @@
+{
+    "name": "Aurias",
+    "image" : "img/Logo_Aurias_redondo.png",
+    "bio": "Matemáticas entre matemáticas.",
+    "social": [
+        { "circle-info": "https://maega.gal/gl/aurias/" },
+        { "email": "mailto:auriasmat@gmail.com" },
+        { "heart": "https://docs.google.com/forms/d/e/1FAIpQLScOJ_JILc9EY3Qj1GpqrBKo6_lyrdaceS93p0RzgGk0lKLMwA/viewform" }
+    ]
+}

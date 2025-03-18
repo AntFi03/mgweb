@@ -6,9 +6,9 @@ cascade:
   showDate: false
   showTableOfContents: false
 tags: ["Proxectos", "A Asociación"]
+authors:
+  - "aurias"
 ---
-
-![Logo de Aurias](featured.png)
 
 Aurias é un programa de amadriñamento de alumnas do ensino medio (ESO e Bacharelato) por estudantes do grao en Matemáticas (e os dobres graos con Infromática e Física).
 
@@ -19,3 +19,5 @@ Ademais, as alumnas poderán contar, se así o desexan cunha preparación básic
 Todo isto realizarase nunha sesión cada 2 semanas (duración aproximada dunha hora) axendada directamente coas madriñas durante o curso escolar (a excepción de xaneiro e maio, época de exames universitarios).
 
 A maiores, contamos con realizar unha actividade ao cuadrimestre presencial para poder coñecernos en persoa! Se queres incribirte podes facelo a través [deste enlace](https://docs.google.com/forms/d/e/1FAIpQLScOJ_JILc9EY3Qj1GpqrBKo6_lyrdaceS93p0RzgGk0lKLMwA/viewform). Se tes calquera dúbida podes contactarnos a través do correo auriasmat@gmail.com.
+
+![Logo de Aurias](featured.png)

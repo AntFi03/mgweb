@@ -15,24 +15,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/es/aurias/</guid>
-      <description>&lt;p&gt;
-    &lt;figure&gt;
-      &lt;img
-        class=&#34;my-0 rounded-md&#34;
-        loading=&#34;lazy&#34;
-        srcset=&#34;
-        /gl/aurias/featured_hu_1d4e2df8ebdac8ac.png 330w,
-        /gl/aurias/featured_hu_c50345aa38e2ad6f.png 660w,
-        /gl/aurias/featured_hu_129fa24db561e4e2.png 1024w,
-        /gl/aurias/featured_hu_abc9ff173e86681d.png 2x&#34;
-        src=&#34;http://localhost:1313/gl/aurias/featured_hu_c50345aa38e2ad6f.png&#34;
-        alt=&#34;Logo de Aurias&#34;
-      /&gt;
-      
-    &lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;Aurias es un programa de amadrinamiento de alumnas de educación secundaria (ESO e Bacharelato) por parte de estudiantes del grado en Matemáticas (y de los dobles grados con Infromática y Física).&lt;/p&gt;
-&lt;p&gt;Este contacto busca potenciar el interés por las matemáticas, tanto informar sobre la vida universitaria como por promover la participarción en actividades de carácter lúdico y en la olimpiada matemática.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Aurias es un programa de amadrinamiento de alumnas de educación secundaria (ESO e Bacharelato) por parte de estudiantes del grado en Matemáticas (y de los dobles grados con Infromática y Física).&lt;/p&gt;
+&lt;p&gt;Este contacto busca potenciar el interés por las matemáticas, tanto informar sobre la vida universitaria como por promover la participarción en actividades de carácter lúdico y en la olimpiada matemática.&lt;/p&gt;
+&lt;p&gt;Además, las alumnas podrán contar, si así lo desean con una preparación básica para enfrentarse a problemas de este tipo, siempre deste una visión flexible, divertida y sobre todo, cercana.&lt;/p&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/gl/aurias/featured.png" />
     </item>
     

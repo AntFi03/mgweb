@@ -1,0 +1,11 @@
+{
+    "name": "MaEGA",
+    "image" : "img/MaEGA_logo_redondo_fondo_branco.png",
+    "bio": "Asociación Galega de Estudantes de Matemáticas.",
+    "social": [
+        { "x-twitter": "https://x.com/maega_gal" },
+        { "instagram": "https://instagram.com/maega.gal" },
+        { "email": "mailto:auriasmat@gmail.com" },
+        { "heart": "https://forms.gle/yVniZyvwQZB13z7B7" }
+    ]
+}

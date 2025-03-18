@@ -1,0 +1,9 @@
+{
+    "name": "Máis Mates",
+    "image" : "img/Logo_MM_redondo.png",
+    "bio": "Revista estudiantil da facultade de matemáticas da USC.",
+    "social": [
+        { "circle-info": "https://www.usc.gal/gl/centro/facultade-matematicas/revista-estudiantil-mates" },
+        { "email": "mailto:revistamaismates@gmail.com" }
+    ]
+}

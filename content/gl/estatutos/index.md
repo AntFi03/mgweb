@@ -4,7 +4,10 @@ draft: false
 date: "2025-02-11"
 description: "A Asociación Galega de Estudantes de Matemáticas (MaEGA) nace a comezos do 2025 co obxectivo de coordinar e promover as actividades levadas a cabo polo alumnado universitario de matemáticas de Galicia."
 tags: ["Documentación", "A Asociación"]
-
+showEdit: true
+editURL: "https://github.com/AntFi03/mgweb/edit/anton/content/gl/"
+authors:
+  - "maega"
 ---
 ## Disposicións xerais
 
@@ -18,8 +21,7 @@ A asociación constituı́da ten personalidade xurı́dica propia e plena capaci
 fins para os que foi creada, sempre respectando os seus principios e a legalidade vixente.
 
 ### Artigo 3: Domicilio
-1. O domicilio social da asociación queda establecido no Local de Estudantes da Facultade de Ma-
-temáticas da Universidade de Santiago de Compostela, Rúa de Lope Gómez de Marzoa, s/n, 15705
+1. O domicilio social da asociación queda establecido no Local de Estudantes da Facultade de Matemáticas da Universidade de Santiago de Compostela, Rúa de Lope Gómez de Marzoa, s/n, 15705
 Santiago de Compostela, A Coruña.
 2. Á caixa de correo electrónico é matematicas.estudantes@usc.gal.
 
@@ -35,8 +37,7 @@ marco da Constitución do Estado e segundo as necesidades e fins polos que foi c
 
 ### Artigo 6: Fins
 A existencia desta asociación ten como fins:
-1. Definir unha estrutura propia no estudantado de Matemáticas da USC, constituı́ndose como inter-
-locutora ante o Decanato da Facultade de Matemáticas e as institucións oportunas e unificando as
+1. Definir unha estrutura propia no estudantado de Matemáticas da USC, constituı́ndose como interlocutora ante o Decanato da Facultade de Matemáticas e as institucións oportunas e unificando as
 iniciativas destes estudantes.
 2. Colaborar con asociacións de carácter local ou estatal con fins semellantes aos propios.
 3. Defender os dereitos e intereses do estudantado universitario galego de matemáticas.
@@ -64,8 +65,7 @@ no resto de artigos desta sección.
 ### Artigo 8: Requisitos de membresı́a
 1. Para adquirir a condición de persoa socia requı́rese ser persoa fı́sica e ter interese no desenvolvemento
 das fins da asociación.
-2. As persoas asociadas serán estudantes interesados polas matemáticas no ámbito galego, traballado-
-res predoutorais ou con intereses semellantes a estes.
+2. As persoas asociadas serán estudantes interesados polas matemáticas no ámbito galego, traballadores predoutorais ou con intereses semellantes a estes.
 3. Será prioritario, pero non necesario, para gozar da calidade de persoa socia, avogar polo estudantado
 nalgún órgano de representación oficial.
 4. Quen desexar ser persoa socia da asociación deberá comunicalo á Secretarı́a, quen certificará, ou
@@ -113,10 +113,7 @@ socias e deberá reunirse segundo consta nos presentes Estatutos. A asociación 
 se expresará a súa vontade. As reunións da Asemblea Xeral poden ser ordinarias ou extraordinarias.
 
 ### Artigo 14: Convocatoria de Asemblea Ordinaria
-A Asemblea Ordinaria será convocada como mı́nimo unha vez ao ano. Convocarase unha Asemblea Ordi-
-naria tras a elección de representantes do sector do Estudantado de Grao e Máster na Xunta de Facultade
-(de Matemáticas) da USC. As Asembleas Ordinarias serán convocadas e presididas pola presidencia. Esta
-función pode ser delegada na vicepresidencia.
+A Asemblea Ordinaria será convocada como mı́nimo unha vez ao ano. Convocarase unha Asemblea Ordinaria tras a elección de representantes do sector do Estudantado de Grao e Máster na Xunta de Facultade (de Matemáticas) da USC. As Asembleas Ordinarias serán convocadas e presididas pola presidencia. Esta función pode ser delegada na vicepresidencia.
 
 As convocatorias das Asembleas serán notificadas pola Secretarı́a a todas as persoas socias mediante
 unha canle apropiada e comunicando todos os detalles da mesma, tales como hora, lugar e puntos do dı́a,
@@ -169,8 +166,7 @@ sempre someténdose á normativa legal vixente en materia de asociacións.
 ### Artigo 22: A Presidencia
 O/a presidente/a da Asociación asume a representación legal da mesma e executará os acordos adoptados
 pola Directiva e a Asemblea, presidindo as sesións que celebren unha e outra. A Presidencia encargase
-de convocar as Asembleas Ordinarias e as eleccións da Directiva e de propor e dirixir o plan de activi-
-dades anual da asociación. Tamén coordina as posibles relacións con outras entidades, organizacións ou
+de convocar as Asembleas Ordinarias e as eleccións da Directiva e de propor e dirixir o plan de actividades anual da asociación. Tamén coordina as posibles relacións con outras entidades, organizacións ou
 asociacións que sexan establecidas.
 
 ### Artigo 23: A Vicepresidencia
@@ -209,8 +205,7 @@ A asociación carece de patrimonio ao consituı́rse e o lı́mite do orzamento 
 
 ### Artigo 28: Recursos económicos
 A asociación poderá ser financiada a través de
-1. As doazóns ou subvencións que poidan conceder órganos públicos, entidades privadas ou particula-
-res.
+1. As doazóns ou subvencións que poidan conceder órganos públicos, entidades privadas ou particulares.
 2. Os ingresos que se poidan recibir polo desenvolvemento das actividades da asociación.
 3. Calquera outro ingreso admitido pola normativa vixente para actividades non lucrativas.
 
@@ -237,8 +232,7 @@ A asociación disolverase polas seguintes causas:
 ### Artigo 32: Liquidación
 1. A disolución da asociación abrirá o perı́odo de liquidación, ata cuxo fin a entidade conservará súa
 personalidade xurı́dica.
-2. O patrimonio resultante, logo de efectuadas as operacións previstas na Lei de Asociacións, desti-
-narase a entidade non lucrativas que persigan fins de interese xeneral análogos aos realizados pola
+2. O patrimonio resultante, logo de efectuadas as operacións previstas na Lei de Asociacións, destinarase a entidade non lucrativas que persigan fins de interese xeneral análogos aos realizados pola
 mesma.
 
 

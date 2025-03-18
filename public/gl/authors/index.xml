@@ -1,13 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on MaEGA</title>
+    <title>Fontes on MaEGA</title>
     <link>http://localhost:1313/gl/authors/</link>
-    <description>Recent content in Authors on MaEGA</description>
+    <description>Recent content in Fontes on MaEGA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>gl</language>
     <copyright>© 2025 Asociación Galega de Estudantes de Matemáticas</copyright>
-    <atom:link href="http://localhost:1313/gl/authors/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 11 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/gl/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Maega</title>
+      <link>http://localhost:1313/gl/authors/maega/</link>
+      <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/gl/authors/maega/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Aurias</title>
+      <link>http://localhost:1313/gl/authors/aurias/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/gl/authors/aurias/</guid>
+      <description></description>
+      
+    </item>
     
   </channel>
 </rss>
