@@ -27,11 +27,11 @@ showScrollToTop = true
 [homepage]
 layout = "background"
 showRecent = false
-showRecentItems = 5
-showMoreLink = false
-showMoreLinkDest = "/posts/"
+showRecentItems = 6
+showMoreLink = true
+showMoreLinkDest = "aurias"
 cardView = true
-cardViewScreenWidth = true
+cardViewScreenWidth = false
 layoutBackgroundBlur = true
 homepageImage = "background.svg"
 
@@ -61,24 +61,24 @@ showWordCount = true
 showZenMode = true
 heroStyle = "background"
 showRelatedContent = true
-relatedContentLimit = "3"
+relatedContentLimit = "6"
 
 [list]
 showHero = true
+heroStyle = "background"
 layoutBackgroundBlur = true
-layoutBackgroundHeaderSpace = true
-showBreadcrumbs = true
+layoutBackgroundHeaderSpace = false
+showBreadcrumbs = false
 showSummary = false
 showViews = false
 showLikes = false
-showTableOfContents = "hide"
+showTableOfContents = false
 showCards = true
-orderByWeight = false
+orderByWeight = true
 groupByYear = false
-cardView = false
-cardViewScreenWidth = true
+cardView = true
+cardViewScreenWidth = false
 constrainItemsWidth = false
-heroStyle = "background"
 
 [sitemap]
 excludedKinds = [ "taxonomy", "term" ]
