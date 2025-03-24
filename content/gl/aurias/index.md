@@ -10,9 +10,9 @@ authors:
   - "aurias"
 ---
 
-Aurias é un programa de amadriñamento de alumnas do ensino medio (ESO e Bacharelato) por estudantes do grao en Matemáticas (e os dobres graos con Infromática e Física).
+Aurias é un programa de amadriñamento de alumnas do ensino medio (ESO e Bacharelato) por estudantes do grao en Matemáticas (e os dobres graos con Informática e Física).
 
-Este contacto busca potenciar a interese polas matemáticas, tanto por informar sobre a vida universitaria como por promover a participarción en actividades de carácter lúdico e na olimpíada matemática.
+Este contacto busca potenciar a interese polas matemáticas, tanto por informar sobre a vida universitaria como por promover a participación en actividades de carácter lúdico e na olimpíada matemática.
 
 Ademais, as alumnas poderán contar, se así o desexan cunha preparación básica para enfrontar problemas deste carácter, sempre dende unha visión flexible, divertida e sobre todo, cun contacto achegado.
 
