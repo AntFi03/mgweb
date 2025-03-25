@@ -7,7 +7,7 @@ tags: ["Documentación", "A Asociación"]
 showEdit: true
 editURL: "https://github.com/AntFi03/mgweb/edit/anton/content/gl/"
 authors:
-  - "maega"
+  - "maega" 
 ---
 ## Disposicións xerais
 
