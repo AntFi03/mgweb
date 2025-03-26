@@ -1,7 +1,10 @@
 [[main]]
 none = "none"
 
-
+[[main]]
+name = "Novas"
+pageRef = "novas"
+weight = 1
 
 [[main]]
 name = "Proxectos"
@@ -22,13 +25,13 @@ weight = 2
 [[main]]
 name = "Aurias"
 parent = "Proxectos"
-pageRef = "aurias"
+pageRef = "proxectos/aurias"
 weight = 2
 
 
 [[subnavigation]]
 name = "Estatutos"
-pageRef = "estatutos"
+pageRef = "asociacion/estatutos"
 weight = 10
 
 [[subnavigation]]

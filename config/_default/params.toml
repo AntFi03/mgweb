@@ -9,10 +9,12 @@ disableTextInHeader = true
 giteaDefaultServer = "https://git.fsfe.org"
 forgejoDefaultServer = "https://v8.next.forgejo.org"
 defaultBackgroundImage = "background.svg"
-defaultFeaturedImage = "."
+defaultFeaturedImage = "background.svg"
 highlightCurrentMenuArea = true
 smartTOC = true
 smartTOCHideUnfocusedChildren = false
+
+mainSections = ["proxectos", "novas", "asociacion"]
 
 [header]
 layout = "fixed"
@@ -26,14 +28,13 @@ showScrollToTop = true
 
 [homepage]
 layout = "background"
-showRecent = false
+showRecent = true
 showRecentItems = 6
-showMoreLink = true
+showMoreLink = false
 showMoreLinkDest = "aurias"
 cardView = true
 cardViewScreenWidth = false
 layoutBackgroundBlur = true
-homepageImage = "background.svg"
 
 [article]
 showDate = true
@@ -43,25 +44,26 @@ showDateOnlyInArticle = false
 showDateUpdated = false
 showAuthor = false
 showHero = true
+heroStyle = "background"
 layoutBackgroundBlur = true
-layoutBackgroundHeaderSpace = true
+layoutBackgroundHeaderSpace = false
 showBreadcrumbs = true
 showDraftLabel = true
 showEdit = false
 editAppendPath = true
 seriesOpened = false
 showHeadingAnchors = true
-showPagination = false
+showPagination = true
 invertPagination = false
-showReadingTime = false
+showReadingTime = true
 showTableOfContents = true
 showTaxonomies = true
 showAuthorsBadges = false
-showWordCount = true
+showWordCount = false
 showZenMode = true
-heroStyle = "background"
 showRelatedContent = true
-relatedContentLimit = "6"
+relatedContentLimit = 3
+sharingLinks = [ "linkedin", "twitter", "bluesky", "whatsapp", "telegram", "facebook", "email"]
 
 [list]
 showHero = true
@@ -72,7 +74,7 @@ showBreadcrumbs = false
 showSummary = false
 showViews = false
 showLikes = false
-showTableOfContents = false
+showTableOfContents = true
 showCards = true
 orderByWeight = true
 groupByYear = false
