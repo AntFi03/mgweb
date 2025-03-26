@@ -1,8 +1,8 @@
 ---
-title: O equipo da USC remata 5º na edición 24-25 da Liga Matemática da ANEM 
-draft: true
+title: "O equipo da USC remata 5º na edición 24-25 da Liga Matemática da ANEM"
+draft: false
 date: "2025-03-26"
-description: Acaba de rematar a fase regular da segunda edición da Liga Matemática organizada pola ANEM (Asociación Nacional de Estudantes de Matemáticas) e dende Sementeira (o clube olímpico de Mates USC) e MaEGA (a Asociación Galega de Estudantes de Matemáticas) querémonos facer eco do gran resultado obtido polo equipo da facultade.
+description: "Acaba de rematar a fase regular da segunda edición da Liga Matemática organizada pola ANEM (Asociación Nacional de Estudantes de Matemáticas) e dende Sementeira (o clube olímpico de Mates USC) e MaEGA (a Asociación Galega de Estudantes de Matemáticas) querémonos facer eco do gran resultado obtido polo equipo da facultade."
 tags: ["Sementeira", "Liga Matemática", "ANEM", "Novas"]
 authors:
   - "sementeira" 
