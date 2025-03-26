@@ -5,13 +5,13 @@ weight = 1
 title = "MaEGA"
 
 [params]
-displayName = "ES"
+displayName = "español"
 isoCode = "es"
 rtl = false
 dateFormat = "2 January 2006"
 logo = "MaEGA_logo_completo_negativo_fondo_transparente_amplo_horizontal.png"
 secondaryLogo = "MaEGA_logo_completo_fondo_transparente_amplo_horizontal.png"
-author = { name = "Asociación Galega de Estudantes de Matemáticas" }
+author = { name = "Asociación Gallega de Estudantes de Matemáticas" }
 
 # [params.author]
 #   name = "Your name here"

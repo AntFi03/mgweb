@@ -11,10 +11,10 @@
     
     <item>
       <title>Estatutos MaEGA</title>
-      <link>http://localhost:1313/gl/estatutos/</link>
+      <link>http://localhost:1313/gl/asociacion/estatutos/</link>
       <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/gl/estatutos/</guid>
+      <guid>http://localhost:1313/gl/asociacion/estatutos/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;Disposicións xerais 
     &lt;div id=&#34;disposici%C3%B3ns-xerais&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -40,7 +40,7 @@
 &lt;p&gt;Coa denominación de “Asociación Galega de Estudantes de Matemáticas” (MaEGA), constitúese unha
 organización universitaria de natureza asociativa e sen ánimo de lucro, rexida por principios democráticos,
 de igualdade, laicos e sen vinculación a ningunha organización polı́tica.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/gl/estatutos/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/gl/asociacion/estatutos/featured.jpg" />
     </item>
     
   </channel>
