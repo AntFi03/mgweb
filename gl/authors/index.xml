@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>gl</language>
     <copyright>© 2025 Asociación Galega de Estudantes de Matemáticas</copyright>
-    <lastBuildDate>Tue, 11 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://maega.gal/gl/authors/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 15 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://maega.gal/gl/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Aurias</title>
+      <link>https://maega.gal/gl/authors/aurias/</link>
+      <pubDate>Sat, 15 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://maega.gal/gl/authors/aurias/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Maega</title>
@@ -15,16 +25,6 @@
       <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
       
       <guid>https://maega.gal/gl/authors/maega/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Aurias</title>
-      <link>https://maega.gal/gl/authors/aurias/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://maega.gal/gl/authors/aurias/</guid>
       <description></description>
       
     </item>

@@ -4,7 +4,7 @@
 
   <url>
     <loc>https://maega.gal/gl/</loc>
-    <lastmod>2025-02-11T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-09T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -19,24 +19,63 @@
     />
   </url>
   <url>
-    <loc>https://maega.gal/gl/estatutos/</loc>
-    <lastmod>2025-02-11T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://maega.gal/gl/aurias/</loc>
+    <loc>https://maega.gal/gl/novas/</loc>
+    <lastmod>2025-03-09T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://maega.gal/es/aurias/"
+      href="https://maega.gal/es/novas/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="gl"
-      href="https://maega.gal/gl/aurias/"
+      href="https://maega.gal/gl/novas/"
     />
+  </url>
+  <url>
+    <loc>https://maega.gal/gl/proxectos/aurias/</loc>
+    <lastmod>2025-02-15T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://maega.gal/es/proxectos/aurias/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="gl"
+      href="https://maega.gal/gl/proxectos/aurias/"
+    />
+  </url>
+  <url>
+    <loc>https://maega.gal/gl/proxectos/</loc>
+    <lastmod>2025-02-15T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://maega.gal/es/proxectos/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="gl"
+      href="https://maega.gal/gl/proxectos/"
+    />
+  </url>
+  <url>
+    <loc>https://maega.gal/gl/asociacion/</loc>
+    <lastmod>2025-02-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://maega.gal/gl/asociacion/estatutos/</loc>
+    <lastmod>2025-02-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>

@@ -7,14 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>gl</language>
     <copyright>© 2025 Asociación Galega de Estudantes de Matemáticas</copyright>
-    <lastBuildDate>Tue, 11 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://maega.gal/gl/tags/a-asociaci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 15 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://maega.gal/gl/tags/a-asociaci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Aurias</title>
+      <link>https://maega.gal/gl/proxectos/aurias/</link>
+      <pubDate>Sat, 15 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://maega.gal/gl/proxectos/aurias/</guid>
+      <description>&lt;p&gt;Aurias é un programa de amadriñamento de alumnas do ensino medio (ESO e Bacharelato) por estudantes do grao en Matemáticas (e os dobres graos con Informática e Física).&lt;/p&gt;
+&lt;p&gt;Este contacto busca potenciar a interese polas matemáticas, tanto por informar sobre a vida universitaria como por promover a participación en actividades de carácter lúdico e na olimpíada matemática.&lt;/p&gt;
+&lt;p&gt;Ademais, as alumnas poderán contar, se así o desexan cunha preparación básica para enfrontar problemas deste carácter, sempre dende unha visión flexible, divertida e sobre todo, cun contacto achegado.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://maega.gal/gl/proxectos/aurias/featured.png" />
+    </item>
     
     <item>
       <title>Estatutos MaEGA</title>
-      <link>https://maega.gal/gl/estatutos/</link>
+      <link>https://maega.gal/gl/asociacion/estatutos/</link>
       <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://maega.gal/gl/estatutos/</guid>
+      <guid>https://maega.gal/gl/asociacion/estatutos/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;Disposicións xerais 
     &lt;div id=&#34;disposici%C3%B3ns-xerais&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -40,19 +52,7 @@
 &lt;p&gt;Coa denominación de “Asociación Galega de Estudantes de Matemáticas” (MaEGA), constitúese unha
 organización universitaria de natureza asociativa e sen ánimo de lucro, rexida por principios democráticos,
 de igualdade, laicos e sen vinculación a ningunha organización polı́tica.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://maega.gal/gl/estatutos/featured.jpg" />
-    </item>
-    
-    <item>
-      <title>Aurias</title>
-      <link>https://maega.gal/gl/aurias/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://maega.gal/gl/aurias/</guid>
-      <description>&lt;p&gt;Aurias é un programa de amadriñamento de alumnas do ensino medio (ESO e Bacharelato) por estudantes do grao en Matemáticas (e os dobres graos con Informática e Física).&lt;/p&gt;
-&lt;p&gt;Este contacto busca potenciar a interese polas matemáticas, tanto por informar sobre a vida universitaria como por promover a participación en actividades de carácter lúdico e na olimpíada matemática.&lt;/p&gt;
-&lt;p&gt;Ademais, as alumnas poderán contar, se así o desexan cunha preparación básica para enfrontar problemas deste carácter, sempre dende unha visión flexible, divertida e sobre todo, cun contacto achegado.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://maega.gal/gl/aurias/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://maega.gal/gl/asociacion/estatutos/featured.jpg" />
     </item>
     
   </channel>
