@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Liga Matemática on MaEGA</title>
-    <link>http://localhost:1313/gl/tags/liga-matem%C3%A1tica/</link>
+    <link>https://maega.gal/gl/tags/liga-matem%C3%A1tica/</link>
     <description>Recent content in Liga Matemática on MaEGA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>gl</language>
     <copyright>© 2025 Asociación Galega de Estudantes de Matemáticas</copyright>
-    <lastBuildDate>Wed, 26 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/gl/tags/liga-matem%C3%A1tica/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 26 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://maega.gal/gl/tags/liga-matem%C3%A1tica/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>O equipo da USC remata 5º na edición 24-25 da Liga Matemática da ANEM</title>
-      <link>http://localhost:1313/gl/novas/resultado-liga-matematica-2025/</link>
+      <link>https://maega.gal/gl/novas/resultado-liga-matematica-2025/</link>
       <pubDate>Wed, 26 Mar 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/gl/novas/resultado-liga-matematica-2025/</guid>
+      <guid>https://maega.gal/gl/novas/resultado-liga-matematica-2025/</guid>
       <description>&lt;p&gt;Acaba de rematar a fase regular da segunda edición da Liga Matemática organizada pola ANEM (Asociación Nacional de Estudantes de Matemáticas) e dende Sementeira querémonos facer eco do gran resultado obtido polo equipo da facultade (&lt;em&gt;«Funtor de Breogán»&lt;/em&gt;).&lt;/p&gt;
 
 
@@ -29,7 +29,7 @@
     
 &lt;/h2&gt;
 &lt;p&gt;A Liga Matemática é unha competición onde equipos de 30 universidades españolas se enfrontan na resolución de problemas matemáticos ao estilo das olimpíadas matemáticas. Divídense en 2 conferencias/grupos (o Abeliano e o Boreliano) de 15 equipos que se enfrontan nunha liga. Os partidos consisten en enfrontamentos 6 vs. 6, nos que ambos equipos teñen que resolver 3 problemas en 90 minutos, gañando o equipo que resolva primeiro os 3 problemas ou que, no seu defecto, resolva máis.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/gl/novas/resultado-liga-matematica-2025/featured.jpeg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://maega.gal/gl/novas/resultado-liga-matematica-2025/featured.jpeg" />
     </item>
     
   </channel>
