@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Novas on MaEGA</title>
+    <link>http://localhost:1313/gl/novas/</link>
+    <description>Recent content in Novas on MaEGA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>gl</language>
+    <copyright>© 2025 Asociación Galega de Estudantes de Matemáticas</copyright>
+    <lastBuildDate>Sun, 09 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/gl/novas/index.xml" rel="self" type="application/rss+xml" />
+    
+  </channel>
+</rss>
