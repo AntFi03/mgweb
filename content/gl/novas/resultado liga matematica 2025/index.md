@@ -5,7 +5,7 @@ date: "2025-03-09"
 description: Acaba de rematar a fase regular da segunda edición da Liga Matemática organizada pola ANEM (Asociación Nacional de Estudantes de Matemáticas) e dende Sementeira (o clube olímpico de Mates USC) e MaEGA (a Asociación Galega de Estudantes de Matemáticas) querémonos facer eco do gran resultado obtido polo equipo da facultade.
 tags: ["Sementeira", "Liga Matemática", "ANEM", "Novas"]
 authors:
-  - "sementeira"
+  - "sementeira" 
 ---
 
 Acaba de rematar a fase regular da segunda edición da Liga Matemática organizada pola ANEM (Asociación Nacional de Estudantes de Matemáticas) e dende Sementeira querémonos facer eco do gran resultado obtido polo equipo da facultade (*«Funtor de Breogán»*).
