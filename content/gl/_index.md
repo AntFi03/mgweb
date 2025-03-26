@@ -45,7 +45,7 @@ Sementeira é un clube de resolución de problemas de olimpíadas matemáticas. 
     alt="Logo Sementeira"
     nozoom=true
     href="https://cv.usc.es/course/view.php?id=54843"
-    caption="Preme ao campus virtual do curso!"
+    caption="Preme para acceder ao campus virtual do curso!"
     >}}
 {{< /timelineItem >}}
 
