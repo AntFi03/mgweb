@@ -18,6 +18,7 @@ Auras é un programa de amadriñamento que pon en contacto a alumnas do ensino m
     src="Logo_Aurias_completo.png"
     alt="Logo Aurias"
     nozoom=true
+    class="image-proxectos"
     href="https://maega.gal/gl/proxectos/aurias/"
     caption="Preme para obter máis información!"
     >}}
@@ -31,6 +32,7 @@ Máis Mates é a revista universitaria da facultade de matemáticas da USC. Conf
     src="Logo_MaisMates.png"
     alt="Logo Máis Mates"
     nozoom=true
+    class="image-proxectos"
     href="https://www.usc.gal/gl/centro/facultade-matematicas/revista-estudiantil-mates"
     caption="Preme para obter máis información!"
     >}}
@@ -44,6 +46,7 @@ Sementeira é un clube de resolución de problemas de olimpíadas matemáticas. 
     src="sementeira.png"
     alt="Logo Sementeira"
     nozoom=true
+    class="image-proxectos"
     href="https://cv.usc.es/course/view.php?id=54843"
     caption="Preme para acceder ao campus virtual do curso!"
     >}}
