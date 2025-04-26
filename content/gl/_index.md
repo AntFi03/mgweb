@@ -26,7 +26,7 @@ Auras é un programa de amadriñamento que pon en contacto a alumnas do ensino m
 
 
 {{< timelineItem icon="globe" header="Máis Mates: revista estudantil." >}}
-Máis Mates é a revista universitaria da facultade de matemáticas da USC. Confeccionada polo alumnado, achega artigos curtos con pequenas anécdotas sobre a historia das matemáticas, as últimas novas, entrevistas, pasatempos e pequenos petiscos teóricos de temas que, ao mellor, non se tratan con profundidade na carreira... 
+Máis Mates é a revista universitaria da facultade de matemáticas da USC. Confeccionada polo estudantado, achega artigos curtos con pequenas anécdotas sobre a historia das matemáticas, as últimas novas, entrevistas, pasatempos e pequenos petiscos teóricos de temas que, ao mellor, non se tratan con profundidade na carreira... 
 
 {{< figure
     src="Logo_MaisMates.png"
