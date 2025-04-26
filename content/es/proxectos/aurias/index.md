@@ -1,16 +1,6 @@
 ---
 title: "Aurias"
 draft: false
-description: "Aurias es un programa de amadrinamiento de alumnas de educación secundaria (ESO e Bacharelato) por parte de estudiantes del grado en Matemáticas (y de los dobles grados con Infromática y Física)."
-tags: ["Proyectos", "La Asociación"]
-date: "2025-02-15"
-authors:
-  - "aurias"
----
-
----
-title: "Aurias"
-draft: false
 description: "Aurias é un programa de amadriñamento de alumnas do ensino medio (ESO e Bacharelato) por estudantes do grao en Matemáticas (e os dobres graos con Informática e Física)."
 date: "2025-02-15"
 tags: ["Proxectos", "A Asociación"]
@@ -18,19 +8,19 @@ authors:
   - "aurias"
 ---
 
-Aurias es un proyecto de MaEGA, la Asociación galega de estudantes de matemáticas creado neste 2025 para promover a participación de rapazas de entre trece e dezasete anos en múltiples actividades asociadas coas matemáticas, particularmente nas Olimpíadas Matemáticas e outras competicións semellantes. A iniciativa xorde pola preocupación das estudantes do Grao en Matemáticas ante a baixa porcentaxe de participación de mulleres nestas actividades, este ano só houbo un 28% de participación feminina na Olimpíada de Bacharelato, que se traduce en 101 rapaces e 40 rapazas.
+Aurias es un proyecto de MaEGA, la Asociación Galega de Estudantes de Matemáticas, creado este 2025 para promover la participación de chicas de entre trece e diecisiete años en múltiples actividades asociadas con las matemáticas, particularmente en las Olimpiadas Matemáticas y otras competiciones similares. La iniciativa surge por la preocupación de las estudiantes del Grado en Matemáticas ante la baja porcentaje de participación de mujeres en estas actividades. Por ejemplo, este año solo hubo un 28% de participación femenina en Olimpiada de Bachillerato, que se traduce en 101 chicos e 40 chicas.
 
-Sábese que a primeiro de carreira de matemáticas chegan unhas sesenta mulleres cada curso, isto é, case un 50% do total de matriculados, resulta polo tanto extraña esa diferenza. Aurias nace para reducir esta distancia.
+Se sabe que a primero de carrera de matemáticas llegan unas sesenta mujeres cada curso, esto es casi un 50% del total de matriculados, por lo que resulta extraña esa diferenza. Aurias nace para reducir esta distancia.
 
-Para isto propoñemos un programa de amadriñamento, xunto con outras actividades asociadas.
+Para esto proponemos un programa de amadrinamiento, junto con otras actividades asociadas.
 
-Este programa busca conectar ás rapazas interesadas con mulleres estudantes do Grao en Matemáticas, do Dobre Grao en Matemáticas e Enxeñaría Informática e do Dobre Grao de Física e Matemáticas, que se reunirían con estas unha vez cada dúas semanas de forma telemática e cun horario flexible ca fin de achegarlles esta ciencia de forma máis persoal e con maior facilidade. Neses encontros poderán falar sobre o mundo universitario, en particular, o asociado cas matemáticas e Santiago de Compostela, tamén tratarán e discutirán problemas tipo Olimpíada matemática podendo recibir formación específica, sempre dende un enfoque orientado á aprendizaxe personalizada e ao desenvolvemento das capacidades e razoamentos matemáticos.
+Este programa busca conectar a las niñas interesadas con mujeres estudiantes del Grado en Matemáticas, del Doble Grado en Matemáticas e Ingeniería Informática y del Doble Grao de Física y Matemáticas, que se reunirían con estas una vez cada dos semanas de forma telemática y con un horario flexible con el fin de acercarles esta ciencia de forma más personal y con mayor facilidad. En estes encuentros poderán hablar sobre el mundo universitario, en particular, el asociado con las matemáticas y Santiago de Compostela, también tratarán y discutirán problemas tipo olimpiada matemática, pudiendo recibir formación específica y siempre desde un enfoque orientado a la aprendizaje personalizada y al desenvolvimiento de las capacidades y razonamientos matemáticos.
 
-Contamos neste proxecto coa colaboración do Clube Olímpico da Facultade de Matemáticas, Sementeira, creado no 2017 e con ampla experiencia na preparatoria e participación de concursos matemáticos nacionais e internacionais. Desta colaboración xorde un manual de preparación, co que poderán contar todas as participantes do proxecto.
+Contamos en este proyecto con la colaboración del Club Olímpico de la Facultad de Matemáticas, Sementeira, creado en 2017 y con amplia experiencia en la preparatoria y participación de concursos matemáticos nacionales e internacionales. De esta colaboración surge un manual de preparación, con el que podrán contar todas las participantes del proyecto.
 
-Sendo os obxectivos desta iniciativa achegarlles matemáticas universitarias, moi distintas das cursadas no ensino medio, ás participantes e como se dixo no inicio, motivalas a participar en actividades matemáticas, como poden ser o concurso Explícoche Matemáticas 2.0 ou as Olimpíadas matemáticas e un encontro presencial opcional entre madriñas e afilladas.
+Siendo los obxectivos de esta iniciativa acercarles matemáticas universitarias, muy distintas de las cursadas en la enseñanza secundaria, a las participantes y, como se dijo en el inicio, motivarlas a participar en actividades matemáticas, como pueden ser el concurso Explícoche Matemáticas 2.0 o las Olimpíadas matemáticas y un encuentro presencial opcional entre madrinas e ahijadas.
 
-Se queres incribirte podes facelo a través [deste enlace](https://docs.google.com/forms/d/e/1FAIpQLScOJ_JILc9EY3Qj1GpqrBKo6_lyrdaceS93p0RzgGk0lKLMwA/viewform). Se tes calquera dúbida podes contactarnos a través do correo auriasmat@gmail.com.
+Si quieres incribirte, puedes hacerlo a través [de este enlace](https://docs.google.com/forms/d/e/1FAIpQLScOJ_JILc9EY3Qj1GpqrBKo6_lyrdaceS93p0RzgGk0lKLMwA/viewform). Si tienes cualquier duda, puedes contactarnos a través del correo auriasmat@gmail.com.
 
 
 
@@ -38,16 +28,3 @@ Se queres incribirte podes facelo a través [deste enlace](https://docs.google.c
 ![Logo de Aurias](featured.png)
 
 <img src="logo_oix.png" alt="Logo de la OIX" width="1000"/>
-
-
-Aurias es un programa de amadrinamiento de alumnas de educación secundaria (ESO e Bacharelato) por parte de estudiantes del grado en Matemáticas (y de los dobles grados con Infromática y Física).
-
-Este contacto busca potenciar el interés por las matemáticas, tanto informar sobre la vida universitaria como por promover la participarción en actividades de carácter lúdico y en la olimpiada matemática.
-
-Además, las alumnas podrán contar, si así lo desean con una preparación básica para enfrentarse a problemas de este tipo, siempre deste una visión flexible, divertida y sobre todo, cercana.
-
-Todo esto se llevará a cabo en una sesión cada 2 semanas (con duración aproximada de una hora) agendada directamente con las madrinas durante el curso escolar (a excepción de enero y mayo, época de exámenes universitarios).
-
-A mayores, contamos con realizar una actividad al cuatrimestre presencial para poder conocernos en persona! Si queires incribirte puedes hacerlo a través [de este enlace](https://docs.google.com/forms/d/e/1FAIpQLScOJ_JILc9EY3Qj1GpqrBKo6_lyrdaceS93p0RzgGk0lKLMwA/viewform). Si tienes cualquier duda puedes contactarnos a través del correo auriasmat@gmail.com.
-
-![Logo de Aurias](featured.png)
