@@ -1,5 +1,5 @@
 ---
-title: Campaña. Todo pasa... e todo queda?
+title: Campaña. "Todo pasa... e todo queda?"
 draft: false
 date: "2025-04-26"
 description: ""
