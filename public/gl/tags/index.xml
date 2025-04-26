@@ -7,7 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>gl</language>
     <copyright>© 2025 Asociación Galega de Estudantes de Matemáticas</copyright>
-    <lastBuildDate>Wed, 26 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/gl/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 26 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/gl/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Enxeñería Sen Fronteiras</title>
+      <link>http://localhost:1313/gl/tags/enxe%C3%B1er%C3%ADa-sen-fronteiras/</link>
+      <pubDate>Sat, 26 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/gl/tags/enxe%C3%B1er%C3%ADa-sen-fronteiras/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>MaEGA</title>
+      <link>http://localhost:1313/gl/tags/maega/</link>
+      <pubDate>Sat, 26 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/gl/tags/maega/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Novas</title>
+      <link>http://localhost:1313/gl/tags/novas/</link>
+      <pubDate>Sat, 26 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/gl/tags/novas/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>ANEM</title>
@@ -25,16 +55,6 @@
       <pubDate>Wed, 26 Mar 2025 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/gl/tags/liga-matem%C3%A1tica/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Novas</title>
-      <link>http://localhost:1313/gl/tags/novas/</link>
-      <pubDate>Wed, 26 Mar 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/gl/tags/novas/</guid>
       <description></description>
       
     </item>
