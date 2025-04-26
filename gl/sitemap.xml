@@ -4,7 +4,7 @@
 
   <url>
     <loc>https://maega.gal/gl/</loc>
-    <lastmod>2025-03-26T00:00:00+00:00</lastmod>
+    <lastmod>2025-04-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -19,8 +19,14 @@
     />
   </url>
   <url>
+    <loc>https://maega.gal/gl/novas/campa%C3%B1a-esf-todo-pasa-e-todo-queda/</loc>
+    <lastmod>2025-04-26T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://maega.gal/gl/novas/</loc>
-    <lastmod>2025-03-26T00:00:00+00:00</lastmod>
+    <lastmod>2025-04-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
