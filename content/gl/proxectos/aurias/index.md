@@ -14,13 +14,19 @@ Sábese que a primeiro de carreira de matemáticas chegan unhas sesenta mulleres
 
 Para isto propoñemos un programa de amadriñamento, xunto con outras actividades asociadas.
 
-Este programa busca conectar ás rapazas interesadas con mulleres estudantes do Grao en Matemáticas, do Dobre Grao en Matemáticas e Enxeñaría Informática e do Dobre Grao de Física e Matemáticas, que se reunirían con estas unha vez cada dúas semanas de forma telemática e cun horario flexible ca fin de achegarlles esta ciencia de forma máis persoal e con maior facilidade. Neses encontros poderán falar sobre o mundo universitario, en particular, o asociado cas matemáticas e Santiago de Compostela, tamén tratarán e discutirán problemas tipo olimpíada matemática, podendo recibir formación específica e sempre dende un enfoque orientado á aprendizaxe personalizada e ao desenvolvemento das capacidades e razoamentos matemáticos.
+Este programa busca conectar ás rapazas interesadas con mulleres estudantes do Grao en Matemáticas, do Dobre Grao en Matemáticas e Enxeñaría Informática e do Dobre Grao de Física e Matemáticas, que se reunirían con estas unha vez cada dúas semanas de forma telemática e cun horario flexible ca fin de achegarlles esta ciencia de forma máis persoal e con maior facilidade. Neses encontros poderán falar sobre o mundo universitario, en particular, o asociado cas matemáticas e Santiago de Compostela, tamén tratarán e discutirán problemas tipo olimpíada matemática, podendo recibir formación específica e sempre dende un enfoque orientado á aprendizaxe personalizada e ao desenvolvemento das capacidades e razoamentos matemáticos. O período lectivo sería dende marzo a xaneiro, con descansos en maio, xullo, agosto, finais de decembro e xaneiro.
 
 Contamos neste proxecto coa colaboración do Clube Olímpico da Facultade de Matemáticas, Sementeira, creado no 2017 e con ampla experiencia na preparatoria e participación de concursos matemáticos nacionais e internacionais. Desta colaboración xorde un manual de preparación, co que poderán contar todas as participantes do proxecto.
 
 Sendo os obxectivos desta iniciativa achegarlles matemáticas universitarias, moi distintas das cursadas no ensino medio, ás participantes e, como se dixo no inicio, motivalas a participar en actividades matemáticas, como poden ser o concurso Explícoche Matemáticas 2.0 ou as Olimpíadas matemáticas e un encontro presencial opcional entre madriñas e afilladas.
 
-Se queres incribirte, podes facelo a través [deste enlace](https://docs.google.com/forms/d/e/1FAIpQLScOJ_JILc9EY3Qj1GpqrBKo6_lyrdaceS93p0RzgGk0lKLMwA/viewform). Se tes calquera dúbida, podes contactarnos a través do correo auriasmat@gmail.com.
+Se queres incribirte, podes facelo a través [deste enlace](https://docs.google.com/forms/d/e/1FAIpQLScOJ_JILc9EY3Qj1GpqrBKo6_lyrdaceS93p0RzgGk0lKLMwA/viewform) seguindo os seguintes pasos:
+1. Enche o formulario cun dos teus titores legais.
+2. Recibirás un correo onde se che asigna praza e madriña.
+3. En menos dunha semana, a túa madriña se poñerá en contacto contigo para concretar un horario.
+4. Desfrutarás das sesións.
+
+Para poder garantir a praza, será necesario responder aos correos en, como máximo, unha semana. Se tes calquera dúbida, podes contactarnos a través do correo auriasmat@gmail.com.
 
 
 
