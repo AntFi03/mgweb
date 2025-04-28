@@ -30,7 +30,10 @@ Para poder garantizar la plaza, será necesario responder a los correos en, como
 
 
 
-
 ![Logo de Aurias](featured.png)
 
-<img src="logo_oix.png" alt="Logo de la OIX" width="1000"/>
+
+<div class="flex items-center space-x-6">
+  <span>Por parte de la USC, este proyecto cuenta con el apoyo y la colaboración de:</span>
+  <img src="logo_oix.png" alt="Description" class="grid-w70 align-middle">
+</div>
