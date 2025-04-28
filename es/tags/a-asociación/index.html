@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="es" dir="ltr" class="scroll-smooth" data-default-appearance="dark"
-  data-auto-appearance="true"><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  data-auto-appearance="true"><head>
   <meta charset="utf-8" />
   
   <meta http-equiv="content-language" content="es" />
@@ -15,7 +15,7 @@
   
   
   
-  <link rel="canonical" href="//localhost:1313/es/tags/a-asociaci%C3%B3n/" />
+  <link rel="canonical" href="https://maega.gal/es/tags/a-asociaci%C3%B3n/" />
   
   <link rel="alternate" type="application/rss+xml" href="/es/tags/a-asociaci%C3%B3n/index.xml" title="MaEGA" />
   
@@ -28,8 +28,8 @@
   
   
   
-  <link type="text/css" rel="stylesheet" href="/css/main.bundle.min.2365e14febccbb838a0e878a93047c73713fb2e217cccdc936bfa2bb615504feb811361f5d74624f922fbe30c23efd9b43396cf558b143b32d942e6c66607cef.css"
-    integrity="sha512-I2XhT&#43;vMu4OKDoeKkwR8c3E/suIXzM3JNr&#43;iu2FVBP64ETYfXXRiT5IvvjDCPv2bQzls9VixQ7MtlC5sZmB87w==" />
+  <link type="text/css" rel="stylesheet" href="/css/main.bundle.min.ee9fe81bb5fedf8c2497d39d4ac2e0109797cb15293b3ee6f602911eb05ee481945a03984279df730c48bec746dc2ee066c7a51af01139fb0d7c5152c2212141.css"
+    integrity="sha512-7p/oG7X&#43;34wkl9OdSsLgEJeXyxUpOz7m9gKRHrBe5IGUWgOYQnnfcwxIvsdG3C7gZselGvAROfsNfFFSwiEhQQ==" />
   
   
   <script type="text/javascript" src="/js/appearance.min.f12e6361832244131ff2563a111f530cfdcdff28be7b35b195d2e17c586c2d3156fe0b5cd3e4a303d5366315e391f858018985a80ce219e814dbe9f5cd8890e6.js"
@@ -45,8 +45,11 @@
   
   
   
-  <script defer type="text/javascript" id="script-bundle" src="/js/main.bundle.min.b6411b5d4cd56c0068d34c4acbce043846adad56b824e3d486a06d3459aed2eb7f7413874b7871cc2c822c8c8834cbed944022918bcc8cca710a962167c36d32.js"
-    integrity="sha512-tkEbXUzVbABo00xKy84EOEatrVa4JOPUhqBtNFmu0ut/dBOHS3hxzCyCLIyINMvtlEAikYvMjMpxCpYhZ8NtMg==" data-copy="" data-copied=""></script>
+  
+  
+  
+  <script defer type="text/javascript" id="script-bundle" src="/js/main.bundle.min.3ad74b33440334ca29f8801ec6dac1f314951cf580e503d49631816b48d1f28d03543275f92b651565b48045b90731f47595b1396214b8b6aa11c6990f867f7e.js"
+    integrity="sha512-OtdLM0QDNMop&#43;IAextrB8xSVHPWA5QPUljGBa0jR8o0DVDJ1&#43;StlFWW0gEW5BzH0dZWxOWIUuLaqEcaZD4Z/fg==" data-copy="" data-copied=""></script>
   
   
   
@@ -66,7 +69,7 @@
   
   
   
-  <meta property="og:url" content="//localhost:1313/es/tags/a-asociaci%C3%B3n/">
+  <meta property="og:url" content="https://maega.gal/es/tags/a-asociaci%C3%B3n/">
   <meta property="og:site_name" content="MaEGA">
   <meta property="og:title" content="A Asociación">
   <meta property="og:locale" content="es">
@@ -81,7 +84,7 @@
 
   
   
-  <meta name="author" content="Asociación Galega de Estudantes de Matemáticas" />
+  <meta name="author" content="Asociación Gallega de Estudantes de Matemáticas" />
   
   
   
@@ -119,6 +122,29 @@
   <meta name="theme-color"/>
   
   
+  
+  <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-app.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-firestore.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-auth.js"></script>
+  <script>
+
+    const firebaseConfig = {
+      apiKey: "AIzaSyB5xeRljgZzBltq-Dbv3gGKZ2-jBRKbsd0",
+      authDomain: "AIzaSyB5xeRljgZzBltq-Dbv3gGKZ2-jBRKbsd0",
+      projectId: "maegaweb",
+      storageBucket: "maegaweb.firebasestorage.app",
+      messagingSenderId: "152426566109",
+      appId: "1:152426566109:web:181ec4384dfec644e8a634",
+      measurementId: "G-QRYK3SGC8X"
+    };
+
+    var app = firebase.initializeApp(firebaseConfig);
+    var db = firebase.firestore();
+    var auth = firebase.auth();
+
+  </script>
+  
+  
 </head>
 <body
   class="flex flex-col h-screen px-6 m-auto text-lg leading-7 max-w-7xl bg-neutral text-neutral-900 dark:bg-neutral-800 dark:text-neutral sm:px-14 md:px-24 lg:px-32 scrollbar-thin scrollbar-track-neutral-200 scrollbar-thumb-neutral-400 dark:scrollbar-track-neutral-800 dark:scrollbar-thumb-neutral-600">
@@ -131,7 +157,7 @@
   
   <div class="min-h-[148px]"></div>
 <div class="fixed inset-x-0 pl-[24px] pr-[24px]" style="z-index:100">
-  <div id="menu-blur" class="absolute opacity-0 inset-x-0 top-0 h-full single_hero_background nozoom bg-neutral dark:bg-neutral-800"></div>
+  <div id="menu-blur" class="absolute opacity-0 inset-x-0 top-0 h-full single_hero_background nozoom backdrop-blur-2xl shadow-2xl"></div>
   <div class="relative max-w-[64rem] ml-auto mr-auto">
     <div style="padding-left:0;padding-right:0;padding-top:2px;padding-bottom:3px"
     class="main-menu flex items-center justify-between px-4 py-6 sm:px-6 md:justify-start gap-x-3">
@@ -161,9 +187,9 @@
             
             
             
-  <a href=""  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
+  <a href="/es/novas/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
     
-    <p class="text-base font-medium" title="">
+    <p class="text-base font-medium" title="Noticias">
         Noticias
     </p>
 </a>
@@ -175,7 +201,7 @@
   <div>
   <div class="cursor-pointer flex items-center nested-menu">
     
-    <a  href="/es/tags/proxectos/"   class="text-base font-medium text-gray-500 hover:text-primary-600 dark:hover:text-primary-400" title="Proxectos">
+    <a  class="text-base font-medium text-gray-500 hover:text-primary-600 dark:hover:text-primary-400" title="">
       Proyectos
     </a>
     <span>
@@ -204,7 +230,7 @@
     <div class="pt-2 p-5 mt-2 rounded-xl backdrop-blur shadow-2xl">
       <div class="flex flex-col space-y-3">
         
-        <a href="/es/aurias/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
+        <a href="/es/proxectos/aurias/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
           
           <p class="text-sm font-sm" title="Aurias">
             Aurias
@@ -312,13 +338,13 @@
         
         <a href="/gl/tags/a-asociaci%C3%B3n/" class="flex items-center">
           <p class="text-sm font-sm text-gray-500 hover:text-primary-600 dark:hover:text-primary-400" title="A Asociación">
-            GL
+            galego
           </p>
         </a>
         
         <a href="/es/tags/a-asociaci%C3%B3n/" class="flex items-center">
           <p class="text-sm font-sm text-gray-500 hover:text-primary-600 dark:hover:text-primary-400" title="A Asociación">
-            ES
+            español
           </p>
         </a>
         
@@ -399,13 +425,13 @@
         
         <a href="/gl/tags/a-asociaci%C3%B3n/" class="flex items-center">
           <p class="text-sm font-sm text-gray-500 hover:text-primary-600 dark:hover:text-primary-400" title="A Asociación">
-            GL
+            galego
           </p>
         </a>
         
         <a href="/es/tags/a-asociaci%C3%B3n/" class="flex items-center">
           <p class="text-sm font-sm text-gray-500 hover:text-primary-600 dark:hover:text-primary-400" title="A Asociación">
-            ES
+            español
           </p>
         </a>
         
@@ -493,9 +519,9 @@
 
                     
   <li class="mt-1">
-    <a href=""  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
+    <a href="/es/novas/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
         
-        <p class="text-bg font-bg" title="">
+        <p class="text-bg font-bg" title="Noticias">
             Noticias
         </p>
     </a>
@@ -508,9 +534,9 @@
 
                      
   <li class="mt-1">
-    <a href="/es/tags/proxectos/" class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
+    <a href="" class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
         
-        <p class="text-bg font-bg" title="Proxectos">
+        <p class="text-bg font-bg" title="">
             Proyectos
         </p>
         <span>
@@ -538,7 +564,7 @@
 </li>
 
 <li class="mt-1">
-    <a href="/es/aurias/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
+    <a href="/es/proxectos/aurias/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
         
         <p class="text-sm font-small" title="Aurias">
             Aurias
@@ -681,6 +707,16 @@
 
 
 
+<script>
+    (function () {
+        var $mainmenu = $('.main-menu');
+        var path = window.location.pathname;
+        $mainmenu.find('a[href="' + path + '"]').each(function (i, e) {
+            $(e).children('p').addClass('active');
+        });
+    })();
+</script>
+
 
   </div>
 </div>
@@ -697,6 +733,42 @@
     <main id="main-content" class="grow">
       
 
+
+
+
+
+
+ 
+  
+   
+  
+ 
+
+
+
+
+
+    
+    <div class="fixed inset-x-0 top-0 h-[800px] single_hero_background nozoom"
+    style="background-image:url(/background.svg);">
+    
+
+
+    <div class="absolute inset-0 bg-gradient-to-t from-neutral dark:from-neutral-800 to-transparent mix-blend-normal">
+    </div>
+    <div
+        class="absolute inset-0 opacity-60 bg-gradient-to-t from-neutral dark:from-neutral-800 to-neutral-100 dark:to-neutral-800 mix-blend-normal">
+    </div>
+</div>
+
+<div id="background-blur" class="fixed opacity-0 inset-x-0 top-0 h-full single_hero_background nozoom backdrop-blur-2xl"></div>
+<script>
+    window.addEventListener('scroll', function (e) {
+        var scroll = window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop || 0;
+        var background_blur = document.getElementById('background-blur');
+        background_blur.style.opacity = (scroll / 300)
+    });
+</script>
 
  <header>
   
@@ -746,55 +818,30 @@
 
   
 
-  <section class="space-y-10 w-full">
+  
+
+  <section class="w-full grid gap-4 sm:grid-cols-2 md:grid-cols-3">
     
     
     
+
+  <a href="/es/proxectos/aurias/" class="min-w-full">
     
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  <a class="flex flex-wrap article border border-neutral-200 dark:border-neutral-700 border-2 rounded-md overflow-hidden max-w-prose" href="/es/aurias/">
-    
+    <div class="min-h-full border border-neutral-200 dark:border-neutral-700 border-2 rounded overflow-hidden shadow-2xl relative">
         
-        <div class="w-full md:w-auto h-full thumbnail nozoom " style="background-image:url(/es/aurias/featured_hu_bcf863af31e0a042.png);"></div>
+        <div class="w-full thumbnail_card nozoom" style="background-image:url(/es/proxectos/aurias/featured_hu_bcf863af31e0a042.png);"></div>
         
-      <div class=" p-4">
-      <div class="items-center text-left text-xl font-semibold">
+      
+
+      <div class="px-6 py-4">
+
         
         <div class="font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral"
-          href="/es/aurias/">Aurias</div>
-        
-        
-        
-      </div>
-      <div class="text-sm text-neutral-500 dark:text-neutral-400">
+          href="/es/proxectos/aurias/">Aurias</div>
         
 
-
-
-
+        <div class="text-sm text-neutral-500 dark:text-neutral-400">
+          
 
 
 
@@ -811,6 +858,14 @@
 
 
 
+
+
+
+  
+
+
+
+  
 
 
 
@@ -825,7 +880,32 @@
 <div class="flex flex-row flex-wrap items-center">
   
   
-  <span>167 palabras</span>
+  <time datetime="2025-02-15T00:00:00&#43;00:00">15 febrero 2025</time><span class="px-2 text-primary-500">&middot;</span><span title="Tiempo de lectura">3 mins</span><span class="px-2 text-primary-500">&middot;</span><span>
+  
+  
+    
+    
+      
+      
+        
+        
+      
+        
+        
+      
+      
+    
+  
+  <span id="views_proxectos/aurias/index.md" class="animate-pulse inline-block text-transparent max-h-3 rounded-full mt-[-2px] align-middle bg-neutral-300 dark:bg-neutral-400" title="views">loading</span>
+  <span class="inline-block align-text-bottom">
+
+  <span class="relative block icon">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512">
+<path fill="currentColor" d="M288 32c-80.8 0-145.5 36.8-192.6 80.6C48.6 156 17.3 208 2.5 243.7c-3.3 7.9-3.3 16.7 0 24.6C17.3 304 48.6 356 95.4 399.4C142.5 443.2 207.2 480 288 480s145.5-36.8 192.6-80.6c46.8-43.5 78.1-95.4 93-131.1c3.3-7.9 3.3-16.7 0-24.6c-14.9-35.7-46.2-87.7-93-131.1C433.5 68.8 368.8 32 288 32zM432 256c0 79.5-64.5 144-144 144s-144-64.5-144-144s64.5-144 144-144s144 64.5 144 144zM288 192c0 35.3-28.7 64-64 64c-11.5 0-22.3-3-31.6-8.4c-.2 2.8-.4 5.5-.4 8.4c0 53 43 96 96 96s96-43 96-96s-43-96-96-96c-2.8 0-5.6 .1-8.4 .4c5.3 9.3 8.4 20.1 8.4 31.6z"/></svg>
+  </span>
+
+</span>
+</span>
   
 
   
@@ -873,21 +953,21 @@
 
 
 
+        </div>
+
+        
       </div>
-      
-      <div class="py-1 max-w-fit prose dark:prose-invert">
-         Matemáticas entre matemáticas. Aurias es un programa de amadrinamiento de alumnas de educación secundaria (ESO e Bacharelato) por parte de estudiantes del grado en Matemáticas (y de los dobles grados con Infromática y Física).
-Este contacto busca potenciar el interes por las matemáticas, tanto informar sobre la vida universitaria como por promover la participarción en actividades de carácter lúdico y en la olimpíada matemática.
-Además, las alumnas podrán contar, si así lo desean con una preparación básica para enfrentarse a problemas de este tipo, siempre deste una visión flexible, divertida y sobre todo, cercana.
+      <div class="px-6 pt-4 pb-2">
 
       </div>
-      
     </div>
   </a>
 
     
     
   </section>
+
+  
 
   
 
@@ -905,7 +985,23 @@ Además, las alumnas podrán contar, si así lo desean con una preparación bás
       <ul class="flex flex-col list-none sm:flex-row">
         
         <li class="flex mb-1 ltr:text-right rtl:text-left sm:mb-0 ltr:sm:mr-7 ltr:sm:last:mr-0 rtl:sm:ml-7 rtl:sm:last:ml-0">
-          <a class="decoration-primary-500 hover:underline hover:decoration-2 hover:underline-offset-2 flex items-center" href="mailto::asociacion@maega.gal"
+          <a class="decoration-primary-500 hover:underline hover:decoration-2 hover:underline-offset-2 flex items-center" href="/es/tags/"
+            title="Etiquetas">
+            
+            Etiquetas
+          </a>
+        </li>
+        
+        <li class="flex mb-1 ltr:text-right rtl:text-left sm:mb-0 ltr:sm:mr-7 ltr:sm:last:mr-0 rtl:sm:ml-7 rtl:sm:last:ml-0">
+          <a class="decoration-primary-500 hover:underline hover:decoration-2 hover:underline-offset-2 flex items-center" href="/es/authors/"
+            title="Fuentes">
+            
+            Fuentes
+          </a>
+        </li>
+        
+        <li class="flex mb-1 ltr:text-right rtl:text-left sm:mb-0 ltr:sm:mr-7 ltr:sm:last:mr-0 rtl:sm:ml-7 rtl:sm:last:ml-0">
+          <a class="decoration-primary-500 hover:underline hover:decoration-2 hover:underline-offset-2 flex items-center" href="mailto:asociacion@maega.gal"
             title="">
             
             Contacto
@@ -923,7 +1019,7 @@ Además, las alumnas podrán contar, si así lo desean con una preparación bás
     <p class="text-sm text-neutral-500 dark:text-neutral-400">
       &copy;
       2025
-      Asociación Galega de Estudantes de Matemáticas
+      Asociación Gallega de Estudantes de Matemáticas
     </p>
     
 
@@ -949,7 +1045,7 @@ Además, las alumnas podrán contar, si así lo desean con una preparación bás
 <div
   id="search-wrapper"
   class="invisible fixed inset-0 flex h-screen w-screen cursor-default flex-col bg-neutral-500/50 p-4 backdrop-blur-sm dark:bg-neutral-900/50 sm:p-6 md:p-[10vh] lg:p-[12vh]"
-  data-url="//localhost:1313/es/"
+  data-url="https://maega.gal/es/"
   style="z-index:500"
 >
   <div
