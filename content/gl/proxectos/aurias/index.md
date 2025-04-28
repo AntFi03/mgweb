@@ -8,14 +8,32 @@ authors:
   - "aurias"
 ---
 
-Aurias é un programa de amadriñamento de alumnas do ensino medio (ESO e Bacharelato) por estudantes do grao en Matemáticas (e os dobres graos con Informática e Física).
+Aurias é un proxecto de MaEGA, a Asociación Galega de Estudantes de Matemáticas, creado neste 2025 para promover a participación de rapazas de entre trece e dezasete anos en múltiples actividades asociadas coas matemáticas, particularmente nas Olimpíadas Matemáticas e outras competicións semellantes. A iniciativa xorde pola preocupación das estudantes do Grao en Matemáticas ante a baixa porcentaxe de participación de mulleres nestas actividades. Por exemplo, este ano só houbo un 28% de participación feminina na Olimpíada de Bacharelato, que se traduce en 101 rapaces e 40 rapazas.
 
-Este contacto busca potenciar a interese polas matemáticas, tanto por informar sobre a vida universitaria como por promover a participación en actividades de carácter lúdico e na olimpíada matemática.
+Sábese que a primeiro de carreira de matemáticas chegan unhas sesenta mulleres cada curso, isto é case un 50% do total de matriculados, polo que resulta estraña esa diferenza. Aurias nace para reducir esta distancia.
 
-Ademais, as alumnas poderán contar, se así o desexan cunha preparación básica para enfrontar problemas deste carácter, sempre dende unha visión flexible, divertida e sobre todo, cun contacto achegado.
+Para isto propoñemos un programa de amadriñamento, xunto con outras actividades asociadas.
 
-Todo isto realizarase nunha sesión cada 2 semanas (duración aproximada dunha hora) axendada directamente coas madriñas durante o curso escolar (a excepción de xaneiro e maio, época de exames universitarios).
+Este programa busca conectar ás rapazas interesadas con mulleres estudantes do Grao en Matemáticas, do Dobre Grao en Matemáticas e Enxeñaría Informática e do Dobre Grao de Física e Matemáticas, que se reunirían con estas unha vez cada dúas semanas de forma telemática e cun horario flexible ca fin de achegarlles esta ciencia de forma máis persoal e con maior facilidade. Neses encontros poderán falar sobre o mundo universitario, en particular, o asociado cas matemáticas e Santiago de Compostela, tamén tratarán e discutirán problemas tipo olimpíada matemática, podendo recibir formación específica e sempre dende un enfoque orientado á aprendizaxe personalizada e ao desenvolvemento das capacidades e razoamentos matemáticos. O período lectivo sería dende marzo a xaneiro, con descansos en maio, xullo, agosto, finais de decembro e xaneiro.
 
-A maiores, contamos con realizar unha actividade ao cuadrimestre presencial para poder coñecernos en persoa! Se queres incribirte podes facelo a través [deste enlace](https://docs.google.com/forms/d/e/1FAIpQLScOJ_JILc9EY3Qj1GpqrBKo6_lyrdaceS93p0RzgGk0lKLMwA/viewform). Se tes calquera dúbida podes contactarnos a través do correo auriasmat@gmail.com.
+Contamos neste proxecto coa colaboración do Clube Olímpico da Facultade de Matemáticas, Sementeira, creado no 2017 e con ampla experiencia na preparatoria e participación de concursos matemáticos nacionais e internacionais. Desta colaboración xorde un manual de preparación, co que poderán contar todas as participantes do proxecto.
+
+Sendo os obxectivos desta iniciativa achegarlles matemáticas universitarias, moi distintas das cursadas no ensino medio, ás participantes e, como se dixo no inicio, motivalas a participar en actividades matemáticas, como poden ser o concurso Explícoche Matemáticas 2.0 ou as Olimpíadas matemáticas e un encontro presencial opcional entre madriñas e afilladas.
+
+Se queres incribirte, podes facelo a través [deste enlace](https://docs.google.com/forms/d/e/1FAIpQLScOJ_JILc9EY3Qj1GpqrBKo6_lyrdaceS93p0RzgGk0lKLMwA/viewform) seguindo os seguintes pasos:
+1. Enche o formulario cun dos teus titores legais.
+2. Recibirás un correo onde se che asigna praza e madriña.
+3. En menos dunha semana, a túa madriña se poñerá en contacto contigo para concretar un horario.
+4. Desfrutarás das sesións.
+
+Para poder garantir a praza, será necesario responder aos correos en, como máximo, unha semana. Se tes calquera dúbida, podes contactarnos a través do correo auriasmat@gmail.com.
+
+
 
 ![Logo de Aurias](featured.png)
+
+
+<div class="flex items-center space-x-6">
+  <span>Por parte da USC, este proxecto conta co apoio e a colaboración da:</span>
+  <img src="logo_oix.png" alt="Description" class="grid-w70 align-middle">
+</div>
