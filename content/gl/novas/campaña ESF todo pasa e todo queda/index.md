@@ -10,7 +10,7 @@ authors:
 
 Esta semana, as facultades de toda Galicia comezaron a encherse de tarxetiñas con frases de personaxes históricos. Nós somos os culpables! Colaboramos coa asociación [Enxeñería Sen Fronteiras](https://galicia.isf.es/) na difusión da campaña *"Todo pasa... e todo queda?"*.
 
-![Logo de Aurias](campaña/Cartel_explicativo.jpeg)
+![Cartel explicativo da campaña](campaña/Cartel_explicativo.jpeg)
 
 ## En que consiste a campaña?
 Cando pensamos na presencia da muller na ciencia, sempre intentamos atopar esas mulleres que, pese ás dificultades, conseguiron saír adiante e facer grandes contribucións. Procuramos mulleres que quedaron ocultas na historia, por mor da sociedade patriarcal, e mostramos os seus méritos. Esta campaña muda a filosofía: en vez de intentar buscar referentes femininas, queremos atopar a causa de que non as houbese. Así, **mediante frases que dixeron os seus compañeiros homes, entendemos o motivo polo que non conseguisen prosperar**. Vemos que, dende unha posición de alto prestixio, trataban ás mulleres dun xeito insultante, e non as crían capaces de igualar o que eles facían.
