@@ -19,10 +19,20 @@
     />
   </url>
   <url>
-    <loc>https://maega.gal/gl/novas/charla-coa-anem-sobre-o-axioma-de-eleccion/</loc>
+    <loc>https://maega.gal/gl/novas/charla-anem-axioma-de-eleccion/</loc>
     <lastmod>2025-06-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://maega.gal/es/novas/charla-anem-axioma-de-eleccion/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="gl"
+      href="https://maega.gal/gl/novas/charla-anem-axioma-de-eleccion/"
+    />
   </url>
   <url>
     <loc>https://maega.gal/gl/novas/</loc>
