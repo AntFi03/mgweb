@@ -4,7 +4,7 @@
 
   <url>
     <loc>https://maega.gal/gl/</loc>
-    <lastmod>2025-04-26T00:00:00+00:00</lastmod>
+    <lastmod>2025-06-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -19,14 +19,14 @@
     />
   </url>
   <url>
-    <loc>https://maega.gal/gl/novas/campa%C3%B1a-esf-todo-pasa-e-todo-queda/</loc>
-    <lastmod>2025-04-26T00:00:00+00:00</lastmod>
+    <loc>https://maega.gal/gl/novas/charla-coa-anem-sobre-o-axioma-de-eleccion/</loc>
+    <lastmod>2025-06-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://maega.gal/gl/novas/</loc>
-    <lastmod>2025-04-26T00:00:00+00:00</lastmod>
+    <lastmod>2025-06-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -39,6 +39,12 @@
       hreflang="gl"
       href="https://maega.gal/gl/novas/"
     />
+  </url>
+  <url>
+    <loc>https://maega.gal/gl/novas/campa%C3%B1a-esf-todo-pasa-e-todo-queda/</loc>
+    <lastmod>2025-04-26T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://maega.gal/gl/novas/resultado-liga-matematica-2025/</loc>
