@@ -1,5 +1,5 @@
 ---
-title: Charla. "Un guisante del tamaño del Sol. El Axioma de Elección y sus desagradables consecuencias"
+title: Charla. "Un guisante do tamaño do Sol. O Axioma de Elección e as súas desagradables consecuencias"
 draft: false
 date: "2025-06-26"
 description: ""
@@ -15,11 +15,11 @@ O pasado xoves tivemos o pracer de acoller unha interesante charla impartida por
 
 {{< carousel images="media/fotos_do_evento/*" aspectRatio="16-9" interval="1500" >}}
 
-A conferencia puido seguirse tanto de maneira presencial na Facultade como en liña, a través das canles da ANEM, ofrecendo así unha experiencia accesible e interactiva. Os asistentes tiveron ocasión de formular preguntas e manter un coloquio enriquecedor co relator. Pódese ver a charla gravada a través de Twitch:
+A conferencia puido seguirse tanto de maneira presencial, na Facultade, como en liña, a través das canles da ANEM, ofrecendo así unha experiencia accesible e interactiva. Os asistentes tiveron ocasión de formular preguntas e manter un coloquio enriquecedor co relator. Pódese ver a charla gravada a través de Twitch:
 
 <!-- {{< youtubeLite id="2496496449" label="Blowfish-tools demo" >}} -->
 <iframe
-  src="https://player.twitch.tv/?video=2496496449&parent=localhost"
+  src="https://player.twitch.tv/?video=2496496449&parent=maega.gal"
   height="320"
   width="569"
   autoplay=false
