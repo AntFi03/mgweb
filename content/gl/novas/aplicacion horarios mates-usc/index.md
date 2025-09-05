@@ -8,7 +8,7 @@ authors:
   - "maega"
 ---
 
-Con motivo do arranque deste curso 2025-2026 poñemos a disposición do alumna da facultade de matemáticas unha ferramenta para axilizar o habitualmente tedioso proceso de configurar o horario lectivo ao comezo do curso académico.
+Con motivo do arranque deste curso 2025-2026 poñemos a disposición do alumnado da facultade de matemáticas unha ferramenta para axilizar o habitualmente tedioso proceso de configurar o horario lectivo ao comezo do curso académico.
 
 Mediante un formulario, o alumnado poderá seleccionar os grupos expositivos e interactivos das asignaturas que estea a cursar, podendo ser estas de diferentes cursos. Logo de enviar o formulario recibirá un correo notificándolle que se lle acaba de compartir vía Google Drive un ficheiro PDF co seu horario personalizado.
 
