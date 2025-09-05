@@ -7,7 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>gl</language>
     <copyright>© 2025 Asociación Galega de Estudantes de Matemáticas</copyright>
-    <lastBuildDate>Thu, 26 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://maega.gal/gl/novas/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 05 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://maega.gal/gl/novas/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Aplicación. Configurador de horarios para o alumnado de matemáticas da USC</title>
+      <link>https://maega.gal/gl/novas/aplicaci%C3%B3n-horarios-mates-usc/</link>
+      <pubDate>Fri, 05 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://maega.gal/gl/novas/aplicaci%C3%B3n-horarios-mates-usc/</guid>
+      <description>&lt;p&gt;Con motivo do arranque deste curso 2025-2026 poñemos a disposición do alumna da facultade de matemáticas unha ferramenta para axilizar o habitualmente tedioso proceso de configurar o horario lectivo ao comezo do curso académico.&lt;/p&gt;
+&lt;p&gt;Mediante un formulario, o alumnado poderá seleccionar os grupos expositivos e interactivos das asignaturas que estea a cursar, podendo ser estas de diferentes cursos. Logo de enviar o formulario recibirá un correo notificándolle que se lle acaba de compartir vía Google Drive un ficheiro PDF co seu horario personalizado.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://maega.gal/gl/novas/aplicaci%C3%B3n-horarios-mates-usc/feature.png" />
+    </item>
     
     <item>
       <title>Charla. &#34;Un guisante do tamaño do Sol. O Axioma de Elección e as súas desagradables consecuencias&#34;</title>

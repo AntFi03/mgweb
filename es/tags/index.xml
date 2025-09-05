@@ -7,22 +7,12 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>© 2025 Asociación Gallega de Estudantes de Matemáticas</copyright>
-    <lastBuildDate>Thu, 26 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://maega.gal/es/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>ANEM</title>
-      <link>https://maega.gal/es/tags/anem/</link>
-      <pubDate>Thu, 26 Jun 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://maega.gal/es/tags/anem/</guid>
-      <description></description>
-      
-    </item>
+    <lastBuildDate>Fri, 05 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://maega.gal/es/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>MaEGA</title>
       <link>https://maega.gal/es/tags/maega/</link>
-      <pubDate>Thu, 26 Jun 2025 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 05 Sep 2025 00:00:00 +0000</pubDate>
       
       <guid>https://maega.gal/es/tags/maega/</guid>
       <description></description>
@@ -32,7 +22,7 @@
     <item>
       <title>Noticias</title>
       <link>https://maega.gal/es/tags/noticias/</link>
-      <pubDate>Thu, 26 Jun 2025 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 05 Sep 2025 00:00:00 +0000</pubDate>
       
       <guid>https://maega.gal/es/tags/noticias/</guid>
       <description></description>
@@ -42,9 +32,19 @@
     <item>
       <title>Novas</title>
       <link>https://maega.gal/es/tags/novas/</link>
-      <pubDate>Thu, 26 Jun 2025 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 05 Sep 2025 00:00:00 +0000</pubDate>
       
       <guid>https://maega.gal/es/tags/novas/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>ANEM</title>
+      <link>https://maega.gal/es/tags/anem/</link>
+      <pubDate>Thu, 26 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://maega.gal/es/tags/anem/</guid>
       <description></description>
       
     </item>

@@ -3,6 +3,38 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>https://maega.gal/es/novas/aplicaci%C3%B3n-horarios-mates-usc/</loc>
+    <lastmod>2025-09-05T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="gl"
+      href="https://maega.gal/gl/novas/aplicaci%C3%B3n-horarios-mates-usc/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://maega.gal/es/novas/aplicaci%C3%B3n-horarios-mates-usc/"
+    />
+  </url>
+  <url>
+    <loc>https://maega.gal/es/novas/</loc>
+    <lastmod>2025-09-05T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="gl"
+      href="https://maega.gal/gl/novas/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://maega.gal/es/novas/"
+    />
+  </url>
+  <url>
     <loc>https://maega.gal/es/novas/charla-anem-axioma-de-eleccion/</loc>
     <lastmod>2025-06-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -16,22 +48,6 @@
       rel="alternate"
       hreflang="es"
       href="https://maega.gal/es/novas/charla-anem-axioma-de-eleccion/"
-    />
-  </url>
-  <url>
-    <loc>https://maega.gal/es/novas/</loc>
-    <lastmod>2025-06-26T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="gl"
-      href="https://maega.gal/gl/novas/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://maega.gal/es/novas/"
     />
   </url>
   <url>
