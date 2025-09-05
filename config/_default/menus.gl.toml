@@ -28,6 +28,15 @@ parent = "Proxectos"
 pageRef = "proxectos/aurias"
 weight = 2
 
+[[main]]
+name = "Ferramentas"
+weight = 3
+
+[[main]]
+name = "Configurador de Horarios de Mates-USC"
+parent = "Ferramentas"
+url = "https://forms.gle/TPJx94Dg6L1fUVgeA"
+weight = 3
 
 [[subnavigation]]
 name = "Estatutos"

@@ -19,10 +19,20 @@
     />
   </url>
   <url>
-    <loc>http://localhost:1313/gl/novas/charla-coa-anem-sobre-o-axioma-de-eleccion/</loc>
+    <loc>http://localhost:1313/gl/novas/charla-anem-axioma-de-eleccion/</loc>
     <lastmod>2025-06-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="http://localhost:1313/es/novas/charla-anem-axioma-de-eleccion/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="gl"
+      href="http://localhost:1313/gl/novas/charla-anem-axioma-de-eleccion/"
+    />
   </url>
   <url>
     <loc>http://localhost:1313/gl/novas/</loc>
