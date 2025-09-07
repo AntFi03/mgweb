@@ -18,18 +18,13 @@ Mediante un formulario, os estudantes poderán seleccionar os grupos expositivos
   width="569">
 </iframe> -->
 
-<div class="center-cbtn">
-  <cbutton>Configura aquí o teu horario!</cbutton>
+<div class="cbutton">
+  <button>Configura aquí o teu horario!</button>
 </div>
 
 <style>
-.center-cbtn {
-  display: flex;
-  justify-content: center;
-  margin: 2em 0;
-}
 
-cbutton {
+.cbutton {
  appearance: none;
  background-color: transparent;
  border: 0.125em solid #1A1A1A;
@@ -37,16 +32,16 @@ cbutton {
  box-sizing: border-box;
  color: #3B3B3B;
  cursor: pointer;
- display: inline-flex; /* Cambiado a inline-flex */
+ display: flex; /* Cambiado a inline-flex */
  align-items: center;  /* Centrado vertical */
  justify-content: center;
  font-size: 16px;
  font-weight: 600;
  line-height: normal;
- margin: 0;
  min-height: 3.75em;
  min-width: 0;
  outline: none;
+ margin: 2em 0;
  padding: .25em 1em;
  text-align: center;
  text-decoration: none;
@@ -57,15 +52,27 @@ cbutton {
  will-change: transform;
 }
 
-cbutton:disabled {
+.cbutton:is(.dark *) {
+ background-color: #334155;
+ border: 0.125em solid #334155;
+ color: #cbd5e1;
+}
+
+.cbutton:disabled {
  pointer-events: none;
 }
 
-cbutton:hover {
+.cbutton:hover {
  color: #fff;
  background-color: #1A1A1A;
  box-shadow: rgba(0, 0, 0, 0.25) 0 8px 15px;
- transform: translateY(-2px);
+ transform: translateY(-1px);
+}
+
+.cbutton:hover:is(.dark *) {
+ color: #1e293b
+;
+ background-color: #60a5fa;
 }
 
 cbutton:active {

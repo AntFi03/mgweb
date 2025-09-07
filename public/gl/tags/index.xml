@@ -7,22 +7,12 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>gl</language>
     <copyright>© 2025 Asociación Galega de Estudantes de Matemáticas</copyright>
-    <lastBuildDate>Thu, 26 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/gl/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>ANEM</title>
-      <link>http://localhost:1313/gl/tags/anem/</link>
-      <pubDate>Thu, 26 Jun 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/gl/tags/anem/</guid>
-      <description></description>
-      
-    </item>
+    <lastBuildDate>Fri, 05 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/gl/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>MaEGA</title>
       <link>http://localhost:1313/gl/tags/maega/</link>
-      <pubDate>Thu, 26 Jun 2025 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 05 Sep 2025 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/gl/tags/maega/</guid>
       <description></description>
@@ -32,9 +22,19 @@
     <item>
       <title>Novas</title>
       <link>http://localhost:1313/gl/tags/novas/</link>
-      <pubDate>Thu, 26 Jun 2025 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 05 Sep 2025 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/gl/tags/novas/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>ANEM</title>
+      <link>http://localhost:1313/gl/tags/anem/</link>
+      <pubDate>Thu, 26 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/gl/tags/anem/</guid>
       <description></description>
       
     </item>
