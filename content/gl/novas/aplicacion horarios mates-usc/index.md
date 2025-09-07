@@ -70,12 +70,11 @@ Mediante un formulario, os estudantes poderán seleccionar os grupos expositivos
 }
 
 .cbutton:hover:is(.dark *) {
- color: #1e293b
-;
+ color: #1e293b;
  background-color: #60a5fa;
 }
 
-cbutton:active {
+.cbutton:active {
  box-shadow: none;
  transform: translateY(0);
 }
@@ -83,7 +82,7 @@ cbutton:active {
 
 <script>
 document.addEventListener('DOMContentLoaded', function() {
-  const btn = document.querySelector('cbutton');
+  const btn = document.querySelector('.cbutton');
   if (btn) {
     btn.addEventListener('click', function() {
       window.open('https://forms.gle/TPJx94Dg6L1fUVgeA', '_blank');
