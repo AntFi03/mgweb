@@ -48,3 +48,11 @@ Reiniciamos obsidian.
 
 #### 7. Uso
 Xa debera de estar todo disposto. Cada vez que se abra Obsidian sincronizaranse os cambios feitos por outros colaboradores, actualizando á última versión do repositorio (isto pode forzarse con `Alt+X`). Cando rematedes de facer os vosos cambios só tendes que subilos ben no botón de *commit+push* ou ben con `Alt+C`.
+
+
+
+## Consellos de Uso de Obsidian
+### Funcionalidades
+#### Trazabilidade dos cambios
+Á esquerda de cada liña podedes ver quen foi o último en editar tal línea e a referencia temporal de dita edición.
+![Trazabilidade das edicións](trazabilidade-dos-cambios.png)
