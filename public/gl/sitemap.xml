@@ -3,6 +3,38 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>http://localhost:1313/gl/</loc>
+    <lastmod>2025-09-30T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="http://localhost:1313/es/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="gl"
+      href="http://localhost:1313/gl/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/gl/proxectos/</loc>
+    <lastmod>2025-09-30T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="http://localhost:1313/es/proxectos/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="gl"
+      href="http://localhost:1313/gl/proxectos/"
+    />
+  </url>
+  <url>
     <loc>http://localhost:1313/gl/novas/aplicacion-horarios-mates-usc/</loc>
     <lastmod>2025-09-05T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -16,22 +48,6 @@
       rel="alternate"
       hreflang="gl"
       href="http://localhost:1313/gl/novas/aplicacion-horarios-mates-usc/"
-    />
-  </url>
-  <url>
-    <loc>http://localhost:1313/gl/</loc>
-    <lastmod>2025-09-05T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="http://localhost:1313/es/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="gl"
-      href="http://localhost:1313/gl/"
     />
   </url>
   <url>
@@ -92,22 +108,6 @@
       rel="alternate"
       hreflang="gl"
       href="http://localhost:1313/gl/proxectos/aurias/"
-    />
-  </url>
-  <url>
-    <loc>http://localhost:1313/gl/proxectos/</loc>
-    <lastmod>2025-02-15T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="http://localhost:1313/es/proxectos/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="gl"
-      href="http://localhost:1313/gl/proxectos/"
     />
   </url>
   <url>
