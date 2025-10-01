@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>gl</language>
     <copyright>© 2025 Asociación Galega de Estudantes de Matemáticas</copyright>
-    <lastBuildDate>Fri, 05 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://maega.gal/gl/authors/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 30 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://maega.gal/gl/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Sementeira</title>
+      <link>https://maega.gal/gl/authors/sementeira/</link>
+      <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://maega.gal/gl/authors/sementeira/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Maega</title>
@@ -25,16 +35,6 @@
       <pubDate>Thu, 26 Jun 2025 00:00:00 +0000</pubDate>
       
       <guid>https://maega.gal/gl/authors/pablo_soutullo/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Sementeira</title>
-      <link>https://maega.gal/gl/authors/sementeira/</link>
-      <pubDate>Wed, 26 Mar 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://maega.gal/gl/authors/sementeira/</guid>
       <description></description>
       
     </item>
