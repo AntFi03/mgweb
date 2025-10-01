@@ -1,6 +1,6 @@
 ---
 title: Guía de Uso da Web de Sementeira
-draft: true
+draft: false
 date: "2025-09-30"
 description: ""
 tags: []
@@ -20,34 +20,48 @@ Neste documento explico cal é o procedemento paso por paso para instalar nos vo
 Cabe sinalar que o procedemento apenas varía dun sistema operativo a outro, pero por limitacións persoais de tempo e xeneralidade de uso prioricei as indicacións para Windows.
 
 ### Windows
-#### 1. Permisos e conta de GitHub
-O primeiro paso é crear un conta de [GitHub](https://github.com/) (é unha plataforma moi moi coñecida onde a xente sube os seus códigos, e é onde temos funcionando as webs de MaEGA e Sementeira). Logo de tela creado, enviar unha solicitude ao [correo de Sementeira](mailto:sementeira.problemas@gmail.com) para que vos dé permisos de edición no repositorio [semweb-obsidian](https://github.com/AntFi03/semweb-obsidian). Unha vez que vos engada ao repositorio, teredes que aceptar a invitación mediante un correo que vos chegará ao voso correo electrónico. Ademais recibiredes por parte do administrador da web unha carpeta de configuracións de Obsidian que empregaremos máis adiante.
+#### 1. Crear unha conta de GitHub
+O primeiro paso é crear un conta de [GitHub](https://github.com/) (é unha plataforma moi moi coñecida onde a xente sube os seus códigos, e é onde temos funcionando as webs de MaEGA e Sementeira).
 
-#### 2. Instalación de Obsidian
+#### 2. Solicitar acceso ao repositorio `semweb-obsidian`
+Para iso, enviade unha solicitude ao [correo de Sementeira (sementeira.problemas@gmail.com)](mailto:sementeira.problemas@gmail.com) para que vos dé permisos de edición no repositorio [semweb-obsidian](https://github.com/AntFi03/semweb-obsidian). Unha vez que vos engada ao repositorio, teredes que aceptar a invitación mediante un correo que vos chegará ao voso correo electrónico.
+
+#### 3. Instalación de Obsidian
 Imos á web de [Obsidian](https://obsidian.md/) e instalamos a versión para o noso sistema.
 
-#### 3. Instalación de Git
+#### 4. Instalación de Git
 Imos á web [Git - Downloads](https://git-scm.com/downloads) e instalamos a versión para o noso sistema.
 
-#### 4. Creación da vosa web local
-Obsidian funciona nun directorio, polo que tendes que elixir unha carpeta do voso ordenador na que vaiades a ter unha copia da web gardada. Vale calquera, mentres teñades espazo dabondo (<1Gb, moi pouco).
+#### 5. Seleccionade a carpeta local onde aloxar a Web
+Obsidian é un editor de texto que traballa sobre os arquivos dun directorio, polo que tendes que elixir unha carpeta do voso ordenador na que vaiades a ter unha copia da web gardada. Vale calquera, mentres teñades espazo dabondo (<1Gb, moi pouco). Se, por exemplo, queredes tela no voso escritorio, non fai falla que creedes unha carpeta expresamente alí, xa o faremos automaticamente nos seguintes pasos, só tendes que decidir a "raíz" onde queirades que estea a web.
 
-#### 5. Configuración Obsidian
-Para saltarnos toda a configuración debedes posicionar a carpeta de configuración que obtivechedes no paso 1 dentro da carpeta que seleccionastes no paso 4. É posible que para ver esta carpeta no explorador debates activar a visión de cartafoles ocultos (os cartafoles que comezan un punto `.` chámanse ocultos).
-
-#### 6. Configuración de Git
-Esta é a parte sensible, imos configurar Git (xestor de paquetes que nos permite sincronizar os nosos cambios co repositorio [semweb-obsidian](https://github.com/AntFi03/semweb-obsidian)) para iso temos que abrir unha terminal con `Win+R` e escribindo `cmd`. Unha vez nela navegamos co comando `cd` ata a carpeta seleccionada no paso 4. Unha vez nela executamos as seguintes sentenzas:
-```cmd
-git config credential.helper
-```
-Debera de abrirse unha ventá na que poidamos indicar as credenciais da nosa conta de GitHub. Unha vez feito isto pasamos a clonar o noso repositorio:
+#### 6. Clonado do repositorio
+Agora tendes que abrir unha consola e clonar o repositorio de GitHub. En cristiano isto vén sendo descargar o contido da web. Para facelo, en windows, debedes de abrir unha terminal con `Win+R` e escribindo `cmd`. Isto abriravos unha terminal. Logo, empregando o comando `cd` navegade ata a carpeta raíz onde queirades que estea a carpeta co contido da web. Unha vez alí executade a seguinte liña de código:
 ```cmd
 git clone https://github.com/AntFi03/semweb-obsidian.git
 ```
-Reiniciamos obsidian. 
+Debedes de indicar o voso usuario de GitHub (usuario, non correo electrónico) e o voso contrasinal. Unha vez feito, debería de ter aparecido na ruta "raíz" unha carpeta chamada `semweb-obsidian` que contén o código do contido da web.
 
-#### 7. Uso
-Xa debera de estar todo disposto. Cada vez que se abra Obsidian sincronizaranse os cambios feitos por outros colaboradores, actualizando á última versión do repositorio (isto pode forzarse con `Alt+X`). Cando rematedes de facer os vosos cambios só tendes que subilos ben no botón de *commit+push* ou ben con `Alt+C`.
+#### 7. Descarga da configuración de Obsidian
+Aínda que xa temos o contido, falta a configuración do Obsidian en si (isto non está no repositorio porque idealmente cada quen terá a configuración que máis lle preste). Para axilizar este titorial, descargade do [link](https://drive.google.com/drive/folders/1rcN2MqqJsbccU1N7XUSid5YMB1d3ny1w?usp=sharing) a carpeta `.obsidian` coa configuración do programa. Unha vez descargada, débense colocar dentro da carpeta `semweb-obsidian` que creamos no paso anterior. Debera quedarnos algo do estilo:
+![Exemplo de directorio da web](exemplo-de-directorio-da-web.png)
+
+#### 8. Abrir a carpeta con Obsidian
+Chegados a este punto deixamos atrás as dificultades técnicas do proceso. Abrimos Obsidian. Dependendo de se estamos en castelán ou en inglés pediranos seleccionar unha bóveda ou unha vault (é o nome *fancy* para a "carpeta que contén os ficheiros cos que queres traballar"). No noso caso escollemos a segunda opción "Abrir carpeta como Bóveda/Vault", e escollemos a carpeta `semweb-obsidian`. Unha vez feito iso abrirase Obsidian. Á esquerda estarán as carpetas e ficheiros cos problemas e demais páxinas da web, no medio o editor, e na dereita o panel dos cambios.
+
+#### 9. Manexo de Obsidian
+Hai múltiples funcionalidades que tratarei de explicar máis abaixo neste documento. O principal é que temos unha copia local da web, cando abrimos Obsidian, actualízase a nosa carpeta `semweb-obsidian` automaticamente cos cambios que fixera outra xente (isto chámase *pull*, pódese forzar con `Ctrl+Alt+X`). Cando teñamos feitos os nosos cambios temos que subilos, para que non se queden na nosa versión local e pasen ao repositorio, para iso non temos máis que empregar o atallo `Ctrl+Alt+C` (isto chámase *commit & push*). Isto é moi importante, xa que de non facelo, nada do que fagamos repercutirá na web.
+
+Os ficheiros teñen uns metadatos ao inicio. Son autoexplicativos na súa maioría, só sinalar que se creades un documento e non vos dá tempo a acabalo, podedes marcar a opción `draft` para que logo de facer *commit & push* este non se publique na web. Sempre que rematedes de traballar debedes de facer un *commit & push* pensade que pode hacer outra xente traballando no mesmo sen darse conta (o que pode ocasionar conflictos innecesarios).
+
+#### 10. Últimos 2 pasos
+Antes de rematar abride a configuración de obsidian (`Ctrl+,`) e seleccionade (abaixo de todo no panel da esquerda) *Git*. Este é o plugin que nos permite sincronizar Obsidian co GitHub. Tendes que buscar a opción de configuración *commit message*, e cambiar o nome de "Usuario" ao voso. Tendes que estar vendo algo como isto:
+![alt text](image.png)
+Isto permíteme a min ver no GitHub quen fai ou deixa de facer os cambios na web máis facilmente.
+
+O ultimísimo paso é máis ben un comentario. Outro dos plugins que empregamos é *Latex Suite*. Este é o que nos brinda o soporte de LaTeX tan fantástico, e é realmente abraiante o ben que funciona. Se o procurades na configuración, podedes ver e editar o ficheiro de *snippets* (atallos) que vos permiten escribir matemáticas máis rápido. De verdade que paga a pena botarlle un ollo. Os esenciais son "ds" para $ $ e "fd" para $$  $$, pero existen moitos outros que na práctica fan case totalmente innecesario volver a empregar a barra invertida "\". 
+
+Con isto queda todo dito. Ante calquera dúbida tendes dúas opcións: romper a cabeza ou preguntarlle a Antón (eu), pasar do tema non é unha opción. Moito ánimo coa informática e espero que desfrutedes o invento!
 
 
 

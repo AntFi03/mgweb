@@ -109,7 +109,7 @@ A web https://sementeira.maega.gal/ está aloxada no repositorio de Github GitHu
     
     
     "mainEntityOfPage": "true",
-    "wordCount": "597"
+    "wordCount": "1102"
   }]
   </script>
 
@@ -968,7 +968,7 @@ A web https://sementeira.maega.gal/ está aloxada no repositorio de Github GitHu
 <div class="flex flex-row flex-wrap items-center">
   
   
-  <time datetime="2025-09-30T00:00:00&#43;00:00">30 setembro 2025</time><span class="px-2 text-primary-500">&middot;</span><span title="Tempo de lectura">3 mins</span><span class="px-2 text-primary-500">&middot;</span><span>
+  <time datetime="2025-09-30T00:00:00&#43;00:00">30 setembro 2025</time><span class="px-2 text-primary-500">&middot;</span><span title="Tempo de lectura">6 mins</span><span class="px-2 text-primary-500">&middot;</span><span>
   
   
     
@@ -1174,13 +1174,16 @@ A web https://sementeira.maega.gal/ está aloxada no repositorio de Github GitHu
       <ul>
         <li><a href="#windows">Windows</a>
           <ul>
-            <li><a href="#1-permisos-e-conta-de-github">1. Permisos e conta de GitHub</a></li>
-            <li><a href="#2-instalación-de-obsidian">2. Instalación de Obsidian</a></li>
-            <li><a href="#3-instalación-de-git">3. Instalación de Git</a></li>
-            <li><a href="#4-creación-da-vosa-web-local">4. Creación da vosa web local</a></li>
-            <li><a href="#5-configuración-obsidian">5. Configuración Obsidian</a></li>
-            <li><a href="#6-configuración-de-git">6. Configuración de Git</a></li>
-            <li><a href="#7-uso">7. Uso</a></li>
+            <li><a href="#1-crear-unha-conta-de-github">1. Crear unha conta de GitHub</a></li>
+            <li><a href="#2-solicitar-acceso-ao-repositorio-semweb-obsidian">2. Solicitar acceso ao repositorio <code>semweb-obsidian</code></a></li>
+            <li><a href="#3-instalación-de-obsidian">3. Instalación de Obsidian</a></li>
+            <li><a href="#4-instalación-de-git">4. Instalación de Git</a></li>
+            <li><a href="#5-seleccionade-a-carpeta-local-onde-aloxar-a-web">5. Seleccionade a carpeta local onde aloxar a Web</a></li>
+            <li><a href="#6-clonado-do-repositorio">6. Clonado do repositorio</a></li>
+            <li><a href="#7-descarga-da-configuración-de-obsidian">7. Descarga da configuración de Obsidian</a></li>
+            <li><a href="#8-abrir-a-carpeta-con-obsidian">8. Abrir a carpeta con Obsidian</a></li>
+            <li><a href="#9-manexo-de-obsidian">9. Manexo de Obsidian</a></li>
+            <li><a href="#10-últimos-2-pasos">10. Últimos 2 pasos</a></li>
           </ul>
         </li>
       </ul>
@@ -1211,13 +1214,16 @@ A web https://sementeira.maega.gal/ está aloxada no repositorio de Github GitHu
       <ul>
         <li><a href="#windows">Windows</a>
           <ul>
-            <li><a href="#1-permisos-e-conta-de-github">1. Permisos e conta de GitHub</a></li>
-            <li><a href="#2-instalación-de-obsidian">2. Instalación de Obsidian</a></li>
-            <li><a href="#3-instalación-de-git">3. Instalación de Git</a></li>
-            <li><a href="#4-creación-da-vosa-web-local">4. Creación da vosa web local</a></li>
-            <li><a href="#5-configuración-obsidian">5. Configuración Obsidian</a></li>
-            <li><a href="#6-configuración-de-git">6. Configuración de Git</a></li>
-            <li><a href="#7-uso">7. Uso</a></li>
+            <li><a href="#1-crear-unha-conta-de-github">1. Crear unha conta de GitHub</a></li>
+            <li><a href="#2-solicitar-acceso-ao-repositorio-semweb-obsidian">2. Solicitar acceso ao repositorio <code>semweb-obsidian</code></a></li>
+            <li><a href="#3-instalación-de-obsidian">3. Instalación de Obsidian</a></li>
+            <li><a href="#4-instalación-de-git">4. Instalación de Git</a></li>
+            <li><a href="#5-seleccionade-a-carpeta-local-onde-aloxar-a-web">5. Seleccionade a carpeta local onde aloxar a Web</a></li>
+            <li><a href="#6-clonado-do-repositorio">6. Clonado do repositorio</a></li>
+            <li><a href="#7-descarga-da-configuración-de-obsidian">7. Descarga da configuración de Obsidian</a></li>
+            <li><a href="#8-abrir-a-carpeta-con-obsidian">8. Abrir a carpeta con Obsidian</a></li>
+            <li><a href="#9-manexo-de-obsidian">9. Manexo de Obsidian</a></li>
+            <li><a href="#10-últimos-2-pasos">10. Últimos 2 pasos</a></li>
           </ul>
         </li>
       </ul>
@@ -1344,99 +1350,152 @@ A web https://sementeira.maega.gal/ está aloxada no repositorio de Github GitHu
 </h3>
 
 
-<h4 class="relative group">1. Permisos e conta de GitHub 
-    <div id="1-permisos-e-conta-de-github" class="anchor"></div>
+<h4 class="relative group">1. Crear unha conta de GitHub 
+    <div id="1-crear-unha-conta-de-github" class="anchor"></div>
     
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
         <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#1-permisos-e-conta-de-github" aria-label="Áncora">#</a>
+            style="text-decoration-line: none !important;" href="#1-crear-unha-conta-de-github" aria-label="Áncora">#</a>
     </span>        
     
 </h4>
-<p>O primeiro paso é crear un conta de <a href="https://github.com/" target="_blank">GitHub</a> (é unha plataforma moi moi coñecida onde a xente sube os seus códigos, e é onde temos funcionando as webs de MaEGA e Sementeira). Logo de tela creado, enviar unha solicitude ao <a href="mailto:sementeira.problemas@gmail.com">correo de Sementeira</a> para que vos dé permisos de edición no repositorio <a href="https://github.com/AntFi03/semweb-obsidian" target="_blank">semweb-obsidian</a>. Unha vez que vos engada ao repositorio, teredes que aceptar a invitación mediante un correo que vos chegará ao voso correo electrónico. Ademais recibiredes por parte do administrador da web unha carpeta de configuracións de Obsidian que empregaremos máis adiante.</p>
+<p>O primeiro paso é crear un conta de <a href="https://github.com/" target="_blank">GitHub</a> (é unha plataforma moi moi coñecida onde a xente sube os seus códigos, e é onde temos funcionando as webs de MaEGA e Sementeira).</p>
 
 
-<h4 class="relative group">2. Instalación de Obsidian 
-    <div id="2-instalaci%C3%B3n-de-obsidian" class="anchor"></div>
+<h4 class="relative group">2. Solicitar acceso ao repositorio <code>semweb-obsidian</code> 
+    <div id="2-solicitar-acceso-ao-repositorio-semweb-obsidian" class="anchor"></div>
     
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
         <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#2-instalaci%C3%B3n-de-obsidian" aria-label="Áncora">#</a>
+            style="text-decoration-line: none !important;" href="#2-solicitar-acceso-ao-repositorio-semweb-obsidian" aria-label="Áncora">#</a>
+    </span>        
+    
+</h4>
+<p>Para iso, enviade unha solicitude ao <a href="mailto:sementeira.problemas@gmail.com">correo de Sementeira (sementeira.problemas@gmail.com)</a> para que vos dé permisos de edición no repositorio <a href="https://github.com/AntFi03/semweb-obsidian" target="_blank">semweb-obsidian</a>. Unha vez que vos engada ao repositorio, teredes que aceptar a invitación mediante un correo que vos chegará ao voso correo electrónico.</p>
+
+
+<h4 class="relative group">3. Instalación de Obsidian 
+    <div id="3-instalaci%C3%B3n-de-obsidian" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#3-instalaci%C3%B3n-de-obsidian" aria-label="Áncora">#</a>
     </span>        
     
 </h4>
 <p>Imos á web de <a href="https://obsidian.md/" target="_blank">Obsidian</a> e instalamos a versión para o noso sistema.</p>
 
 
-<h4 class="relative group">3. Instalación de Git 
-    <div id="3-instalaci%C3%B3n-de-git" class="anchor"></div>
+<h4 class="relative group">4. Instalación de Git 
+    <div id="4-instalaci%C3%B3n-de-git" class="anchor"></div>
     
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
         <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#3-instalaci%C3%B3n-de-git" aria-label="Áncora">#</a>
+            style="text-decoration-line: none !important;" href="#4-instalaci%C3%B3n-de-git" aria-label="Áncora">#</a>
     </span>        
     
 </h4>
 <p>Imos á web <a href="https://git-scm.com/downloads" target="_blank">Git - Downloads</a> e instalamos a versión para o noso sistema.</p>
 
 
-<h4 class="relative group">4. Creación da vosa web local 
-    <div id="4-creaci%C3%B3n-da-vosa-web-local" class="anchor"></div>
+<h4 class="relative group">5. Seleccionade a carpeta local onde aloxar a Web 
+    <div id="5-seleccionade-a-carpeta-local-onde-aloxar-a-web" class="anchor"></div>
     
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
         <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#4-creaci%C3%B3n-da-vosa-web-local" aria-label="Áncora">#</a>
+            style="text-decoration-line: none !important;" href="#5-seleccionade-a-carpeta-local-onde-aloxar-a-web" aria-label="Áncora">#</a>
     </span>        
     
 </h4>
-<p>Obsidian funciona nun directorio, polo que tendes que elixir unha carpeta do voso ordenador na que vaiades a ter unha copia da web gardada. Vale calquera, mentres teñades espazo dabondo (&lt;1Gb, moi pouco).</p>
+<p>Obsidian é un editor de texto que traballa sobre os arquivos dun directorio, polo que tendes que elixir unha carpeta do voso ordenador na que vaiades a ter unha copia da web gardada. Vale calquera, mentres teñades espazo dabondo (&lt;1Gb, moi pouco). Se, por exemplo, queredes tela no voso escritorio, non fai falla que creedes unha carpeta expresamente alí, xa o faremos automaticamente nos seguintes pasos, só tendes que decidir a &ldquo;raíz&rdquo; onde queirades que estea a web.</p>
 
 
-<h4 class="relative group">5. Configuración Obsidian 
-    <div id="5-configuraci%C3%B3n-obsidian" class="anchor"></div>
+<h4 class="relative group">6. Clonado do repositorio 
+    <div id="6-clonado-do-repositorio" class="anchor"></div>
     
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
         <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#5-configuraci%C3%B3n-obsidian" aria-label="Áncora">#</a>
+            style="text-decoration-line: none !important;" href="#6-clonado-do-repositorio" aria-label="Áncora">#</a>
     </span>        
     
 </h4>
-<p>Para saltarnos toda a configuración debedes posicionar a carpeta de configuración que obtivechedes no paso 1 dentro da carpeta que seleccionastes no paso 4. É posible que para ver esta carpeta no explorador debates activar a visión de cartafoles ocultos (os cartafoles que comezan un punto <code>.</code> chámanse ocultos).</p>
-
-
-<h4 class="relative group">6. Configuración de Git 
-    <div id="6-configuraci%C3%B3n-de-git" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#6-configuraci%C3%B3n-de-git" aria-label="Áncora">#</a>
-    </span>        
-    
-</h4>
-<p>Esta é a parte sensible, imos configurar Git (xestor de paquetes que nos permite sincronizar os nosos cambios co repositorio <a href="https://github.com/AntFi03/semweb-obsidian" target="_blank">semweb-obsidian</a>) para iso temos que abrir unha terminal con <code>Win+R</code> e escribindo <code>cmd</code>. Unha vez nela navegamos co comando <code>cd</code> ata a carpeta seleccionada no paso 4. Unha vez nela executamos as seguintes sentenzas:</p>
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-cmd" data-lang="cmd"><span class="line"><span class="cl">git config credential.helper
-</span></span></code></pre></div><p>Debera de abrirse unha ventá na que poidamos indicar as credenciais da nosa conta de GitHub. Unha vez feito isto pasamos a clonar o noso repositorio:</p>
+<p>Agora tendes que abrir unha consola e clonar o repositorio de GitHub. En cristiano isto vén sendo descargar o contido da web. Para facelo, en windows, debedes de abrir unha terminal con <code>Win+R</code> e escribindo <code>cmd</code>. Isto abriravos unha terminal. Logo, empregando o comando <code>cd</code> navegade ata a carpeta raíz onde queirades que estea a carpeta co contido da web. Unha vez alí executade a seguinte liña de código:</p>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-cmd" data-lang="cmd"><span class="line"><span class="cl">git clone https://github.com/AntFi03/semweb-obsidian.git
-</span></span></code></pre></div><p>Reiniciamos obsidian.</p>
+</span></span></code></pre></div><p>Debedes de indicar o voso usuario de GitHub (usuario, non correo electrónico) e o voso contrasinal. Unha vez feito, debería de ter aparecido na ruta &ldquo;raíz&rdquo; unha carpeta chamada <code>semweb-obsidian</code> que contén o código do contido da web.</p>
 
 
-<h4 class="relative group">7. Uso 
-    <div id="7-uso" class="anchor"></div>
+<h4 class="relative group">7. Descarga da configuración de Obsidian 
+    <div id="7-descarga-da-configuraci%C3%B3n-de-obsidian" class="anchor"></div>
     
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
         <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#7-uso" aria-label="Áncora">#</a>
+            style="text-decoration-line: none !important;" href="#7-descarga-da-configuraci%C3%B3n-de-obsidian" aria-label="Áncora">#</a>
     </span>        
     
 </h4>
-<p>Xa debera de estar todo disposto. Cada vez que se abra Obsidian sincronizaranse os cambios feitos por outros colaboradores, actualizando á última versión do repositorio (isto pode forzarse con <code>Alt+X</code>). Cando rematedes de facer os vosos cambios só tendes que subilos ben no botón de <em>commit+push</em> ou ben con <code>Alt+C</code>.</p>
+<p>Aínda que xa temos o contido, falta a configuración do Obsidian en si (isto non está no repositorio porque idealmente cada quen terá a configuración que máis lle preste). Para axilizar este titorial, descargade do <a href="https://drive.google.com/drive/folders/1rcN2MqqJsbccU1N7XUSid5YMB1d3ny1w?usp=sharing" target="_blank">link</a> a carpeta <code>.obsidian</code> coa configuración do programa. Unha vez descargada, débense colocar dentro da carpeta <code>semweb-obsidian</code> que creamos no paso anterior. Debera quedarnos algo do estilo:
+
+    <figure>
+      <img class="my-0 rounded-md" loading="lazy" src="exemplo-de-directorio-da-web.png" alt="Exemplo de directorio da web" />
+      
+    </figure>
+</p>
+
+
+<h4 class="relative group">8. Abrir a carpeta con Obsidian 
+    <div id="8-abrir-a-carpeta-con-obsidian" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#8-abrir-a-carpeta-con-obsidian" aria-label="Áncora">#</a>
+    </span>        
+    
+</h4>
+<p>Chegados a este punto deixamos atrás as dificultades técnicas do proceso. Abrimos Obsidian. Dependendo de se estamos en castelán ou en inglés pediranos seleccionar unha bóveda ou unha vault (é o nome <em>fancy</em> para a &ldquo;carpeta que contén os ficheiros cos que queres traballar&rdquo;). No noso caso escollemos a segunda opción &ldquo;Abrir carpeta como Bóveda/Vault&rdquo;, e escollemos a carpeta <code>semweb-obsidian</code>. Unha vez feito iso abrirase Obsidian. Á esquerda estarán as carpetas e ficheiros cos problemas e demais páxinas da web, no medio o editor, e na dereita o panel dos cambios.</p>
+
+
+<h4 class="relative group">9. Manexo de Obsidian 
+    <div id="9-manexo-de-obsidian" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#9-manexo-de-obsidian" aria-label="Áncora">#</a>
+    </span>        
+    
+</h4>
+<p>Hai múltiples funcionalidades que tratarei de explicar máis abaixo neste documento. O principal é que temos unha copia local da web, cando abrimos Obsidian, actualízase a nosa carpeta <code>semweb-obsidian</code> automaticamente cos cambios que fixera outra xente (isto chámase <em>pull</em>, pódese forzar con <code>Ctrl+Alt+X</code>). Cando teñamos feitos os nosos cambios temos que subilos, para que non se queden na nosa versión local e pasen ao repositorio, para iso non temos máis que empregar o atallo <code>Ctrl+Alt+C</code> (isto chámase <em>commit &amp; push</em>). Isto é moi importante, xa que de non facelo, nada do que fagamos repercutirá na web.</p>
+<p>Os ficheiros teñen uns metadatos ao inicio. Son autoexplicativos na súa maioría, só sinalar que se creades un documento e non vos dá tempo a acabalo, podedes marcar a opción <code>draft</code> para que logo de facer <em>commit &amp; push</em> este non se publique na web. Sempre que rematedes de traballar debedes de facer un <em>commit &amp; push</em> pensade que pode hacer outra xente traballando no mesmo sen darse conta (o que pode ocasionar conflictos innecesarios).</p>
+
+
+<h4 class="relative group">10. Últimos 2 pasos 
+    <div id="10-%C3%BAltimos-2-pasos" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#10-%C3%BAltimos-2-pasos" aria-label="Áncora">#</a>
+    </span>        
+    
+</h4>
+<p>Antes de rematar abride a configuración de obsidian (<code>Ctrl+,</code>) e seleccionade (abaixo de todo no panel da esquerda) <em>Git</em>. Este é o plugin que nos permite sincronizar Obsidian co GitHub. Tendes que buscar a opción de configuración <em>commit message</em>, e cambiar o nome de &ldquo;Usuario&rdquo; ao voso. Tendes que estar vendo algo como isto:
+
+    <figure>
+      <img class="my-0 rounded-md" loading="lazy" src="image.png" alt="alt text" />
+      
+    </figure>
+
+Isto permíteme a min ver no GitHub quen fai ou deixa de facer os cambios na web máis facilmente.</p>
+<p>O ultimísimo paso é máis ben un comentario. Outro dos plugins que empregamos é <em>Latex Suite</em>. Este é o que nos brinda o soporte de LaTeX tan fantástico, e é realmente abraiante o ben que funciona. Se o procurades na configuración, podedes ver e editar o ficheiro de <em>snippets</em> (atallos) que vos permiten escribir matemáticas máis rápido. De verdade que paga a pena botarlle un ollo. Os esenciais son &ldquo;ds&rdquo; para $ $ e &ldquo;fd&rdquo; para $$  $$, pero existen moitos outros que na práctica fan case totalmente innecesario volver a empregar a barra invertida &ldquo;&quot;.</p>
+<p>Con isto queda todo dito. Ante calquera dúbida tendes dúas opcións: romper a cabeza ou preguntarlle a Antón (eu), pasar do tema non é unha opción. Moito ánimo coa informática e espero que desfrutedes o invento!</p>
 
 
 <h2 class="relative group">Consellos de Uso de Obsidian 
@@ -1476,17 +1535,7 @@ A web https://sementeira.maega.gal/ está aloxada no repositorio de Github GitHu
 <p>Á esquerda de cada liña podedes ver quen foi o último en editar tal línea e a referencia temporal de dita edición.
 
     <figure>
-      <img
-        class="my-0 rounded-md"
-        loading="lazy"
-        srcset="
-        /gl/proxectos/sementeira/gu%C3%ADa-de-uso-da-web/trazabilidade-dos-cambios_hu_87b90b533aacf470.png 330w,
-        /gl/proxectos/sementeira/gu%C3%ADa-de-uso-da-web/trazabilidade-dos-cambios_hu_3af616c8eeda60ed.png 660w,
-        /gl/proxectos/sementeira/gu%C3%ADa-de-uso-da-web/trazabilidade-dos-cambios_hu_39705c2d35fb5083.png 1024w,
-        /gl/proxectos/sementeira/gu%C3%ADa-de-uso-da-web/trazabilidade-dos-cambios_hu_2e30e9bb5f2f06e6.png 2x"
-        src="/gl/proxectos/sementeira/gu%C3%ADa-de-uso-da-web/trazabilidade-dos-cambios_hu_3af616c8eeda60ed.png"
-        alt="Trazabilidade das edicións"
-      />
+      <img class="my-0 rounded-md" loading="lazy" src="trazabilidade-dos-cambios.png" alt="Trazabilidade das edicións" />
       
     </figure>
 </p>
