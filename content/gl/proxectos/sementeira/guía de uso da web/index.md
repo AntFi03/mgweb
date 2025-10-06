@@ -1,6 +1,6 @@
 ---
 title: Guía de Uso da Web de Sementeira
-draft: true
+draft: false
 date: "2025-09-30"
 description: ""
 tags: []
@@ -10,7 +10,7 @@ authors:
 
 > Este artigo está dirixido a colaboradores e membros de Sementeira con interese en contribuír ao proxecto engadindo materiais á súa [web](https://sementeira.maega.gal/).
 
-A web https://sementeira.maega.gal/ está aloxada no repositorio de Github [GitHub - AntFi03/semweb](https://github.com/AntFi03/semweb). Nel están ademais dos contidos, toda a programación necesaria para facer que a web funcione. Para simplificar este proceso temos o repositorio de Github [GitHub - AntFi03/semweb-obsidian](https://github.com/AntFi03/semweb-obsidian) que está enlazado co anterior (os cambios sincronízanse automaticamente) e só contén o *contido* da web.
+A web https://sementeira.maega.gal/ está aloxada no repositorio de Github [GitHub - AntFi03/semweb](https://github.com/AntFi03/semweb). Nel están ademais dos contidos, toda a programación necesaria para facer que a web funcione. Para simplificar este proceso temos o repositorio de Github [GitHub - AntFi03/semweb-obsidian](https://github.com/AntFi03/semweb-obsidian) (non visible salvo con permisos de edición) que está enlazado co anterior (os cambios sincronízanse automaticamente) e só contén o *contido* da web.
 
 Desta forma, a través do software [Obsidian](https://obsidian.md/) que ten soporte de LaTeX (o mellor que coñezo, mellor que Overleaf, TexStudio...) e é un editor de ficheiros `.md` poderedes editar nos vosos equipos directamente o contido da web de xeito autónomo.
 
@@ -24,13 +24,13 @@ Cabe sinalar que o procedemento apenas varía dun sistema operativo a outro, per
 O primeiro paso é crear un conta de [GitHub](https://github.com/) (é unha plataforma moi moi coñecida onde a xente sube os seus códigos, e é onde temos funcionando as webs de MaEGA e Sementeira).
 
 #### 2. Solicitar acceso ao repositorio `semweb-obsidian`
-Para iso, enviade unha solicitude ao [correo de Sementeira (sementeira.problemas@gmail.com)](mailto:sementeira.problemas@gmail.com) para que vos dé permisos de edición no repositorio [semweb-obsidian](https://github.com/AntFi03/semweb-obsidian). Unha vez que vos engada ao repositorio, teredes que aceptar a invitación mediante un correo que vos chegará ao voso correo electrónico.
+Para iso, enviade unha solicitude ao [correo de Sementeira (sementeira.problemas@gmail.com)](mailto:sementeira.problemas@gmail.com) para que vos dé permisos de edición no repositorio [semweb-obsidian](https://github.com/AntFi03/semweb-obsidian) (non visible salvo con permisos de edición). Unha vez que vos engada ao repositorio, teredes que aceptar a invitación mediante un correo que vos chegará ao voso correo electrónico.
 
 #### 3. Instalación de Obsidian
 Imos á web de [Obsidian](https://obsidian.md/) e instalamos a versión para o noso sistema.
 
 #### 4. Instalación de Git
-Imos á web [Git - Downloads](https://git-scm.com/downloads) e instalamos a versión para o noso sistema.
+Imos á web [Git - Downloads](https://git-scm.com/downloads) e instalamos a versión para o noso sistema. Se nalgún momento vos pide engadir o aplicativo ao PATH marcade esa opción.
 
 #### 5. Seleccionade a carpeta local onde aloxar a Web
 Obsidian é un editor de texto que traballa sobre os arquivos dun directorio, polo que tendes que elixir unha carpeta do voso ordenador na que vaiades a ter unha copia da web gardada. Vale calquera, mentres teñades espazo dabondo (<1Gb, moi pouco). Se, por exemplo, queredes tela no voso escritorio, non fai falla que creedes unha carpeta expresamente alí, xa o faremos automaticamente nos seguintes pasos, só tendes que decidir a "raíz" onde queirades que estea a web.
@@ -56,10 +56,10 @@ Os ficheiros teñen uns metadatos ao inicio. Son autoexplicativos na súa maior�
 
 #### 10. Últimos 2 pasos
 Antes de rematar abride a configuración de obsidian (`Ctrl+,`) e seleccionade (abaixo de todo no panel da esquerda) *Git*. Este é o plugin que nos permite sincronizar Obsidian co GitHub. Tendes que buscar a opción de configuración *commit message*, e cambiar o nome de "Usuario" ao voso. Tendes que estar vendo algo como isto:
-![alt text](image.png)
+![Cambio do nome de usuarios](seleccion-de-usuarios.png)
 Isto permíteme a min ver no GitHub quen fai ou deixa de facer os cambios na web máis facilmente.
 
-O ultimísimo paso é máis ben un comentario. Outro dos plugins que empregamos é *Latex Suite*. Este é o que nos brinda o soporte de LaTeX tan fantástico, e é realmente abraiante o ben que funciona. Se o procurades na configuración, podedes ver e editar o ficheiro de *snippets* (atallos) que vos permiten escribir matemáticas máis rápido. De verdade que paga a pena botarlle un ollo. Os esenciais son "ds" para $ $ e "fd" para $$  $$, pero existen moitos outros que na práctica fan case totalmente innecesario volver a empregar a barra invertida "\". 
+O ultimísimo paso é máis ben un comentario. Outro dos plugins que empregamos é *Latex Suite*. Este é o que nos brinda o soporte de LaTeX tan fantástico, e é realmente abraiante o ben que funciona. Se o procurades na configuración, podedes ver e editar o ficheiro de *snippets* (atallos) que vos permiten escribir matemáticas máis rápido. De verdade que paga a pena botarlle un ollo. Os esenciais son "ds" para $ $ e "fd" para $$  $$, pero existen moitos outros que na práctica fan case totalmente innecesario volver a empregar a barra invertida "\\". 
 
 Con isto queda todo dito. Ante calquera dúbida tendes dúas opcións: romper a cabeza ou preguntarlle a Antón (eu), pasar do tema non é unha opción. Moito ánimo coa informática e espero que desfrutedes o invento!
 
