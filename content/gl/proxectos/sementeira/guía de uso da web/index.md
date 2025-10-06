@@ -42,6 +42,15 @@ git clone https://github.com/AntFi03/semweb-obsidian.git
 ```
 Debedes de indicar o voso usuario de GitHub (usuario, non correo electrónico) e o voso contrasinal. Unha vez feito, debería de ter aparecido na ruta "raíz" unha carpeta chamada `semweb-obsidian` que contén o código do contido da web.
 
+Ademais, para que GitHub poida operar por vos no repositorio debedes correr tamén estes comandos:
+```cmd
+git config --global user.email "ovosocorreo@gmail.com"
+```
+e o voso usuario de GitHub
+```cmd
+git config --global user.name "OVosoUsuarioGitHub"
+```
+
 #### 7. Descarga da configuración de Obsidian
 Aínda que xa temos o contido, falta a configuración do Obsidian en si (isto non está no repositorio porque idealmente cada quen terá a configuración que máis lle preste). Para axilizar este titorial, descargade do [link](https://drive.google.com/drive/folders/1rcN2MqqJsbccU1N7XUSid5YMB1d3ny1w?usp=sharing) a carpeta `.obsidian` coa configuración do programa. Unha vez descargada, débense colocar dentro da carpeta `semweb-obsidian` que creamos no paso anterior. Debera quedarnos algo do estilo:
 ![Exemplo de directorio da web](exemplo-de-directorio-da-web.png)
