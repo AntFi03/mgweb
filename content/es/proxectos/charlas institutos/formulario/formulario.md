@@ -14,11 +14,11 @@ Los principales objetivos de la charla son dar a conocer los diferentes estudios
 
 Aportación de la charla: <br>
 -Un acercamiento a la universidad y a la vida universitaria, concretamente la facultad de matemáticas. <br>
--Conocer las distintas áreas de las matemáticas con ejemplos. <br>
+-Conocer las distintas áreas de esta ciencia con ejemplos. <br>
 -Una primera aproximación a las matemáticas olímpicas (y al club olímpico de la facultad). <br>
 -¡Descubrir actividades en las que puede participar el alumnado!
 
-Pero no solo va a estar centrada en la carrera de matemáticas, si no también en el proceso de estudiar una carrera universitaria.
+Pero no solo va a estar centrada en esta ciencia, si no también en el proceso de estudiar una carrera universitaria.
 
 Las charlas van a contar con una duración máxima de una hora, adaptándola a las necesidades/preferencias de cada centro. Para cualquiera duda o sugerencia de cambio/implementación, podéis contactar con nosotros al correo maega.usc@gmail.com. Si estáis interesados, podéis cubrir el formulario [aquí](https://docs.google.com/forms/d/e/1FAIpQLSfTPsZrPIui9Ja3reYOwTIRcSOZBIdSwcC2ZgWClJgNnrJ7FA/viewform?usp=dialog).
 
