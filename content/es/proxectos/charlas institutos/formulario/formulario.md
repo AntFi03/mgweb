@@ -20,6 +20,6 @@ Aportación de la charla: <br>
 
 Pero no solo va a estar centrada en la carrera de matemáticas, si no también en el proceso de estudiar una carrera universitaria.
 
-Las charlas van a contar con una duración máxima de una hora, adaptándola a las necesidades/preferencias de cada centro. Para cualquiera duda o sugerencia de cambio/implementación, podéis contactar con nosotros al correo maega.usc@gmail.com. Si esáis interesados, podréis cubrir el formulario [aquí](https://docs.google.com/forms/d/e/1FAIpQLSfTPsZrPIui9Ja3reYOwTIRcSOZBIdSwcC2ZgWClJgNnrJ7FA/viewform?usp=dialog).
+Las charlas van a contar con una duración máxima de una hora, adaptándola a las necesidades/preferencias de cada centro. Para cualquiera duda o sugerencia de cambio/implementación, podéis contactar con nosotros al correo maega.usc@gmail.com. Si estáis interesados, podréis cubrir el formulario [aquí](https://docs.google.com/forms/d/e/1FAIpQLSfTPsZrPIui9Ja3reYOwTIRcSOZBIdSwcC2ZgWClJgNnrJ7FA/viewform?usp=dialog).
 
 Por parte de MaEGA compartimos el pensamiento de que es indispensable dar a conocer las ciencias para poder desarrollar una formación plena más allá de lo que se enseña en la enseñanza media/superior.
