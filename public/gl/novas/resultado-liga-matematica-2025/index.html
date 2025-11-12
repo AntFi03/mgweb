@@ -153,6 +153,24 @@
 
 
 
+<script data-id="umami-script" async src="https://analytics.umami.is/script.js"
+        data-website-id="31cd51cf-2f12-43d0-8871-aec3989e1748">
+</script>
+
+
+
+<script type="text/javascript">
+    document.querySelector('script[data-id="umami-script"]')
+        .addEventListener('load', function () {
+            const type = document.head.querySelector('meta[property = "og:type"]').getAttribute('content');
+            let title = document.head.querySelector('meta[property = "og:title"]').getAttribute('content');
+            let url = document.head.querySelector('meta[property = "og:url"]').getAttribute('content');
+            umami.track(type + ':' + title, {'url': url});
+    });
+</script>
+
+
+
   
   
   <meta name="theme-color"/>
@@ -281,11 +299,60 @@
           </p>
         </a>
         
-        <a href="https://cv.usc.es/course/view.php?id=54843" 
+        <a href="https://sementeira.maega.gal/" 
           target="_blank"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
           
           <p class="text-sm font-sm" title="">
             Sementeira
+          </p>
+        </a>
+        
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+            
+             
+  <div>
+  <div class="cursor-pointer flex items-center nested-menu">
+    
+    <a  class="text-base font-medium text-gray-500 hover:text-primary-600 dark:hover:text-primary-400" title="">
+      Ferramentas
+    </a>
+    <span>
+      
+
+  <span class="relative block icon">
+    <svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 20 20"
+  fill="currentColor"
+  aria-hidden="true"
+>
+  <path
+    fill-rule="evenodd"
+    d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z"
+    clip-rule="evenodd"
+  />
+</svg>
+
+  </span>
+
+
+    </span>
+  </div>
+  <div class="absolute menuhide">
+    <div class="pt-2 p-5 mt-2 rounded-xl backdrop-blur shadow-2xl">
+      <div class="flex flex-col space-y-3">
+        
+        <a href="https://forms.gle/TPJx94Dg6L1fUVgeA" 
+          target="_blank"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
+          
+          <p class="text-sm font-sm" title="">
+            Configurador de Horarios de Mates-USC
           </p>
         </a>
         
@@ -548,10 +615,57 @@
 </li>
 
 <li class="mt-1">
-    <a href="https://cv.usc.es/course/view.php?id=54843"  target="_blank"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
+    <a href="https://sementeira.maega.gal/"  target="_blank"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
         
         <p class="text-sm font-small" title="">
             Sementeira
+        </p>
+    </a>
+</li>
+
+<li class="mb-2"></li>
+
+
+
+
+                    
+
+                     
+  <li class="mt-1">
+    <a href="" class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
+        
+        <p class="text-bg font-bg" title="">
+            Ferramentas
+        </p>
+        <span>
+            
+
+  <span class="relative block icon">
+    <svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 20 20"
+  fill="currentColor"
+  aria-hidden="true"
+>
+  <path
+    fill-rule="evenodd"
+    d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z"
+    clip-rule="evenodd"
+  />
+</svg>
+
+  </span>
+
+
+        </span>
+    </a>
+</li>
+
+<li class="mt-1">
+    <a href="https://forms.gle/TPJx94Dg6L1fUVgeA"  target="_blank"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
+        
+        <p class="text-sm font-small" title="">
+            Configurador de Horarios de Mates-USC
         </p>
     </a>
 </li>
@@ -1035,6 +1149,8 @@
 
       
         
+            
+          
             
           
             
@@ -1887,6 +2003,43 @@
   <footer class="pt-8 max-w-prose print:hidden">
 
     
+  
+    
+    
+    
+    <div class="pt-8">
+      <hr class="border-dotted border-neutral-300 dark:border-neutral-600" />
+      <div class="flex justify-between pt-3">
+        <span>
+          
+        </span>
+        <span>
+          
+            <a class="flex text-right group ml-3" href="/gl/novas/campa%C3%B1a-esf-todo-pasa-e-todo-queda/">
+              <span class="flex flex-col">
+                <span
+                  class="mt-[0.1rem] leading-6 group-hover:underline group-hover:decoration-primary-500"
+                  >Campaña. "Todo pasa... e todo queda?"</span
+                >
+                <span class="mt-[0.1rem] text-xs text-neutral-500 dark:text-neutral-400">
+                  
+                    <time datetime="2025-04-26T00:00:00&#43;00:00">26 abril 2025</time>
+                  
+                </span>
+              </span>
+              <span
+                class="ml-3 text-neutral-700 group-hover:text-primary-600 ltr:inline rtl:hidden dark:text-neutral dark:group-hover:text-primary-400"
+                >&rarr;</span
+              >
+              <span
+                class="mr-3 text-neutral-700 group-hover:text-primary-600 ltr:hidden rtl:inline dark:text-neutral dark:group-hover:text-primary-400"
+                >&larr;</span
+              >
+            </a>
+          
+        </span>
+      </div>
+    </div>
   
 
 

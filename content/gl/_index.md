@@ -26,7 +26,7 @@ Auras é un programa de amadriñamento que pon en contacto a alumnas do ensino m
 
 
 {{< timelineItem icon="globe" header="Máis Mates: revista estudantil." >}}
-Máis Mates é a revista universitaria da facultade de matemáticas da USC. Confeccionada polo alumnado, achega artigos curtos con pequenas anécdotas sobre a historia das matemáticas, as últimas novas, entrevistas, pasatempos e pequenos petiscos teóricos de temas que, ao mellor, non se tratan con profundidade na carreira... 
+Máis Mates é a revista universitaria da facultade de matemáticas da USC. Confeccionada polo estudantado, achega artigos curtos con pequenas anécdotas sobre a historia das matemáticas, as últimas novas, entrevistas, pasatempos e pequenos petiscos teóricos de temas que, ao mellor, non se tratan con profundidade na carreira... 
 
 {{< figure
     src="Logo_MaisMates.png"
@@ -47,8 +47,8 @@ Sementeira é un clube de resolución de problemas de olimpíadas matemáticas. 
     alt="Logo Sementeira"
     nozoom=true
     class="image-proxectos"
-    href="https://cv.usc.es/course/view.php?id=54843"
-    caption="Preme para acceder ao campus virtual do curso!"
+    href="https://sementeira.maega.gal/"
+    caption="Preme para acceder á web de Sementeira!"
     >}}
 {{< /timelineItem >}}
 

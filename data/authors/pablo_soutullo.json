@@ -1,0 +1,8 @@
+{
+    "name": "Pablo Soutullo Parada",
+    "image" : "img/perfil_pablo_soutullo_parada.jpeg",
+    "bio": "Estudante de Matemáticas.",
+    "social": [
+        { "email": "mailto:pablo.soutullo@rai.usc.es" }
+    ]
+}

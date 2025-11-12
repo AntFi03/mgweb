@@ -118,6 +118,10 @@ measurementId = "G-QRYK3SGC8X"
 [fathomAnalytics]
 
 [umamiAnalytics]
+  websiteid = "31cd51cf-2f12-43d0-8871-aec3989e1748"
+  scriptName = "script.js"
+  enableTrackEvent = false
+
 
 [selineAnalytics]
 

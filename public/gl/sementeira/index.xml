@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sementeiras on MaEGA</title>
+    <link>http://localhost:1313/gl/sementeira/</link>
+    <description>Recent content in Sementeiras on MaEGA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>gl</language>
+    <copyright>© 2025 Asociación Galega de Estudantes de Matemáticas</copyright>
+    <lastBuildDate>Tue, 30 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/gl/sementeira/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Guía de Uso da Web de Sementeira</title>
+      <link>http://localhost:1313/gl/sementeira/gu%C3%ADa-de-uso-da-web/</link>
+      <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/gl/sementeira/gu%C3%ADa-de-uso-da-web/</guid>
+      <description>&lt;p&gt;A web &lt;a href=&#34;https://sementeira.maega.gal/&#34; target=&#34;_blank&#34;&gt;https://sementeira.maega.gal/&lt;/a&gt; está aloxada no repositorio de Github &lt;a href=&#34;https://github.com/AntFi03/semweb&#34; target=&#34;_blank&#34;&gt;GitHub - AntFi03/semweb&lt;/a&gt;. Nel están ademais dos contidos, toda a programación necesaria para facer que a web funcione. Para simplificar este proceso temos o repositorio de Github &lt;a href=&#34;https://github.com/AntFi03/semweb-obsidian&#34; target=&#34;_blank&#34;&gt;GitHub - AntFi03/semweb-obsidian&lt;/a&gt; que está enlazado co anterior (os cambios sincronízanse automaticamente) e só contén o &lt;em&gt;contido&lt;/em&gt; da web.&lt;/p&gt;
+&lt;p&gt;Desta forma, a través do software &lt;a href=&#34;https://obsidian.md/&#34; target=&#34;_blank&#34;&gt;Obsidian&lt;/a&gt; que ten soporte de $\LaTeX$ (o mellor que eu coñezo, mellor que Overleaf, TexStudio&amp;hellip;) e é un editor de ficheiros &lt;code&gt;.md&lt;/code&gt; poderedes editar nos vosos equipos directamente o contido da web de xeito autónomo.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

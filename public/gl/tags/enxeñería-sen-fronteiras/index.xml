@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Enxeñería Sen Fronteiras on MaEGA</title>
+    <link>http://localhost:1313/gl/tags/enxe%C3%B1er%C3%ADa-sen-fronteiras/</link>
+    <description>Recent content in Enxeñería Sen Fronteiras on MaEGA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>gl</language>
+    <copyright>© 2025 Asociación Galega de Estudantes de Matemáticas</copyright>
+    <lastBuildDate>Sat, 26 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/gl/tags/enxe%C3%B1er%C3%ADa-sen-fronteiras/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Campaña. &#34;Todo pasa... e todo queda?&#34;</title>
+      <link>http://localhost:1313/gl/novas/campa%C3%B1a-esf-todo-pasa-e-todo-queda/</link>
+      <pubDate>Sat, 26 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/gl/novas/campa%C3%B1a-esf-todo-pasa-e-todo-queda/</guid>
+      <description>&lt;p&gt;Esta semana, as facultades de toda Galicia comezaron a encherse de tarxetiñas con frases de personaxes históricos. Nós somos os culpables! Colaboramos coa asociación &lt;a href=&#34;https://galicia.isf.es/&#34; target=&#34;_blank&#34;&gt;Enxeñería Sen Fronteiras&lt;/a&gt; na difusión da campaña &lt;em&gt;&amp;ldquo;Todo pasa&amp;hellip; e todo queda?&amp;rdquo;&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;campa%C3%B1a/Cartel_explicativo.jpeg&#34; alt=&#34;Cartel explicativo da campaña&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;En que consiste a campaña? 
+    &lt;div id=&#34;en-que-consiste-a-campa%C3%B1a&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#en-que-consiste-a-campa%C3%B1a&#34; aria-label=&#34;Áncora&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;Cando pensamos na presencia da muller na ciencia, sempre intentamos atopar esas mulleres que, pese ás dificultades, conseguiron saír adiante e facer grandes contribucións. Procuramos mulleres que quedaron ocultas na historia, por mor da sociedade patriarcal, e mostramos os seus méritos. Esta campaña muda a filosofía: en vez de intentar buscar referentes femininas, queremos atopar a causa de que non as houbese. Así, &lt;strong&gt;mediante frases que dixeron os seus compañeiros homes, entendemos o motivo polo que non conseguisen prosperar&lt;/strong&gt;. Vemos que, dende unha posición de alto prestixio, trataban ás mulleres dun xeito insultante, e non as crían capaces de igualar o que eles facían.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/gl/novas/campa%C3%B1a-esf-todo-pasa-e-todo-queda/featured.jpeg" />
+    </item>
+    
+  </channel>
+</rss>
