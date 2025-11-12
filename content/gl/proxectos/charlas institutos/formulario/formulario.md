@@ -14,7 +14,7 @@ Os principais obxectivos da charla serían dar a coñecer os diferentes estudos 
 
 Aportación da charla: <br>
 -Un acercamento á universidade e á vida universitaria, concretamente á facultade de matemáticas. <br>
--Coñecer as distintas areas das matemáticas con exemplos. <br>
+-Coñecer as distintas áreas das matemáticas con exemplos. <br>
 -Un primeiro achegamento ás matemáticas olimpícas (e ao clube olímpico da facultade). <br>
 -Descubrir actividades nas que pode participar o alumnado! 
 
