@@ -17,7 +17,7 @@ O principal obxectivo da charla sería dar a coñecer: <br>
  -A cidade de Santiago de Compostela como cidade universitaria. <br>
  -A asociación máis as súas iniciativas (incluídas actividades de cara o ensino medio).
 
-A charla achega un acercamento á universidade e á vida universitaria, concretamente á facultade de matemáticas, coñecemento sobre as distintas áreas das matemáticas con exemplos, unha primeira aproximación ás matemáticas olimpícas (e ao clube olímpico da facultade), ademais de informar sobre as actividades nas que pode participar o alumnado!
+A charla achega un acercamento á universidade e á vida universitaria, concretamente á facultade de matemáticas; coñecemento sobre as distintas áreas das matemáticas con exemplos, unha primeira aproximación ás matemáticas olimpícas (e ao clube olímpico da facultade), ademais de informar sobre as actividades nas que pode participar o alumnado!
 
 Aínda que non só vai estar centrada na carreira de matemáticas, tamén no proceso de estudar unha carreira universitaria.
 
