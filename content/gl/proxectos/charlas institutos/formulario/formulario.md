@@ -10,14 +10,13 @@ authors:
 
 A Asociación Galega de Estudantes de Matemáticas (MaEGA) realiza charlas en institutos de ensino medio e/ou superior, principalmente a cursos de Bacharelato e 4º da ESO. 
 
-Os principais obxectivos da charla serían dar a coñecer: <br>
- -Os diferentes estudos da facultade de Matemáticas. <br>
- -A facultade de matemáticas. <br>
- -A USC. <br>
- -A cidade de Santiago de Compostela como cidade universitaria. <br>
- -A asociación máis as súas iniciativas (incluídas actividades de cara o ensino medio).
+Os principais obxectivos da charla serían dar a coñecer os diferentes estudos da facultade de Matemáticas, a facultade de matemáticas, a USC, a cidade de Santiago de Compostela como cidade universitaria e a asociación máis as súas iniciativas (incluídas actividades de cara o ensino medio).
 
-A charla achega un acercamento á universidade e á vida universitaria, concretamente á facultade de matemáticas; coñecemento sobre as distintas áreas das matemáticas con exemplos, unha primeira aproximación ás matemáticas olimpícas (e ao clube olímpico da facultade), ademais de informar sobre as actividades nas que pode participar o alumnado!
+Aportación da charla: <br>
+-Un acercamento á universidade e á vida universitaria, concretamente á facultade de matemáticas. <br>
+-Coñecer as distintas areas das matemáticas con exemplos. <br>
+-Un primeiro achegamento ás matemáticas olimpícas (e ao clube olímpico da facultade). <br>
+-Descubrir actividades nas que pode participar o alumnado! 
 
 Aínda que non só vai estar centrada na carreira de matemáticas, tamén no proceso de estudar unha carreira universitaria.
 
