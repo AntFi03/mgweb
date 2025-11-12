@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Inácio on MaEGA</title>
+    <link>https://maega.gal/es/authors/in%C3%A1cio/</link>
+    <description>Recent content in Inácio on MaEGA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <copyright>© 2025 Asociación Gallega de Estudantes de Matemáticas</copyright>
+    <lastBuildDate>Wed, 12 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://maega.gal/es/authors/in%C3%A1cio/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Charlas en institutos</title>
+      <link>https://maega.gal/es/proxectos/charlas-institutos/formulario/formulario/</link>
+      <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://maega.gal/es/proxectos/charlas-institutos/formulario/formulario/</guid>
+      <description>&lt;p&gt;La Asociación Galega de Estudantes de Matemáticas (MaEGA) realiza charlas en institutos de enseñanza media y/o superior, principalmente a cursos de Bachillerato y 4º de la ESO.&lt;/p&gt;
+&lt;p&gt;Los principales objetivos de la charla son dar a conocer los diferentes estudios de la facultad de Matemáticas, la facultad de matemáticas, la USC, la ciudad de Santiago de Compostela como ciudad universitaria y la asociación y sus iniciativas (incluidas actividades de cara la enseñanza media).&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>
