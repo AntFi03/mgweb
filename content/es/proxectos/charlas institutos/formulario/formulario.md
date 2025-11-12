@@ -8,9 +8,9 @@ authors:
   - "Inácio"
 ---
 
-La Asociación Galega de Estudantes de Matemáticas (MaEGA) tiene la intención de realizar charlas en institutos de enseñanza media y/o superior, principalmente a cursos de Bachillerato y 4º de la ESO. 
+La Asociación Galega de Estudantes de Matemáticas (MaEGA) realiza charlas en institutos de enseñanza media y/o superior, principalmente a cursos de Bachillerato y 4º de la ESO. 
 
-El principal objetivo de la charla sería dar a conocer: <br>
+Los principales objetivos de la charla serían dar a conocer: <br>
  -Los diferentes estudios de la facultad de Matemáticas. <br>
  -La facultad de matemáticas. <br>
  -La USC. <br>
