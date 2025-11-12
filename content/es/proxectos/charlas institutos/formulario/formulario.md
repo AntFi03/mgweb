@@ -1,1 +1,26 @@
+---
+title: "Charlas en institutos"
+draft: false
+description: "Formulario para charlas en institutos."
+date: "2025-11-12"
+tags: ["Proxectos", "A Asociación"]
+authors:
+  - "Inácio"
+---
 
+La Asociación Galega de Estudantes de Matemáticas (MaEGA) tiene la intención de realizar charlas en institutos de enseñanza media y/o superior, principalmente a cursos de Bachillerato y 4º de la ESO. 
+
+El principal objetivo de la charla sería dar a conocer: <br>
+ -Los diferentes estudios de la facultad de Matemáticas. <br>
+ -La facultad de matemáticas. <br>
+ -La USC. <br>
+ -La ciudad de Santiago de Compostela como ciudad universitaria. <br>
+ -La asociación y sus iniciativas (incluidas actividades de cara la enseñanza media).
+
+La charla aporta un acercamiento a la universidad y la vida universitaria, concretamente a la facultad de matemáticas; conocimiento sobre las distintas áreas de las matemáticas con ejemplos, una primera aproximación a las matemáticas olimpícas (y al club olímpico de la facultad), ¡además de informar sobre las actividades en las que puede participar el alumnado!
+
+Pero non solo va a estar centrada en la carrera de matemáticas, si no también en el proceso de estudiar una carrera universitaria.
+
+Las charlas van a contar con una duracación máxima de una hora, adaptándola a las necesidades/preferencias de cada centro. Para cualquiera duda o sugerencia de cambio/implementación, podéis contactar con nosotros al correo maega.usc@gmail.com. Si esáis interesados, podréis cubrir el formulario [aquí](https://docs.google.com/forms/d/e/1FAIpQLSfTPsZrPIui9Ja3reYOwTIRcSOZBIdSwcC2ZgWClJgNnrJ7FA/viewform?usp=dialog).
+
+Por parte de MaEGA compartimos el pensamiento de que es indispensable dar a conocer las ciencias para poder desarrollar una formación plena más allá de lo que se enseña en la enseñanza media/superior.
