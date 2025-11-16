@@ -19,10 +19,18 @@ Auras es un programa de amadrinamiento que pone en contacto a alumnas de educaci
     src="Logo_Aurias_completo.png"
     alt="Logo Aurias"
     nozoom=true
+    class="image-proxectos"
     href="https://maega.gal/gl/proxectos/aurias/"
     caption="Haz click para obtener más información!"
     >}}
 {{< /timelineItem >}}
+
+
+{{< timelineItem icon="graduation-cap" header="Charlas en institutos" >}}
+Desde la asociación organizamos charlas en institutos con el objetivo de acercar nuestra experiencia sobre la carrera de matemáticas y sobre la vida universitaria a los jóvenes. 
+<a href="https://maega.gal/gl/proxectos/charlas-institutos/formulario/formulario/">Haz click para obtener más información!</a>
+{{< /timelineItem >}}
+
 
 
 {{< timelineItem icon="globe" header="Máis Mates: revista estudiantil." >}}
@@ -32,6 +40,7 @@ Máis Mates es la revista universitaria de la facultad de matemáticas de la USC
     src="Logo_MaisMates.png"
     alt="Logo Máis Mates"
     nozoom=true
+    class="image-proxectos"
     href="https://www.usc.gal/gl/centro/facultade-matematicas/revista-estudiantil-mates"
     caption="Haz click para obtener más información!"
     >}}
@@ -45,6 +54,7 @@ Sementeira es un club de resolución de problemas de olimiadas matemáticas. Coo
     src="sementeira.png"
     alt="Logo Sementeira"
     nozoom=true
+    class="image-proxectos"
     href="https://sementeira.maega.gal/"
     caption="Haz click para acceder a la web de Sementeira!"
     >}}
