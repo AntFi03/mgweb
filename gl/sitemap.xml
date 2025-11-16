@@ -3,22 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://maega.gal/gl/proxectos/charlas-institutos/</loc>
-    <lastmod>2025-11-12T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://maega.gal/es/proxectos/charlas-institutos/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="gl"
-      href="https://maega.gal/gl/proxectos/charlas-institutos/"
-    />
-  </url>
-  <url>
     <loc>https://maega.gal/gl/</loc>
     <lastmod>2025-11-12T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -35,19 +19,19 @@
     />
   </url>
   <url>
-    <loc>https://maega.gal/gl/proxectos/charlas-institutos/formulario/formulario/</loc>
+    <loc>https://maega.gal/gl/proxectos/charlas-institutos/formulario/</loc>
     <lastmod>2025-11-12T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://maega.gal/es/proxectos/charlas-institutos/formulario/formulario/"
+      href="https://maega.gal/es/proxectos/charlas-institutos/formulario/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="gl"
-      href="https://maega.gal/gl/proxectos/charlas-institutos/formulario/formulario/"
+      href="https://maega.gal/gl/proxectos/charlas-institutos/formulario/"
     />
   </url>
   <url>
