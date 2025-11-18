@@ -8,12 +8,12 @@ authors:
   - "sementeira" 
 ---
 
-Este sábado 22 de novembro celébrase a Primeira Olimpíada Matemática Feminina Galega na Facultade de Matemáticas de Santiago de Compostela e aínda estades a tempo de participar.
+Este sábado 22 de noviembre se celebra la Primera Olimpiada Matemática Femenina Gallega en la Facultad de Matemáticas de Santiago de Compostela y aún estáis a tiempo de participar.
 
-Na competición poden participar: alumnas de Bacharelato ou da segunda etapa da ESO que curse os seus estudios nun centro galego; excepcionalmete poderán participar alumnas da primeira etapa da ESO que acrediten especiais aptitudes, así como as integrantes do proxecto EsTalMat-Galicia.
+En la competición pueden participar: alumnas de Bachillerato o de la segunda etapa de la ESO que curse sus estudios en un centro gallego; excepcionalmete podrán participar alumnas de la primeira etapa de la ESO que acrediten aptitudes especiales, así como las integrantes del proyecto EsTalMat-Galicia.
 
-As probas serán de 10:30 a 13:30 (pregamos chegar con algo de antelación) e tamén contamos cunhas actividades pensadas para a tarde despois de comer, antes da entrega de premios ás 17:30.
+Las pruebas serán de 10:30 a 13:30 (rogamos llegar con algo de antelación) y también contamos con actividades pensadas para la tarde después de comer, antes de la entrega de premios a las 17:30.
 
-Podes premer [aquí](https://www.usc.gal/olympia/omfg/omfg_difusion.html) para máis información e inscribirte [aquí](https://www.usc.gal/olympia/omfg/omfg_inscricion.php) ata o venres 21, incluído ese día.
+Puedes pulsar [aquí](https://www.usc.gal/olympia/omfg/omfg_difusion.html) para más información e inscribirte [aquí](https://www.usc.gal/olympia/omfg/omfg_inscricion.php) hasta el viernes 21, incluido ese día.
 
 ![Cartel](olimpiada.jpg)
