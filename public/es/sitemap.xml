@@ -3,6 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>http://localhost:1313/es/proxectos/charlas-institutos/formulario/</loc>
+    <lastmod>2025-11-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/es/proxectos/</loc>
+    <lastmod>2025-11-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="gl"
+      href="http://localhost:1313/gl/proxectos/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="http://localhost:1313/es/proxectos/"
+    />
+  </url>
+  <url>
     <loc>http://localhost:1313/es/novas/aplicacion-horarios-mates-usc/</loc>
     <lastmod>2025-09-05T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -64,22 +86,6 @@
       rel="alternate"
       hreflang="es"
       href="http://localhost:1313/es/proxectos/aurias/"
-    />
-  </url>
-  <url>
-    <loc>http://localhost:1313/es/proxectos/</loc>
-    <lastmod>2025-02-15T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="gl"
-      href="http://localhost:1313/gl/proxectos/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="http://localhost:1313/es/proxectos/"
     />
   </url>
   <url>

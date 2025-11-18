@@ -29,6 +29,12 @@ pageRef = "proxectos/aurias"
 weight = 2
 
 [[main]]
+name = "Charlas"
+parent = "Proxectos"
+pageRef = "proxectos/charlas institutos/formulario"
+weight = 2
+
+[[main]]
 name = "Ferramentas"
 weight = 3
 

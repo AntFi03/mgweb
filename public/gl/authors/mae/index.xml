@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mae on MaEGA</title>
+    <link>http://localhost:1313/gl/authors/mae/</link>
+    <description>Recent content in Mae on MaEGA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>gl</language>
+    <copyright>© 2025 Asociación Galega de Estudantes de Matemáticas</copyright>
+    <lastBuildDate>Wed, 12 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/gl/authors/mae/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Charlas en institutos</title>
+      <link>http://localhost:1313/gl/proxectos/charlas-institutos/formulario/formulario/</link>
+      <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/gl/proxectos/charlas-institutos/formulario/formulario/</guid>
+      <description>&lt;p&gt;A Asociación Galega de Estudantes de Matemáticas (MaEGA) realiza charlas en institutos de ensino medio e/ou superior, principalmente a cursos de Bacharelato e 4º da ESO.&lt;/p&gt;
+&lt;p&gt;Os principais obxectivos da charla son dar a coñecer os diferentes estudos da facultade de Matemáticas, a facultade de matemáticas, a USC, a cidade de Santiago de Compostela como cidade universitaria e a asociación máis as súas iniciativas (incluídas actividades de cara o ensino medio).&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

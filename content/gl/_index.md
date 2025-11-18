@@ -25,6 +25,12 @@ Auras é un programa de amadriñamento que pon en contacto a alumnas do ensino m
 {{< /timelineItem >}}
 
 
+{{< timelineItem icon="graduation-cap" header="Charlas en institutos" >}}
+Dende a asociación organízanse charlas en institutos co obxectivo de achegar a vida universitaria e a nosa experiencia sobre a carreira de matemáticas aos máis novos. 
+<a href="https://maega.gal/gl/proxectos/charlas-institutos/formulario/formulario/">Preme para obter máis información!</a>
+{{< /timelineItem >}}
+
+
 {{< timelineItem icon="globe" header="Máis Mates: revista estudantil." >}}
 Máis Mates é a revista universitaria da facultade de matemáticas da USC. Confeccionada polo estudantado, achega artigos curtos con pequenas anécdotas sobre a historia das matemáticas, as últimas novas, entrevistas, pasatempos e pequenos petiscos teóricos de temas que, ao mellor, non se tratan con profundidade na carreira... 
 
