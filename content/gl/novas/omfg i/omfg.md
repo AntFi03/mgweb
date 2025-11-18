@@ -16,5 +16,5 @@ As probas serán de 10:30 a 13:30 (pregamos chegar con algo de antelación) e ta
 
 Podes premer [aquí](https://www.usc.gal/olympia/omfg/omfg_difusion.html) para máis información e inscribirte [aquí](https://www.usc.gal/olympia/omfg/omfg_inscricion.php) ata o venres 21, incluído ese día.
 
-![Cartel](olimpiada.jpg)
+![Cartel](featured.jpg)
 
