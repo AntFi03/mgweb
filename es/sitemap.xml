@@ -3,6 +3,38 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>https://maega.gal/es/novas/</loc>
+    <lastmod>2025-11-18T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="gl"
+      href="https://maega.gal/gl/novas/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://maega.gal/es/novas/"
+    />
+  </url>
+  <url>
+    <loc>https://maega.gal/es/novas/omfg-i/omfg/</loc>
+    <lastmod>2025-11-18T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="gl"
+      href="https://maega.gal/gl/novas/omfg-i/omfg/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://maega.gal/es/novas/omfg-i/omfg/"
+    />
+  </url>
+  <url>
     <loc>https://maega.gal/es/proxectos/charlas-institutos/formulario/</loc>
     <lastmod>2025-11-12T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -48,22 +80,6 @@
       rel="alternate"
       hreflang="es"
       href="https://maega.gal/es/novas/aplicacion-horarios-mates-usc/"
-    />
-  </url>
-  <url>
-    <loc>https://maega.gal/es/novas/</loc>
-    <lastmod>2025-09-05T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="gl"
-      href="https://maega.gal/gl/novas/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://maega.gal/es/novas/"
     />
   </url>
   <url>

@@ -7,7 +7,47 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>gl</language>
     <copyright>© 2025 Asociación Galega de Estudantes de Matemáticas</copyright>
-    <lastBuildDate>Wed, 12 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://maega.gal/gl/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 18 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://maega.gal/gl/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Aurias</title>
+      <link>https://maega.gal/gl/tags/aurias/</link>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://maega.gal/gl/tags/aurias/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Novas</title>
+      <link>https://maega.gal/gl/tags/novas/</link>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://maega.gal/gl/tags/novas/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Olimpíada</title>
+      <link>https://maega.gal/gl/tags/olimp%C3%ADada/</link>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://maega.gal/gl/tags/olimp%C3%ADada/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Sementeira</title>
+      <link>https://maega.gal/gl/tags/sementeira/</link>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://maega.gal/gl/tags/sementeira/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>A Asociación</title>
@@ -40,16 +80,6 @@
     </item>
     
     <item>
-      <title>Novas</title>
-      <link>https://maega.gal/gl/tags/novas/</link>
-      <pubDate>Fri, 05 Sep 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://maega.gal/gl/tags/novas/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>ANEM</title>
       <link>https://maega.gal/gl/tags/anem/</link>
       <pubDate>Thu, 26 Jun 2025 00:00:00 +0000</pubDate>
@@ -75,16 +105,6 @@
       <pubDate>Wed, 26 Mar 2025 00:00:00 +0000</pubDate>
       
       <guid>https://maega.gal/gl/tags/liga-matem%C3%A1tica/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Sementeira</title>
-      <link>https://maega.gal/gl/tags/sementeira/</link>
-      <pubDate>Wed, 26 Mar 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://maega.gal/gl/tags/sementeira/</guid>
       <description></description>
       
     </item>
