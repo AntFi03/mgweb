@@ -11,13 +11,13 @@
     
     <item>
       <title>Se acerca la Primera Olimpiada Matemática Femenina Gallega</title>
-      <link>https://maega.gal/es/novas/omfg-i/omfg/</link>
+      <link>https://maega.gal/es/novas/omfg-i/</link>
       <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://maega.gal/es/novas/omfg-i/omfg/</guid>
+      <guid>https://maega.gal/es/novas/omfg-i/</guid>
       <description>&lt;p&gt;Este sábado 22 de noviembre se celebra la Primera Olimpiada Matemática Femenina Gallega en la Facultad de Matemáticas de Santiago de Compostela y aún estáis a tiempo de participar.&lt;/p&gt;
 &lt;p&gt;En la competición pueden participar: alumnas de Bachillerato o de la segunda etapa de la ESO que curse sus estudios en un centro gallego; excepcionalmete podrán participar alumnas de la primeira etapa de la ESO que acrediten aptitudes especiales, así como las integrantes del proyecto EsTalMat-Galicia.&lt;/p&gt;</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://maega.gal/es/novas/omfg-i/featured.jpg" />
     </item>
     
   </channel>
