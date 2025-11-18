@@ -12,10 +12,9 @@ Este sábado 22 de novembro celébrase a Primeira Olimpíada Matemática Feminin
 
 Na competición poden participar: alumnas de Bacharelato ou da segunda etapa da ESO que curse os seus estudios nun centro galego; excepcionalmete poderán participar alumnas da primeira etapa da ESO que acrediten especiais aptitudes, así como as integrantes do proxecto EsTalMat-Galicia.
 
-As probas serán de 10:30 a 13:30 (pregamos chegar con algo de antelación), pero hai unhas actividades pensadas para a tarde despois de comer, antes da entrega de premios ás 17:30.
+As probas serán de 10:30 a 13:30 (pregamos chegar con algo de antelación) e tamén contamos cunhas actividades pensadas para a tarde despois de comer, antes da entrega de premios ás 17:30.
 
-Podes premer [aquí](https://www.usc.gal/olympia/omfg/omfg_difusion.html) para máis información.
+Podes premer [aquí](https://www.usc.gal/olympia/omfg/omfg_difusion.html) para máis información e inscribirte [aquí](https://www.usc.gal/olympia/omfg/omfg_inscricion.php) ata o venres 21, incluído ese día.
 
-![Cartel](media/featured.png)
+![Cartel](olimpiada.jpg)
 
-{{< carousel images="media/olimpiada.jpg" aspectRatio="16-9" interval="1500" >}}
