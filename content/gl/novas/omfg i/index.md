@@ -5,7 +5,8 @@ date: "2025-11-18"
 description: "Este sábado celébrase a Primeira Olimpíada Matemática Feminina Galega, organizada coa axuda de Aurias, e dende Sementeira (o clube olímpico de Mates USC) e MaEGA (a Asociación Galega de Estudantes de Matemáticas) queremos promocionar o evento."
 tags: ["Sementeira", "Aurias", "Olimpíada", "Novas"]
 authors:
-  - "sementeira" 
+  - "sementeira"
+  - "aurias"
 ---
 
 Este sábado 22 de novembro celébrase a Primeira Olimpíada Matemática Feminina Galega na Facultade de Matemáticas de Santiago de Compostela e aínda estades a tempo de participar.

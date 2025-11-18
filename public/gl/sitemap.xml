@@ -3,8 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>http://localhost:1313/gl/novas/omfg-i/</loc>
+    <lastmod>2025-11-18T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="http://localhost:1313/es/novas/omfg-i/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="gl"
+      href="http://localhost:1313/gl/novas/omfg-i/"
+    />
+  </url>
+  <url>
     <loc>http://localhost:1313/gl/</loc>
-    <lastmod>2025-09-30T00:00:00+00:00</lastmod>
+    <lastmod>2025-11-18T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -19,8 +35,40 @@
     />
   </url>
   <url>
+    <loc>http://localhost:1313/gl/novas/</loc>
+    <lastmod>2025-11-18T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="http://localhost:1313/es/novas/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="gl"
+      href="http://localhost:1313/gl/novas/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/gl/proxectos/charlas-institutos/formulario/</loc>
+    <lastmod>2025-11-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="http://localhost:1313/es/proxectos/charlas-institutos/formulario/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="gl"
+      href="http://localhost:1313/gl/proxectos/charlas-institutos/formulario/"
+    />
+  </url>
+  <url>
     <loc>http://localhost:1313/gl/proxectos/</loc>
-    <lastmod>2025-09-30T00:00:00+00:00</lastmod>
+    <lastmod>2025-11-12T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -48,22 +96,6 @@
       rel="alternate"
       hreflang="gl"
       href="http://localhost:1313/gl/novas/aplicacion-horarios-mates-usc/"
-    />
-  </url>
-  <url>
-    <loc>http://localhost:1313/gl/novas/</loc>
-    <lastmod>2025-09-05T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="http://localhost:1313/es/novas/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="gl"
-      href="http://localhost:1313/gl/novas/"
     />
   </url>
   <url>

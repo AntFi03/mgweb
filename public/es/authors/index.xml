@@ -7,7 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>© 2025 Asociación Gallega de Estudantes de Matemáticas</copyright>
-    <lastBuildDate>Wed, 12 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/es/authors/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 18 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/es/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Aurias</title>
+      <link>http://localhost:1313/es/authors/aurias/</link>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/es/authors/aurias/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Sementeira</title>
+      <link>http://localhost:1313/es/authors/sementeira/</link>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/es/authors/sementeira/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Inácio</title>
@@ -35,16 +55,6 @@
       <pubDate>Thu, 26 Jun 2025 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/es/authors/pablo_soutullo/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Aurias</title>
-      <link>http://localhost:1313/es/authors/aurias/</link>
-      <pubDate>Sat, 15 Feb 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/es/authors/aurias/</guid>
       <description></description>
       
     </item>
