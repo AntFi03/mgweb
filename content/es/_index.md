@@ -13,7 +13,7 @@ La Asociación Gallega de Estudiantes de Matemáticas (MaEGA) nace a principios 
 {{< timeline >}}
 
 {{< timelineItem icon="wand-magic-sparkles" header="Aurias: matemáticas entre matemáticas.">}}
-Auras es un programa de amadrinamiento que pone en contacto a alumnas de educación secundaria con interés por profundizar en las matemáticas, informarse sobre la vida universitaria o participar en actividades lúdicas como las olimpiadas matemáticas; con estudiantes del grado en Matemáticas (y dobles grados con Informática y Física).
+Aurias es un programa de amadrinamiento que pone en contacto a alumnas de educación secundaria con interés por profundizar en las matemáticas, informarse sobre la vida universitaria o participar en actividades lúdicas como las olimpiadas matemáticas; con estudiantes del grado en Matemáticas (y dobles grados con Informática y Física).
 
 {{< figure
     src="Logo_Aurias_completo.png"
