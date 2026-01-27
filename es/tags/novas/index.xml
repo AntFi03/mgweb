@@ -7,7 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>© 2026 Asociación Gallega de Estudantes de Matemáticas</copyright>
-    <lastBuildDate>Tue, 18 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://maega.gal/es/tags/novas/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 23 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://maega.gal/es/tags/novas/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Aplicación. Configurador de horarios para el alumnado de matemáticas de la USC (Segundo Cuatrimestre)</title>
+      <link>https://maega.gal/es/novas/aplicacion-horarios-mates-usc-2/</link>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://maega.gal/es/novas/aplicacion-horarios-mates-usc-2/</guid>
+      <description>&lt;p&gt;Con la llegada del nuevo cuatrimestre, ponemos a disposición del alumnado de la facultad de matemáticas (y doble grado con física) una herramienta para agilizar el habitualmente tedioso proceso de configurar el horario lectivo al comenzar un nuevo curso académico.&lt;/p&gt;
+&lt;p&gt;Mediante un formulario, el alumnado podrá seleccionar los grupos expositivos e interactivos de las asignaturas qeu esté cursando, pudiendo ser estas de diferentes cursos. Luego de enviar el formulario recibirá un correo notificándole que se le acaba de compartir vía Google Drive un fichero PDF con su horario personalizado.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://maega.gal/es/novas/aplicacion-horarios-mates-usc-2/feature.png" />
+    </item>
     
     <item>
       <title>Se acerca la Primera Olimpiada Matemática Femenina Gallega</title>
@@ -18,17 +29,6 @@
       <description>&lt;p&gt;Este sábado 22 de noviembre se celebra la Primera Olimpiada Matemática Femenina Gallega en la Facultad de Matemáticas de Santiago de Compostela y aún estáis a tiempo de participar.&lt;/p&gt;
 &lt;p&gt;En la competición pueden participar: alumnas de Bachillerato o de la segunda etapa de la ESO que curse sus estudios en un centro gallego; excepcionalmete podrán participar alumnas de la primeira etapa de la ESO que acrediten aptitudes especiales, así como las integrantes del proyecto EsTalMat-Galicia.&lt;/p&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://maega.gal/es/novas/omfg-i/featured.jpg" />
-    </item>
-    
-    <item>
-      <title>Aplicación. Configurador de horarios para el alumnado de matemáticas de la USC</title>
-      <link>https://maega.gal/es/novas/aplicacion-horarios-mates-usc-2/</link>
-      <pubDate>Fri, 05 Sep 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://maega.gal/es/novas/aplicacion-horarios-mates-usc-2/</guid>
-      <description>&lt;p&gt;Con la llegada del nuevo cuatrimestre, ponemos a disposición del alumnado de la facultad de matemáticas (y doble grado con física) una herramienta para agilizar el habitualmente tedioso proceso de configurar el horario lectivo al comenzar un nuevo curso académico.&lt;/p&gt;
-&lt;p&gt;Mediante un formulario, el alumnado podrá seleccionar los grupos expositivos e interactivos de las asignaturas qeu esté cursando, pudiendo ser estas de diferentes cursos. Luego de enviar el formulario recibirá un correo notificándole que se le acaba de compartir vía Google Drive un fichero PDF con su horario personalizado.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://maega.gal/es/novas/aplicacion-horarios-mates-usc-2/feature.png" />
     </item>
     
     <item>

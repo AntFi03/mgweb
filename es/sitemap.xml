@@ -3,8 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>https://maega.gal/es/novas/aplicacion-horarios-mates-usc-2/</loc>
+    <lastmod>2026-01-23T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="gl"
+      href="https://maega.gal/gl/novas/aplicacion-horarios-mates-usc-2/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://maega.gal/es/novas/aplicacion-horarios-mates-usc-2/"
+    />
+  </url>
+  <url>
     <loc>https://maega.gal/es/novas/</loc>
-    <lastmod>2025-11-18T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-23T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -64,22 +80,6 @@
       rel="alternate"
       hreflang="es"
       href="https://maega.gal/es/proxectos/"
-    />
-  </url>
-  <url>
-    <loc>https://maega.gal/es/novas/aplicacion-horarios-mates-usc-2/</loc>
-    <lastmod>2025-09-05T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="gl"
-      href="https://maega.gal/gl/novas/aplicacion-horarios-mates-usc-2/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://maega.gal/es/novas/aplicacion-horarios-mates-usc-2/"
     />
   </url>
   <url>
