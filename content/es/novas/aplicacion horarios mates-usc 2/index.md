@@ -16,12 +16,19 @@ Mediante un formulario, el alumnado podrá seleccionar los grupos expositivos e 
   height="620"
   width="569">
 </iframe> -->
-<div class="cbutton">
-  <button>Configura aquí o teu horario!</button>
-</div>
-<style>
 
-.cbutton {
+<div class="center-cbtn">
+  <cbutton>Configura aquí tu horario!</cbutton>
+</div>
+
+<style>
+.center-cbtn {
+  display: flex;
+  justify-content: center;
+  margin: 2em 0;
+}
+
+cbutton {
  appearance: none;
  background-color: transparent;
  border: 0.125em solid #1A1A1A;
@@ -29,16 +36,16 @@ Mediante un formulario, el alumnado podrá seleccionar los grupos expositivos e 
  box-sizing: border-box;
  color: #3B3B3B;
  cursor: pointer;
- display: flex; /* Cambiado a inline-flex */
+ display: inline-flex; /* Cambiado a inline-flex */
  align-items: center;  /* Centrado vertical */
  justify-content: center;
  font-size: 16px;
  font-weight: 600;
  line-height: normal;
+ margin: 0;
  min-height: 3.75em;
  min-width: 0;
  outline: none;
- margin: 2em 0;
  padding: .25em 1em;
  text-align: center;
  text-decoration: none;
@@ -49,36 +56,26 @@ Mediante un formulario, el alumnado podrá seleccionar los grupos expositivos e 
  will-change: transform;
 }
 
-.cbutton:is(.dark *) {
- background-color: #334155;
- border: 0.125em solid #334155;
- color: #cbd5e1;
-}
-
-.cbutton:disabled {
+cbutton:disabled {
  pointer-events: none;
 }
 
-.cbutton:hover {
+cbutton:hover {
  color: #fff;
  background-color: #1A1A1A;
  box-shadow: rgba(0, 0, 0, 0.25) 0 8px 15px;
- transform: translateY(-1px);
+ transform: translateY(-2px);
 }
 
-.cbutton:hover:is(.dark *) {
- color: #1e293b;
- background-color: #60a5fa;
-}
-
-.cbutton:active {
+cbutton:active {
  box-shadow: none;
  transform: translateY(0);
 }
 </style>
+
 <script>
 document.addEventListener('DOMContentLoaded', function() {
-  const btn = document.querySelector('.cbutton');
+  const btn = document.querySelector('cbutton');
   if (btn) {
     btn.addEventListener('click', function() {
       window.open('https://forms.gle/sbBXRvrB8cci31pF8', '_blank');
