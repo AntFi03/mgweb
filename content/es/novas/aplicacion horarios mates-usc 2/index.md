@@ -1,7 +1,7 @@
 ---
-title: Aplicación. Configurador de horarios para el alumnado de matemáticas de la USC
+title: Aplicación. Configurador de horarios para el alumnado de matemáticas de la USC (Segundo Cuatrimestre)
 draft: false
-date: "2025-09-05"
+date: "2026-01-23"
 description: ""
 tags: ["Novas", "MaEGA"]
 authors:
