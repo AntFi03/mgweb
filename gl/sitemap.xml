@@ -7,6 +7,16 @@
     <lastmod>2026-01-23T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://maega.gal/es/novas/aplicacion-horarios-mates-usc-2/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="gl"
+      href="https://maega.gal/gl/novas/aplicacion-horarios-mates-usc-2/"
+    />
   </url>
   <url>
     <loc>https://maega.gal/gl/</loc>
