@@ -44,6 +44,12 @@ parent = "Ferramentas"
 url = "https://forms.gle/sbBXRvrB8cci31pF8"
 weight = 3
 
+[[main]]
+name = "NubeMates USC"
+parent = "Ferramentas"
+url = "https://nubeusc.sharepoint.com/sites/NubeMatesUSC/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FNubeMatesUSC%2FShared%20Documents%2FNubeMatesUSC&viewid=65c1bb49-ecf2-4603-8024-c64583c7b5f0"
+weight = 3
+
 [[subnavigation]]
 name = "Estatutos"
 pageRef = "asociacion/estatutos"
