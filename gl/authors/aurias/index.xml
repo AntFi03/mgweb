@@ -2,34 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Aurias on MaEGA</title>
-    <link>https://maega.gal/gl/authors/aurias/</link>
+    <link>http://localhost:1313/gl/authors/aurias/</link>
     <description>Recent content in Aurias on MaEGA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>gl</language>
-    <copyright>© 2026 Asociación Galega de Estudantes de Matemáticas</copyright>
-    <lastBuildDate>Tue, 18 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://maega.gal/gl/authors/aurias/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2025 Asociación Galega de Estudantes de Matemáticas</copyright>
+    <lastBuildDate>Tue, 18 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/gl/authors/aurias/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Achégase a Primeira Olimpíada Matemática Feminina Galega</title>
-      <link>https://maega.gal/gl/novas/omfg-i/</link>
+      <link>http://localhost:1313/gl/novas/omfg-i/</link>
       <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://maega.gal/gl/novas/omfg-i/</guid>
+      <guid>http://localhost:1313/gl/novas/omfg-i/</guid>
       <description>&lt;p&gt;Este sábado 22 de novembro celébrase a Primeira Olimpíada Matemática Feminina Galega na Facultade de Matemáticas de Santiago de Compostela e aínda estades a tempo de participar.&lt;/p&gt;
 &lt;p&gt;Na competición poden participar: alumnas de Bacharelato ou da segunda etapa da ESO que curse os seus estudios nun centro galego; excepcionalmete poderán participar alumnas da primeira etapa da ESO que acrediten especiais aptitudes, así como as integrantes do proxecto EsTalMat-Galicia.&lt;/p&gt;
 &lt;p&gt;As probas serán de 10:30 a 13:30 (pregamos chegar con algo de antelación) e tamén contamos cunhas actividades pensadas para a tarde despois de comer, antes da entrega de premios ás 17:30.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://maega.gal/gl/novas/omfg-i/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/gl/novas/omfg-i/featured.jpg" />
     </item>
     
     <item>
       <title>Aurias</title>
-      <link>https://maega.gal/gl/proxectos/aurias/</link>
+      <link>http://localhost:1313/gl/proxectos/aurias/</link>
       <pubDate>Sat, 15 Feb 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://maega.gal/gl/proxectos/aurias/</guid>
-      <description>&lt;p&gt;Aurias é un proxecto de MaEGA, a Asociación Galega de Estudantes de Matemáticas, creado en 2025 para promover a participación de rapazas de entre trece e dezasete anos en múltiples actividades asociadas coas matemáticas, particularmente nas Olimpíadas Matemáticas e outras competicións semellantes. A iniciativa xorde pola preocupación das estudantes do Grao en Matemáticas ante a baixa porcentaxe de participación de mulleres nestas actividades.&lt;/p&gt;
-&lt;p&gt;No 2025 só houbo un 28% de participación feminina na Olimpíada de Bacharelato, que se traduce en 101 rapaces e 40 rapazas. Este ano, en 2026, despois do primeiro ano de programa e a primeira Olimpíada Matemática Feminina Galega, aumentou ao 33,4%&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://maega.gal/gl/proxectos/aurias/featured.png" />
+      <guid>http://localhost:1313/gl/proxectos/aurias/</guid>
+      <description>&lt;p&gt;Aurias é un proxecto de MaEGA, a Asociación Galega de Estudantes de Matemáticas, creado neste 2025 para promover a participación de rapazas de entre trece e dezasete anos en múltiples actividades asociadas coas matemáticas, particularmente nas Olimpíadas Matemáticas e outras competicións semellantes. A iniciativa xorde pola preocupación das estudantes do Grao en Matemáticas ante a baixa porcentaxe de participación de mulleres nestas actividades. Por exemplo, este ano só houbo un 28% de participación feminina na Olimpíada de Bacharelato, que se traduce en 101 rapaces e 40 rapazas.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/gl/proxectos/aurias/featured.png" />
     </item>
     
   </channel>
