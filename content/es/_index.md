@@ -12,27 +12,6 @@ La Asociación Gallega de Estudiantes de Matemáticas (MaEGA) nace a principios 
 ## Nuestros proyectos
 {{< timeline >}}
 
-{{< timelineItem icon="wand-magic-sparkles" header="Aurias: matemáticas entre matemáticas.">}}
-Aurias es un programa de amadrinamiento que pone en contacto a alumnas de educación secundaria con interés por profundizar en las matemáticas, informarse sobre la vida universitaria o participar en actividades lúdicas como las olimpiadas matemáticas; con estudiantes del grado en Matemáticas (y dobles grados con Informática y Física).
-
-{{< figure
-    src="Logo_Aurias_completo.png"
-    alt="Logo Aurias"
-    nozoom=true
-    class="image-proxectos"
-    href="https://maega.gal/gl/proxectos/aurias/"
-    caption="Haz click para obtener más información!"
-    >}}
-{{< /timelineItem >}}
-
-
-{{< timelineItem icon="graduation-cap" header="Charlas en institutos" >}}
-Desde la asociación organizamos charlas en institutos con el objetivo de acercar nuestra experiencia sobre la carrera de matemáticas y sobre la vida universitaria a los jóvenes. 
-<a href="https://maega.gal/gl/proxectos/charlas-institutos/formulario/formulario/">Haz click para obtener más información!</a>
-{{< /timelineItem >}}
-
-
-
 {{< timelineItem icon="globe" header="Máis Mates: revista estudiantil." >}}
 Máis Mates es la revista universitaria de la facultad de matemáticas de la USC. Confeccionada por los alumnos, publica artículos cortso con pequeñas anécdotas sobre la historia de las matemáticas, las últimas novedades, entrevistas, pasatiempos y pequeños entrantes teóricos de temas que, de normal, no se tratan en la carrera... 
 
@@ -44,6 +23,12 @@ Máis Mates es la revista universitaria de la facultad de matemáticas de la USC
     href="https://www.usc.gal/gl/centro/facultade-matematicas/revista-estudiantil-mates"
     caption="Haz click para obtener más información!"
     >}}
+{{< /timelineItem >}}
+
+
+{{< timelineItem icon="graduation-cap" header="Charlas en institutos" >}}
+Desde la asociación organizamos charlas en institutos con el objetivo de acercar nuestra experiencia sobre la carrera de matemáticas y sobre la vida universitaria a los jóvenes. 
+<a href="https://maega.gal/gl/proxectos/charlas-institutos/formulario/formulario/">Haz click para obtener más información!</a>
 {{< /timelineItem >}}
 
 

@@ -11,26 +11,6 @@ A Asociación Galega de Estudantes de Matemáticas (MaEGA) nace a comezos do 202
 ## Os nosos proxectos
 {{< timeline >}}
 
-{{< timelineItem icon="wand-magic-sparkles" header="Aurias: matemáticas entre matemáticas.">}}
-Aurias é un programa de amadriñamento que pon en contacto a alumnas do ensino medio con interese por profundar nas matemáticas, informarse sobre a vida universitaria ou participar en actividades lúdicas como as olimpíadas matemáticas; con estudantes do grao en Matemáticas (e os dobres graos con Informática e Física).
-
-{{< figure
-    src="Logo_Aurias_completo.png"
-    alt="Logo Aurias"
-    nozoom=true
-    class="image-proxectos"
-    href="https://maega.gal/gl/proxectos/aurias/"
-    caption="Preme para obter máis información!"
-    >}}
-{{< /timelineItem >}}
-
-
-{{< timelineItem icon="graduation-cap" header="Charlas en institutos" >}}
-Dende a asociación organízanse charlas en institutos co obxectivo de achegar a vida universitaria e a nosa experiencia sobre a carreira de matemáticas aos máis novos. 
-<a href="https://maega.gal/gl/proxectos/charlas-institutos/formulario/formulario/">Preme para obter máis información!</a>
-{{< /timelineItem >}}
-
-
 {{< timelineItem icon="globe" header="Máis Mates: revista estudantil." >}}
 Máis Mates é a revista universitaria da facultade de matemáticas da USC. Confeccionada polo estudantado, achega artigos curtos con pequenas anécdotas sobre a historia das matemáticas, as últimas novas, entrevistas, pasatempos e pequenos petiscos teóricos de temas que, ao mellor, non se tratan con profundidade na carreira... 
 
@@ -42,6 +22,12 @@ Máis Mates é a revista universitaria da facultade de matemáticas da USC. Conf
     href="https://www.usc.gal/gl/centro/facultade-matematicas/revista-estudiantil-mates"
     caption="Preme para obter máis información!"
     >}}
+{{< /timelineItem >}}
+
+
+{{< timelineItem icon="graduation-cap" header="Charlas en institutos" >}}
+Dende a asociación organízanse charlas en institutos co obxectivo de achegar a vida universitaria e a nosa experiencia sobre a carreira de matemáticas aos máis novos. 
+<a href="https://maega.gal/gl/proxectos/charlas-institutos/formulario/formulario/">Preme para obter máis información!</a>
 {{< /timelineItem >}}
 
 

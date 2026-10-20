@@ -7,7 +7,7 @@ baseURL = "https://maega.gal/"
 defaultContentLanguage = "gl"
 defaultContentLanguageInSubdir = true
 
-mainSections = ["novas", "aurias"]
+mainSections = ["novas"]
 
 [languages]
   [languages.gl]

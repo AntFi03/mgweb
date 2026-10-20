@@ -23,12 +23,6 @@ url = "https://www.usc.gal/gl/centro/facultade-matematicas/revista-estudiantil-m
 weight = 2
 
 [[main]]
-name = "Aurias"
-parent = "Proxectos"
-pageRef = "proxectos/aurias"
-weight = 2
-
-[[main]]
 name = "Charlas"
 parent = "Proxectos"
 pageRef = "proxectos/charlas institutos/formulario"
